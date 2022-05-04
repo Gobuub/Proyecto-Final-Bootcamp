@@ -12,6 +12,6 @@ Estructura de carpetas.
   - En la carpeta img:
     - Imagenes generadas con nuestros datos utilizadas para la ppt. 
   - En la carpeta data
-    - Dataware house con todos los archivos obtenidos con el notebook de web scrapping 
+    - Data warehouse con todos los archivos obtenidos con el notebook de web scrapping 
 
-https://github.com/Gobuub/Proyecto-Final-Bootcamp/blob/main/img/graph.png
+![Image text](https://github.com/Gobuub/Proyecto-Final-Bootcamp/blob/main/img/graph.png)
