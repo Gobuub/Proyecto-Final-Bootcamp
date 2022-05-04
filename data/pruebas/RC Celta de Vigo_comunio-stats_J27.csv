@@ -1,0 +1,29 @@
+Team_id,Team,Player,Position,Total_Points,Points_Average,Value,On_start_%,Last_5_games_points,J_23,J_24,J_25,J_26,J_27,Avg_last_5_games
+19,RC Celta de Vigo,Matías Dituro,PT,134,5,5040000,100,"['5', '7', '2', '5', '0']",5,7,2,5,0,3.8
+19,RC Celta de Vigo,Rubén Blanco,PT,0,0,350000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0
+19,RC Celta de Vigo,Javi Galán,DF,117,4.3,4390000,100,"['6', '4', '9', '2', '1']",6,4,9,2,1,4.4
+19,RC Celta de Vigo,Hugo Mallo,DF,78,3.9,3140000,74,"['7', '6', '5', '3', '-2']",7,6,5,3,-2,3.8
+19,RC Celta de Vigo,Néstor Araujo,DF,74,3.1,2060000,70,"['-', '5', '3', '1', '1']",0,5,3,1,1,2.0
+19,RC Celta de Vigo,Aidoo,DF,70,3.3,2080000,70,"['5', '5', '4', '2', '-1']",5,5,4,2,-1,3.0
+19,RC Celta de Vigo,Jeison Murillo,DF,48,3.4,1420000,41,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0
+19,RC Celta de Vigo,Kevin Vázquez,DF,32,4.6,650000,22,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0
+19,RC Celta de Vigo,Carlos Domínguez,DF,20,4,400000,11,"['5', '-', '2', '-', '-']",5,0,2,0,0,1.4
+19,RC Celta de Vigo,José Fontán,DF,6,1.2,350000,7,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0
+19,RC Celta de Vigo,Denis Suárez,MD,129,4.8,5460000,85,"['10', '3', '4', '4', '8']",10,3,4,4,8,5.8
+19,RC Celta de Vigo,Brais Méndez,MD,123,4.7,5890000,93,"['18', '4', '4', '4', '-1']",18,4,4,4,-1,5.8
+19,RC Celta de Vigo,Fran Beltrán,MD,108,4,3840000,78,"['5', '8', '6', '5', '3']",5,8,6,5,3,5.4
+19,RC Celta de Vigo,Franco Cervi,MD,107,4.1,4090000,56,"['4', '4', '14', '2', '3']",4,4,14,2,3,5.4
+19,RC Celta de Vigo,Renato Tapia,MD,68,3.2,2100000,44,"['1', '3', '2', '-', '4']",1,3,2,0,4,2.0
+19,RC Celta de Vigo,Nolito,MD,62,2.6,1780000,41,"['-', '-', '-', '2', '-']",0,0,0,2,0,0.4
+19,RC Celta de Vigo,Augusto Solari,MD,33,1.8,500000,7,"['-', '0', '-', '4', '2']",0,0,0,4,2,1.2
+19,RC Celta de Vigo,Gabriel Veiga,MD,4,2,250000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0
+19,RC Celta de Vigo,Hugo Álvarez,MD,0,0,240000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0
+19,RC Celta de Vigo,Orbelín Pineda,MD,2,2,2160000,0,"['-', '-', '2', '-', '-']",0,0,2,0,0,0.4
+19,RC Celta de Vigo,Holsgrove,MD,0,0,250000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0
+19,RC Celta de Vigo,Alfonso González,MD,0,0,450000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0
+19,RC Celta de Vigo,Iago Aspas,DL,202,7.8,17290000,93,"['6', '4', '2', '5', '20']",6,4,2,5,20,7.4
+19,RC Celta de Vigo,Santi Mina,DL,138,5.3,8800000,93,"['5', '2', '2', '4', '3']",5,2,2,4,3,3.2
+19,RC Celta de Vigo,Thiago Galhardo,DL,63,3,1290000,11,"['-', '2', '3', '2', '10']",0,2,3,2,10,3.4
+19,RC Celta de Vigo,Íker Losada,DL,0,0,340000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0
+19,RC Celta de Vigo,Miguel Rodríguez,DL,0,0,200000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0
+19,RC Celta de Vigo,Lautaro de León,DL,0,0,360000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0

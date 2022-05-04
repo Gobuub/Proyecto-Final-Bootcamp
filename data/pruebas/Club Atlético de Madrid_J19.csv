@@ -1,0 +1,19 @@
+Team_id,Team,Player,Position,Matchs,On_start_%,Goals,Assists,Total_Points,Points_Average,Last_5_games_points,J_15,J_16,J_17,J_18,J_19,Avg_last_5_games,Value
+2,Club Atlético de Madrid,Oblak,PT,19,100,0,0,55,2.9,"['1', '0', '0', '-', '5']",1,0,0,0,5,1.2,5000000
+2,Club Atlético de Madrid,Lecomte,PT,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,260000
+2,Club Atlético de Madrid,Mario Hermoso,DF,18,84,0,1,60,3.3,"['2', '2', '2', '-', '5']",2,2,2,0,5,2.2,3320000
+2,Club Atlético de Madrid,Felipe,DF,12,47,2,1,53,4.4,"['5', '1', '12', '-', '-']",5,1,12,0,0,3.6,2960000
+2,Club Atlético de Madrid,Renan Lodi,DF,15,26,0,1,43,2.9,"['6', '3', '-', '-', '8']",6,3,0,0,8,3.4,1990000
+2,Club Atlético de Madrid,Vrsaljko,DF,6,5,1,1,28,4.7,"['1', '-', '-', '-', '-']",1,0,0,0,0,0.2,1230000
+2,Club Atlético de Madrid,Rodrigo de Paul,MD,18,63,0,1,87,4.8,"['5', '6', '4', '-', '2']",5,6,4,0,2,3.4,8310000
+2,Club Atlético de Madrid,Lemar,MD,13,53,3,4,79,6.1,"['2', '4', '9', '-', '5']",2,4,9,0,5,4.0,6880000
+2,Club Atlético de Madrid,Kondogbia,MD,14,47,0,0,68,4.9,"['6', '4', '4', '-', '10']",6,4,4,0,10,4.8,3960000
+2,Club Atlético de Madrid,Koke,MD,15,79,0,0,64,4.3,"['8', '4', '6', '-', '-']",8,4,6,0,0,3.6,6760000
+2,Club Atlético de Madrid,Marcos Llorente,MD,13,68,0,1,53,4.1,"['4', '4', '1', '-', '-']",4,4,1,0,0,1.8,9370000
+2,Club Atlético de Madrid,Héctor Herrera,MD,9,11,0,0,38,4.2,"['-', '5', '-', '-', '-']",0,5,0,0,0,1.0,970000
+2,Club Atlético de Madrid,Carlos Martín,MD,1,0,0,0,3,3,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,320000
+2,Club Atlético de Madrid,Correa,DL,19,68,6,4,107,5.6,"['6', '2', '3', '-', '16']",6,2,3,0,16,5.4,9490000
+2,Club Atlético de Madrid,Luis Suárez,DL,19,68,7,1,95,5,"['2', '2', '2', '-', '5']",2,2,2,0,5,2.2,14000000
+2,Club Atlético de Madrid,Griezmann,DL,13,79,3,1,84,5.3,"['5', '3', '-', '-', '-']",5,3,0,0,0,1.6,15710000
+2,Club Atlético de Madrid,Matheus Cunha,DL,15,11,3,1,64,4.3,"['11', '2', '2', '-', '3']",11,2,2,0,3,3.6,7440000
+2,Club Atlético de Madrid,João Félix,DL,11,21,2,1,54,4.9,"['2', '4', '3', '-', '-']",2,4,3,0,0,1.8,8130000

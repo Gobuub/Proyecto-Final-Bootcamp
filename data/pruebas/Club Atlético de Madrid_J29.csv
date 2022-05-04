@@ -1,0 +1,25 @@
+Team_id,Team,Player,Position,Matchs,On_start_%,Goals,Assists,Total_Points,Points_Average,Last_5_games_points,J_25,J_26,J_27,J_28,J_29,Avg_last_5_games,Value
+2,Club Atlético de Madrid,Oblak,PT,29,100,0,0,92,3.2,"['9', '8', '6', '1', '8']",9,8,6,1,8,6.4,3970000
+2,Club Atlético de Madrid,Lecomte,PT,23,0,1,1,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,270000
+2,Club Atlético de Madrid,José Giménez,DF,25,66,3,5,91,4.8,"['2', '5', '4', '7', '5']",2,5,4,7,5,4.6,4230000
+2,Club Atlético de Madrid,Savic,DF,21,69,0,2,90,4.5,"['5', '7', '-', '5', '6']",5,7,0,5,6,4.6,3850000
+2,Club Atlético de Madrid,Mario Hermoso,DF,20,66,0,0,87,3.6,"['2', '-', '-', '-', '-']",2,0,0,0,0,0.4,2490000
+2,Club Atlético de Madrid,Renan Lodi,DF,24,34,2,1,76,3.5,"['-', '20', '1', '3', '3']",0,20,1,3,3,5.4,3580000
+2,Club Atlético de Madrid,Felipe,DF,27,41,1,1,62,3.3,"['4', '-', '5', '2', '-']",4,0,5,2,0,2.2,2060000
+2,Club Atlético de Madrid,Vrsaljko,DF,19,21,0,1,56,4,"['7', '7', '3', '-', '-']",7,7,3,0,0,3.4,2010000
+2,Club Atlético de Madrid,Reinildo Mandava,DF,29,24,11,5,33,4.1,"['6', '7', '2', '4', '6']",6,7,2,4,6,5.0,4340000
+2,Club Atlético de Madrid,Rodrigo de Paul,MD,28,66,9,2,133,4.9,"['-', '3', '7', '13', '7']",0,3,7,13,7,6.0,7430000
+2,Club Atlético de Madrid,Ferreira Carrasco,MD,20,72,4,5,132,5.3,"['2', '1', '4', '1', '-']",2,1,4,1,0,1.6,8890000
+2,Club Atlético de Madrid,Lemar,MD,17,52,3,2,108,5.4,"['-', '2', '9', '-', '-']",0,2,9,0,0,2.2,6760000
+2,Club Atlético de Madrid,Kondogbia,MD,20,45,1,2,104,5.2,"['3', '12', '-', '-', '4']",3,12,0,0,4,3.8,3780000
+2,Club Atlético de Madrid,Koke,MD,19,76,2,1,92,4,"['2', '6', '11', '2', '5']",2,6,11,2,5,5.2,4440000
+2,Club Atlético de Madrid,Marcos Llorente,MD,15,72,0,0,92,4.4,"['5', '-', '-', '1', '10']",5,0,0,1,10,3.2,7810000
+2,Club Atlético de Madrid,Daniel Wass,MD,21,66,6,4,76,3.8,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,3700000
+2,Club Atlético de Madrid,Héctor Herrera,MD,22,24,2,1,68,3.8,"['6', '6', '1', '3', '2']",6,6,1,3,2,3.6,2140000
+2,Club Atlético de Madrid,Carlos Martín,MD,18,0,0,0,3,3,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,280000
+2,Club Atlético de Madrid,Javi Serrano,MD,8,0,0,0,-4,-1.3,"['1', '-', '2', '-7', '-']",1,0,2,-7,0,-0.8,590000
+2,Club Atlético de Madrid,Correa,DL,14,62,1,1,159,5.5,"['10', '3', '6', '2', '-7']",10,3,6,2,-7,2.8,12420000
+2,Club Atlético de Madrid,Luis Suárez,DL,20,59,5,2,136,4.9,"['8', '2', '2', '3', '4']",8,2,2,3,4,3.8,10200000
+2,Club Atlético de Madrid,João Félix,DL,3,38,0,1,128,6.1,"['14', '6', '16', '9', '7']",14,6,16,9,7,10.4,13530000
+2,Club Atlético de Madrid,Griezmann,DL,1,59,0,0,102,5.1,"['-', '3', '8', '2', '5']",0,3,8,2,5,3.6,12850000
+2,Club Atlético de Madrid,Matheus Cunha,DL,4,17,0,0,91,4.6,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,5420000

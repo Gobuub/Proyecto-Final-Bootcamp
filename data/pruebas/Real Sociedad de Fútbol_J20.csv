@@ -1,0 +1,27 @@
+Team_id,Team,Player,Position,Matchs,On_start_%,Goals,Assists,Total_Points,Points_Average,Last_5_games_points,J_16,J_17,J_18,J_19,J_20,Avg_last_5_games,Value
+13,Real Sociedad de Fútbol,Alex Remiro,PT,17,85,0,0,84,4.9,"['-4', '-', '-', '5', '5']",-4,0,0,5,5,1.2,3710000
+13,Real Sociedad de Fútbol,Ryan,PT,3,15,0,0,15,5,"['-', '2', '-', '-', '-']",0,2,0,0,0,0.4,460000
+13,Real Sociedad de Fútbol,Aritz Elustondo,DF,18,80,3,1,91,5.1,"['0', '2', '-', '2', '5']",0,2,0,2,5,1.8,5280000
+13,Real Sociedad de Fútbol,Gorosabel,DF,15,60,0,1,56,3.7,"['2', '-', '-', '-', '2']",2,0,0,0,2,0.8,2620000
+13,Real Sociedad de Fútbol,Zubeldia,DF,12,35,0,1,35,2.9,"['3', '3', '-', '2', '-']",3,3,0,2,0,1.6,840000
+13,Real Sociedad de Fútbol,Aihen Muñoz,DF,16,65,0,0,32,2,"['1', '2', '-', '-', '4']",1,2,0,0,4,1.4,1150000
+13,Real Sociedad de Fútbol,Diego Rico,DF,8,30,0,0,31,3.9,"['-', '2', '-', '7', '-']",0,2,0,7,0,1.8,1620000
+13,Real Sociedad de Fútbol,Jon Pacheco,DF,4,0,0,0,11,2.8,"['-', '-', '-', '2', '-']",0,0,0,2,0,0.4,320000
+13,Real Sociedad de Fútbol,Cristo Romero,DF,1,0,0,0,2,2,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,340000
+13,Real Sociedad de Fútbol,Germán Valera,MD,3,0,0,0,6,2,"['-', '-', '-', '-', '6']",0,0,0,0,6,1.2,290000
+13,Real Sociedad de Fútbol,Robert Navarro,MD,6,15,0,0,23,3.8,"['3', '-', '-', '-', '-']",3,0,0,0,0,0.6,540000
+13,Real Sociedad de Fútbol,Mikel Merino,MD,17,85,2,1,93,5.5,"['-', '2', '-', '2', '10']",0,2,0,2,10,2.8,8240000
+13,Real Sociedad de Fútbol,Januzaj,MD,20,55,2,0,85,4.3,"['0', '5', '-', '13', '6']",0,5,0,13,6,4.8,5350000
+13,Real Sociedad de Fútbol,Zubimendi,MD,19,65,0,1,69,3.6,"['2', '4', '-', '3', '-']",2,4,0,3,0,1.8,3650000
+13,Real Sociedad de Fútbol,Silva,MD,11,55,0,1,45,4.1,"['-', '2', '-', '6', '-']",0,2,0,6,0,1.6,4630000
+13,Real Sociedad de Fútbol,Guevara,MD,13,45,0,0,45,3.5,"['-', '-', '-', '5', '4']",0,0,0,5,4,1.8,1460000
+13,Real Sociedad de Fútbol,Ander Barrenetxea,MD,11,30,1,1,38,3.5,"['0', '3', '-', '-', '-']",0,3,0,0,0,0.6,2630000
+13,Real Sociedad de Fútbol,Beñat Turrientes,MD,7,5,0,0,19,2.7,"['2', '-', '-', '-', '-']",2,0,0,0,0,0.4,660000
+13,Real Sociedad de Fútbol,Rafinha,MD,1,5,0,0,6,6,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,6410000
+13,Real Sociedad de Fútbol,Guridi,MD,2,0,0,0,3,1.5,"['-', '-', '-', '-', '2']",0,0,0,0,2,0.4,380000
+13,Real Sociedad de Fútbol,Illarramendi,MD,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,1260000
+13,Real Sociedad de Fútbol,Oyarzabal,DL,14,65,7,1,79,5.6,"['1', '-9', '-', '-', '12']",1,-9,0,0,12,0.8,15730000
+13,Real Sociedad de Fútbol,Isak,DL,17,75,4,1,71,4.2,"['4', '11', '-', '0', '3']",4,11,0,0,3,3.6,10610000
+13,Real Sociedad de Fútbol,Portu,DL,20,50,0,2,65,3.3,"['2', '3', '-', '6', '2']",2,3,0,6,2,2.6,4430000
+13,Real Sociedad de Fútbol,Sorloth,DL,15,30,1,0,43,2.9,"['1', '1', '-', '5', '-']",1,1,0,5,0,1.4,2660000
+13,Real Sociedad de Fútbol,Lobete,DL,12,10,2,0,34,2.8,"['-', '-', '-', '-', '2']",0,0,0,0,2,0.4,1250000

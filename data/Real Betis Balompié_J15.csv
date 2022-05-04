@@ -1,0 +1,31 @@
+Team_id,Team,Player,Position,Matches_Played,On_start_%,Goals_/_Goals_Received,Assists,Total_Points,Points_Average,Last_5_games_points,J_11,J_12,J_13,J_14,J_15,Avg_last_5_games,Value
+2,Real Betis Balompié,Rui Silva,PT,8,53,7,0,29,3.6,"['-', '-', '-', '10', '2']",0,0,0,10,2,2.4,1590000
+2,Real Betis Balompié,Claudio Bravo,PT,7,47,9,0,23,3.3,"['4', '7', '0', '-', '-']",4,7,0,0,0,2.2,1520000
+2,Real Betis Balompié,Joel Robles,PT,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,260000
+2,Real Betis Balompié,Álex Moreno,DF,12,73,1,1,53,4.4,"['6', '2', '1', '7', '5']",6,2,1,7,5,4.2,2920000
+2,Real Betis Balompié,Víctor Ruiz,DF,8,53,0,0,30,3.8,"['5', '-', '-', '5', '3']",5,0,0,5,3,2.6,2330000
+2,Real Betis Balompié,Pezzella,DF,9,53,1,0,29,3.2,"['13', '0', '3', '5', '-']",13,0,3,5,0,4.2,1760000
+2,Real Betis Balompié,Martín Montoya,DF,6,40,0,1,26,4.3,"['1', '1', '-', '-', '-']",1,1,0,0,0,0.4,1920000
+2,Real Betis Balompié,Héctor Bellerín,DF,8,53,0,1,22,2.8,"['-', '-', '-1', '-6', '-']",0,0,-1,-6,0,-1.4,3730000
+2,Real Betis Balompié,Marc Bartra,DF,4,27,0,0,21,5.3,"['-', '-', '-', '-', '5']",0,0,0,0,5,1.0,1920000
+2,Real Betis Balompié,Juan Miranda,DF,4,27,0,0,17,4.3,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,880000
+2,Real Betis Balompié,Kike Hermoso,DF,1,7,1,0,13,13,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,460000
+2,Real Betis Balompié,Sabaly,DF,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,790000
+2,Real Betis Balompié,Fekir,MD,0,93,0,0,88,6.3,"['6', '-', '4', '12', '7']",6,0,4,12,7,5.8,12330000
+2,Real Betis Balompié,Yassin Fekir,MD,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,300000
+2,Real Betis Balompié,Canales,MD,14,87,1,2,68,4.9,"['3', '2', '2', '2', '7']",3,2,2,2,7,3.2,12200000
+2,Real Betis Balompié,William Carvalho,MD,13,47,0,1,58,4.5,"['6', '4', '4', '2', '2']",6,4,4,2,2,3.6,3690000
+2,Real Betis Balompié,Guido Rodríguez,MD,12,67,0,2,50,4.2,"['2', '2', '-5', '-', '8']",2,2,-5,0,8,1.4,5890000
+2,Real Betis Balompié,Édgar González,MD,12,60,0,1,48,4,"['-', '0', '2', '4', '3']",0,0,2,4,3,1.8,2800000
+2,Real Betis Balompié,Rodrigo Sánchez,MD,10,53,1,1,42,4.2,"['-', '1', '1', '-', '-']",0,1,1,0,0,0.4,3460000
+2,Real Betis Balompié,Guardado,MD,13,47,0,0,33,2.5,"['5', '4', '2', '2', '3']",5,4,2,2,3,3.2,1110000
+2,Real Betis Balompié,Joaquín,MD,8,0,0,1,23,2.9,"['0', '-', '-', '-', '-']",0,0,0,0,0,0.0,1150000
+2,Real Betis Balompié,Tello,MD,9,7,0,0,19,2.1,"['-', '4', '3', '2', '-']",0,4,3,2,0,1.8,1240000
+2,Real Betis Balompié,Aitor Ruibal,MD,9,33,0,0,19,2.1,"['2', '2', '-', '2', '6']",2,2,0,2,6,2.4,990000
+2,Real Betis Balompié,Camarasa,MD,5,0,0,0,12,2.4,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,560000
+2,Real Betis Balompié,Rober González,MD,4,7,0,0,12,3,"['2', '2', '-', '5', '-']",2,2,0,5,0,1.8,380000
+2,Real Betis Balompié,Paul Akouokou,MD,2,13,0,0,9,4.5,"['-', '-', '-', '4', '-']",0,0,0,4,0,0.8,370000
+2,Real Betis Balompié,Diego Lainez,MD,2,0,0,0,2,1,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,820000
+2,Real Betis Balompié,Juanmi Jiménez,DL,13,60,8,1,94,7.2,"['14', '1', '2', '11', '21']",14,1,2,11,21,9.8,6190000
+2,Real Betis Balompié,Willian José,DL,12,60,5,2,71,5.9,"['4', '1', '2', '9', '10']",4,1,2,9,10,5.2,10440000
+2,Real Betis Balompié,Borja Iglesias,DL,12,33,3,0,50,4.2,"['16', '4', '-', '-', '-']",16,4,0,0,0,4.0,6230000

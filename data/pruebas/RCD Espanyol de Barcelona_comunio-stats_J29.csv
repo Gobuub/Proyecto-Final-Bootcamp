@@ -1,0 +1,31 @@
+Team_id,Team,Player,Position,Total_Points,Points_Average,Value,On_start_%,Last_5_games_points,J_25,J_26,J_27,J_28,J_29,Avg_last_5_games
+4,RCD Espanyol de Barcelona,Diego López,PT,137,4.9,3740000,97,"['2', '5', '7', '4', '3']",2,5,7,4,3,4.2
+4,RCD Espanyol de Barcelona,Oier Olazábal,PT,3,3,230000,0,"['-', '-', '-', '-', '3']",0,0,0,0,3,0.6
+4,RCD Espanyol de Barcelona,Joan García,PT,-6,-3,300000,3,"['-', '-', '-', '-4', '-']",0,0,0,-4,0,-0.8
+4,RCD Espanyol de Barcelona,Leandro Cabrera,DF,123,4.4,3830000,97,"['4', '-1', '15', '5', '7']",4,-1,15,5,7,6.0
+4,RCD Espanyol de Barcelona,Adrià Pedrosa,DF,94,3.5,2120000,93,"['2', '-1', '-', '-', '-']",2,-1,0,0,0,0.2
+4,RCD Espanyol de Barcelona,Sergi Gómez,DF,94,3.8,2470000,86,"['2', '0', '6', '1', '5']",2,0,6,1,5,2.8
+4,RCD Espanyol de Barcelona,Aleix Vidal,DF,69,3,1490000,55,"['3', '-', '2', '2', '2']",3,0,2,2,2,1.8
+4,RCD Espanyol de Barcelona,Óscar Gil,DF,60,3.2,1170000,59,"['7', '-1', '5', '3', '5']",7,-1,5,3,5,3.8
+4,RCD Espanyol de Barcelona,Calero,DF,28,3.5,990000,21,"['-', '-', '7', '5', '4']",0,0,7,5,4,3.2
+4,RCD Espanyol de Barcelona,Dídac Vilà,DF,10,2,410000,3,"['-', '0', '-', '-', '-']",0,0,0,0,0,0.0
+4,RCD Espanyol de Barcelona,Lluís Recasens,DF,4,4,240000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0
+4,RCD Espanyol de Barcelona,Miguelón,DF,4,2,310000,3,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0
+4,RCD Espanyol de Barcelona,Rubén Sánchez Sáez,DF,2,2,220000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0
+4,RCD Espanyol de Barcelona,Sergi Darder,MD,148,5.5,6090000,93,"['12', '1', '5', '8', '9']",12,1,5,8,9,7.0
+4,RCD Espanyol de Barcelona,Embarba,MD,92,3.5,3940000,72,"['1', '3', '-', '4', '0']",1,3,0,4,0,1.6
+4,RCD Espanyol de Barcelona,Morlanes,MD,84,3.7,1720000,34,"['-', '-', '-', '-', '4']",0,0,0,0,4,0.8
+4,RCD Espanyol de Barcelona,Javi Puado,MD,81,3.9,3320000,59,"['3', '2', '4', '9', '-']",3,2,4,9,0,3.6
+4,RCD Espanyol de Barcelona,Keidi Bare,MD,69,3.3,1220000,48,"['4', '10', '4', '5', '2']",4,10,4,5,2,5.0
+4,RCD Espanyol de Barcelona,Nico Melamed,MD,62,2.4,840000,17,"['-', '3', '2', '2', '2']",0,3,2,2,2,1.8
+4,RCD Espanyol de Barcelona,Yangel Herrera,MD,58,3.6,1770000,41,"['2', '0', '4', '6', '7']",2,0,4,6,7,3.8
+4,RCD Espanyol de Barcelona,Melendo,MD,47,3.4,790000,38,"['0', '-', '-', '-', '-']",0,0,0,0,0,0.0
+4,RCD Espanyol de Barcelona,David López,MD,37,2.8,700000,21,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0
+4,RCD Espanyol de Barcelona,Vilhena,MD,29,3.6,2650000,24,"['2', '1', '4', '2', '3']",2,1,4,2,3,2.4
+4,RCD Espanyol de Barcelona,Jofre Carreras,MD,0,0,350000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0
+4,RCD Espanyol de Barcelona,Fran Mérida,MD,18,2.6,370000,7,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0
+4,RCD Espanyol de Barcelona,Gori,MD,3,3,270000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0
+4,RCD Espanyol de Barcelona,Raúl de Tomás,DL,180,6.7,14540000,93,"['6', '4', '2', '4', '9']",6,4,2,4,9,5.0
+4,RCD Espanyol de Barcelona,Loren Morón,DL,44,2.2,950000,10,"['2', '-', '-', '-', '2']",2,0,0,0,2,0.8
+4,RCD Espanyol de Barcelona,Wu Lei,DL,31,1.9,580000,10,"['-', '2', '-', '2', '-']",0,2,0,2,0,0.8
+4,RCD Espanyol de Barcelona,Dimata,DL,29,1.8,730000,14,"['-', '0', '-', '-', '-']",0,0,0,0,0,0.0

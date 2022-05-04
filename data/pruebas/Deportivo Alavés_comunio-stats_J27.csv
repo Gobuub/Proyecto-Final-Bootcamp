@@ -1,0 +1,29 @@
+Team_id,Team,Player,Position,Total_Points,Points_Average,Value,On_start_%,Last_5_games_points,J_23,J_24,J_25,J_26,J_27,Avg_last_5_games
+16,Deportivo Alavés,Pacheco,PT,91,3.8,2300000,89,"['-1', '4', '4', '1', '10']",-1,4,4,1,10,3.6
+16,Deportivo Alavés,Sivera,PT,8,2.7,260000,7,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0
+16,Deportivo Alavés,Owono,PT,3,3,240000,4,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0
+16,Deportivo Alavés,Laguardia,DF,101,4.2,3060000,89,"['2', '5', '-', '1', '6']",2,5,0,1,6,2.8
+16,Deportivo Alavés,Rubén Duarte,DF,91,3.8,2640000,85,"['2', '3', '3', '12', '5']",2,3,3,12,5,5.0
+16,Deportivo Alavés,Lejeune,DF,61,3.2,1750000,70,"['2', '2', '2', '2', '6']",2,2,2,2,6,2.8
+16,Deportivo Alavés,Martín Aguirregabiria,DF,52,2.9,910000,59,"['2', '-', '-', '-', '-']",2,0,0,0,0,0.4
+16,Deportivo Alavés,Miazga,DF,42,3.8,880000,33,"['-', '-', '2', '-', '-']",0,0,2,0,0,0.4
+16,Deportivo Alavés,Ximo Navarro,DF,30,3,570000,33,"['-', '-', '1', '-', '-']",0,0,1,0,0,0.2
+16,Deportivo Alavés,Nahuel Tenaglia,DF,19,3.8,1140000,15,"['1', '4', '4', '3', '7']",1,4,4,3,7,3.8
+16,Deportivo Alavés,Javi López Carballo,DF,11,1.6,330000,15,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0
+16,Deportivo Alavés,Saúl García,DF,3,3,270000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0
+16,Deportivo Alavés,Alexandru Tirlea,DF,2,2,240000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0
+16,Deportivo Alavés,Keller,DF,0,0,260000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0
+16,Deportivo Alavés,Luis Rioja,MD,88,3.3,3250000,96,"['7', '2', '3', '1', '0']",7,2,3,1,0,2.6
+16,Deportivo Alavés,Mamadou Loum,MD,84,3.8,2060000,67,"['-', '12', '1', '5', '-']",0,12,1,5,0,3.6
+16,Deportivo Alavés,Toni Moya,MD,72,3.1,1360000,56,"['-', '-', '1', '-', '7']",0,0,1,0,7,1.6
+16,Deportivo Alavés,Manu García Alonso,MD,65,3.4,860000,26,"['-', '-', '-', '-', '4']",0,0,0,0,4,0.8
+16,Deportivo Alavés,Edgar Méndez,MD,62,2.7,1140000,33,"['1', '2', '2', '9', '7']",1,2,2,9,7,4.2
+16,Deportivo Alavés,Tomás Pina,MD,53,2.5,1030000,48,"['2', '2', '4', '4', '-']",2,2,4,4,0,2.4
+16,Deportivo Alavés,Pere Pons,MD,43,2.3,980000,48,"['1', '1', '-1', '-', '2']",1,1,-1,0,2,0.6
+16,Deportivo Alavés,Facundo Pellistri,MD,36,2,580000,22,"['-', '-', '-', '2', '-']",0,0,0,2,0,0.4
+16,Deportivo Alavés,Gonzalo Escalante,MD,29,3.6,2360000,26,"['2', '6', '3', '11', '2']",2,6,3,11,2,4.8
+16,Deportivo Alavés,Jason,MD,28,2.3,990000,26,"['2', '0', '3', '-', '4']",2,0,3,0,4,1.8
+16,Deportivo Alavés,Joselu,DL,187,6.9,14030000,93,"['10', '12', '2', '2', '5']",10,12,2,2,5,6.2
+16,Deportivo Alavés,Miguel de la Fuente,DL,35,2.5,650000,26,"['2', '-', '-', '-', '-']",2,0,0,0,0,0.4
+16,Deportivo Alavés,Manu Vallejo,DL,26,2,1050000,0,"['1', '-', '2', '2', '-']",1,0,2,2,0,1.0
+16,Deportivo Alavés,Guidetti,DL,25,2.8,530000,7,"['3', '-', '-', '-', '-']",3,0,0,0,0,0.6
