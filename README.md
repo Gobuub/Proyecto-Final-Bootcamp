@@ -22,12 +22,10 @@ Estructura de carpetas.
   Tanto el Proyecto de Ml como la App de Django tienen su entorno virtual propìo por lo que habrár que crear ambos entornos virtuales por separado, encontrareis el requisitos.txt en cada una de sus carpetas correspodientes
   
    1. Crear un entorno virtual:
-      - conda create -n comunio_ml python=3.8 anaconda 
+      - conda env create -f comunio_ml.yml
    2. Activar entorno virtual:
       - source activate comunio_ml 
-   3. Instalar requerimientos:
-      - pip install -r requisitos.txt 
-   4. Desactivar entorno virtual:
+   3. Desactivar entorno virtual:
       - conda deactivate
       
     
