@@ -197,10 +197,10 @@ class comunio_pred_lib():
         return pred
     
     def once_ideal_xbgr(data,df,mc,dl):
-        gk = data.loc[data['Position']=='PT'].sort_values('xgb', ascending=False)[:1]
-        df = data.loc[data['Position']=='DF'].sort_values('xgb', ascending=False)[:df]
-        md = data.loc[data['Position']=='MD'].sort_values('xgb', ascending=False)[:mc]
-        dl = data.loc[data['Position']=='DL'].sort_values('xgb', ascending=False)[:dl]
+        gk = data.loc[data['Position']=='PT'].sort_values(by=['xgb','avg_l_5_J'], ascending=False)[:1]
+        df = data.loc[data['Position']=='DF'].sort_values(by=['xgb','avg_l_5_J'], ascending=False)[:df]
+        md = data.loc[data['Position']=='MD'].sort_values(by=['xgb','avg_l_5_J'], ascending=False)[:mc]
+        dl = data.loc[data['Position']=='DL'].sort_values(by=['xgb','avg_l_5_J'], ascending=False)[:dl]
         positions = [gk, df, md, dl]
         squad = pd.DataFrame()
         for pos in positions:
@@ -209,10 +209,10 @@ class comunio_pred_lib():
         return squad
     
     def once_ideal_rf(data,df,mc,dl):
-        gk = data.loc[data['Position']=='PT'].sort_values('rfr', ascending=False)[:1]
-        df = data.loc[data['Position']=='DF'].sort_values('rfr', ascending=False)[:df]
-        md = data.loc[data['Position']=='MD'].sort_values('rfr', ascending=False)[:mc]
-        dl = data.loc[data['Position']=='DL'].sort_values('rfr', ascending=False)[:dl]
+        gk = data.loc[data['Position']=='PT'].sort_values(by=['rfr','avg_l_5_J'], ascending=False)[:1]
+        df = data.loc[data['Position']=='DF'].sort_values(by=['rfr','avg_l_5_J'], ascending=False)[:df]
+        md = data.loc[data['Position']=='MD'].sort_values(by=['rfr','avg_l_5_J'], ascending=False)[:mc]
+        dl = data.loc[data['Position']=='DL'].sort_values(by=['rfr','avg_l_5_J'], ascending=False)[:dl]
         positions = [gk, df, md, dl]
         squad = pd.DataFrame()
         for pos in positions:
@@ -221,10 +221,10 @@ class comunio_pred_lib():
         return squad
     
     def once_ideal_gb(data,df,mc,dl):
-        gk = data.loc[data['Position']=='PT'].sort_values('gb', ascending=False)[:1]
-        df = data.loc[data['Position']=='DF'].sort_values('gb', ascending=False)[:df]
-        md = data.loc[data['Position']=='MD'].sort_values('gb', ascending=False)[:mc]
-        dl = data.loc[data['Position']=='DL'].sort_values('gb', ascending=False)[:dl]
+        gk = data.loc[data['Position']=='PT'].sort_values(by=['gb','avg_l_5_J'], ascending=False)[:1]
+        df = data.loc[data['Position']=='DF'].sort_values(by=['gb','avg_l_5_J'], ascending=False)[:df]
+        md = data.loc[data['Position']=='MD'].sort_values(by=['gb','avg_l_5_J'], ascending=False)[:mc]
+        dl = data.loc[data['Position']=='DL'].sort_values(by=['gb','avg_l_5_J'], ascending=False)[:dl]
         positions = [gk, df, md, dl]
         squad = pd.DataFrame()
         for pos in positions:
@@ -233,10 +233,10 @@ class comunio_pred_lib():
         return squad
     
     def once_ideal_rnn(data,df,mc,dl):
-        gk = data.loc[data['Position']=='PT'].sort_values('rnn', ascending=False)[:1]
-        df = data.loc[data['Position']=='DF'].sort_values('rnn', ascending=False)[:df]
-        md = data.loc[data['Position']=='MD'].sort_values('rnn', ascending=False)[:mc]
-        dl = data.loc[data['Position']=='DL'].sort_values('rnn', ascending=False)[:dl]
+        gk = data.loc[data['Position']=='PT'].sort_values(by=['rnn','avg_l_5_J'], ascending=False)[:1]
+        df = data.loc[data['Position']=='DF'].sort_values(by=['rnn','avg_l_5_J'], ascending=False)[:df]
+        md = data.loc[data['Position']=='MD'].sort_values(by=['rnn','avg_l_5_J'], ascending=False)[:mc]
+        dl = data.loc[data['Position']=='DL'].sort_values(by=['rnn','avg_l_5_J'], ascending=False)[:dl]
         positions = [gk, df, md, dl]
         squad = pd.DataFrame()
         for pos in positions:
@@ -245,10 +245,10 @@ class comunio_pred_lib():
         return squad
     
     def once_ideal_rnn2(data,df,mc,dl):
-        gk = data.loc[data['Position']=='PT'].sort_values('rnn2', ascending=False)[:1]
-        df = data.loc[data['Position']=='DF'].sort_values('rnn2', ascending=False)[:df]
-        md = data.loc[data['Position']=='MD'].sort_values('rnn2', ascending=False)[:mc]
-        dl = data.loc[data['Position']=='DL'].sort_values('rnn2', ascending=False)[:dl]
+        gk = data.loc[data['Position']=='PT'].sort_values(by=['rnn2','avg_l_5_J'], ascending=False)[:1]
+        df = data.loc[data['Position']=='DF'].sort_values(by=['rnn2','avg_l_5_J'], ascending=False)[:df]
+        md = data.loc[data['Position']=='MD'].sort_values(by=['rnn2','avg_l_5_J'], ascending=False)[:mc]
+        dl = data.loc[data['Position']=='DL'].sort_values(by=['rnn2','avg_l_5_J'], ascending=False)[:dl]
         positions = [gk, df, md, dl]
         squad = pd.DataFrame()
         for pos in positions:
