@@ -28,6 +28,6 @@ Estructura de carpetas.
    3. Instalar requerimientos:
       - pip install -r requisitos.txt 
    4. Desactivar entorno virtual:
-      - deactivate
+      - conda deactivate
       
     
