@@ -1,6 +1,8 @@
 import pandas as pd
 import pickle
 from sklearn.model_selection import train_test_split
+from tensorflow import keras
+
 
 
 
@@ -175,7 +177,8 @@ class comunio_pred_lib():
         return pred
     
     def predict_rnn(data):
-        model = pickle.load(open('modelos/comunio_rnn.model', 'rb'))
+        #model = pickle.load(open('modelos/comunio_rnn.model', 'rb'))
+        model = keras.models.load_model('modelos/comunio_rnn.h5')
         x_scaler = pickle.load(open('modelos/x_scaler.model', 'rb'))
         y_scaler = pickle.load(open('modelos/y_scaler.model', 'rb'))
         
@@ -186,7 +189,8 @@ class comunio_pred_lib():
         return pred
     
     def predict_rnn2(data):
-        model = pickle.load(open('modelos/comunio_rnn_2.model', 'rb'))
+        #model = pickle.load(open('modelos/comunio_rnn_2.model', 'rb'))
+        model = keras.models.load_model('modelos/comunio_rnn2.h5')
         x_scaler = pickle.load(open('modelos/x_scaler.model', 'rb'))
         y_scaler = pickle.load(open('modelos/y_scaler.model', 'rb'))
         
