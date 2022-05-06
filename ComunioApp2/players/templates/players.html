@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Players</title>
+</head>
+
+<body>
+    <h1 style="color:green; font-style:bold" align="center">COMUNIO PLAYERS LIST STATS</h1>
+    <table style="border:1px solid black" align="center">
+        <tbody style="border:1px solid black">
+        <th style="border:1px solid black">
+            <td style="border:1px solid black" align="center">Team</td>
+            <td style="border:1px solid black" align="center">Player</td>
+            <td style="border:1px solid black" align="center">Position</td>
+            <td style="border:1px solid black" align="center">On Start</td>
+            <td style="border:1px solid black" align="center">Pts Avg</td>
+            <td style="border:1px solid black" align="center">J -4</td>
+            <td style="border:1px solid black" align="center">J -3</td>
+            <td style="border:1px solid black" align="center">J -2</td>
+            <td style="border:1px solid black" align="center">J -1</td>
+            <td style="border:1px solid black" align="center">J Actual</td>
+            <td style="border:1px solid black" align="center">Avg Last 5 J</td>
+            <td style="border:1px solid black" align="center">Value</td>
+        </th>
+        {% for player in players%}
+            <tr>
+                <td style="border:1px solid black" align="center">{{player.id}}</td>
+                <td style="border:1px solid black" align="center">{{player.Team}}</td>
+                <td style="border:1px solid black" align="center">{{player.Player}}</td>
+                <td style="border:1px solid black" align="center">{{player.Position}}</td>
+                <td style="border:1px solid black" align="center">{{player.On_start}}</td>
+                <td style="border:1px solid black" align="center">{{player.Points_Average}}</td>
+                <td style="border:1px solid black" align="center">{{player.J_4}}</td>
+                <td style="border:1px solid black" align="center">{{player.J_3}}</td>
+                <td style="border:1px solid black" align="center">{{player.J_2}}</td>
+                <td style="border:1px solid black" align="center">{{player.J_1}}</td>
+                <td style="border:1px solid black" align="center">{{player.J_Actual}}</td>
+                <td style="border:1px solid black" align="center">{{player.Avg_last_5_games}}</td>
+                <td style="border:1px solid black" align="center">{{player.Value}}</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+</body>
+</html>

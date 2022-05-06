@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Comunio App</title>
+</head>
+<style>
+    h1{
+        color: 'blue'
+    }
+</style>
+<body>
+
+    <h1 style="color:blue" align="center">WELCOME TO COMUNIO APP PREDICTOR</h1>
+    <div align="center" style="margin: 15px">
+        <label >Buscar Equipo</label>
+        <input type="text" name="Buscar Equipo" id="team">
+        <input type="submit">
+    </div>
+    <div align="center" style="margin: 15px">
+        <a href="{% url 'players' %}">
+            <input type="button" value="Ver Todos" >
+        </a>
+    </div>
+
+    <div align="center" style="margin: 15px">
+        <a href="http://127.0.0.1:8000/api/players/">
+            <input type="button" value="API" >
+        </a>
+    </div>
+
+    <div align="center" style="margin: 15px">
+        <a href="http://127.0.0.1:8000/docs/">
+            <input type="button" value="API doc" >
+        </a>
+    </div>
+
+</body>
+</html>
