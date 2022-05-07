@@ -8,7 +8,7 @@ Estructura de carpetas.
   - En la carpeta EDA:
     - Notebook utilizado para generar los dataframes con los que realizar Análisis Exploratorio de los datos, y poder obtener información relevante de los mismos. 
     - Enlace al Dashboard de Tableau
-    - (https://public.tableau.com/app/profile/enrique.revuelta.garc.a/viz/Comunio_statsJ18-19/Historia1)
+      - (https://public.tableau.com/app/profile/enrique.revuelta.garc.a/viz/Comunio_statsJ18-19/Historia1)
   - En la carpeta ML:
     - Notebook utilizado para crear y entrenar los modelos de ML con los que realizar las predicciones sobre nuestros datos.   
   - En la carpeta img:
