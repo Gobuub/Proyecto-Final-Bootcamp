@@ -23,6 +23,8 @@ Estructura de carpetas.
   Para asegurar el correcto funcionamiento del proyecto será necesario crear un entorno virtual y ejecutarlo desde el mismo.
   Tanto el Proyecto de Ml como la App de Django tienen su entorno virtual propìo por lo que habrár que crear ambos entornos virtuales por separado, encontrareis el requisitos.txt en cada una de sus carpetas correspodientes
   
+  Ejemplo de creación Entorno Virtual con Anaconda, pero es válido para cualquier tipo de aplicación que genere entornos virtuales:
+  
    1. Crear un entorno virtual:
       - conda env create -f comunio_ml.yml
    2. Activar entorno virtual:
