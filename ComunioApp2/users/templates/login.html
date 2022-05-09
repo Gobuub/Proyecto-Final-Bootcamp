@@ -5,15 +5,23 @@
     <title>Login</title>
 </head>
 <body>
-    <form action="{% url 'login' %}" method="post">
-        {% csrf_token %}
-        <label for="username">Username</label>
-        <input type="text" name="username" id="username">
+    <div>
+        <h1 align="center" style="margin: 20 px">COMUNIO ASSISTANT LOGIN</h1>
+    </div>
+    <div align="center">
+        <form action="{% url 'login' %}" method="post">
+            {% csrf_token %}
 
-        <label for="password">Password</label>
-        <input type="password" name="password" id="password">
-        <input type="submit">
+            <label for="username">Username</label>
+            <input type="text" name="username" id="username">
 
-    </form>
+            <label for="password">Password</label>
+            <input type="password" name="password" id="password">
+            <div align="center" style="margin: 20px">
+                <input type="submit">
+            </div>
+        </form>
+
+    </div>
 </body>
 </html>
