@@ -1,0 +1,38 @@
+Team_id,Team,Player,Position,Matchs,On_start_%,Goals,Assists,Total_Points,Points_Average,Last_5_games_points,J_32,J_33,J_34,J_35,J_36,Avg_last_5_games,Value
+13,Real Sociedad de Fútbol,Alex Remiro,PT,35,92,1,1,178,5.4,"['2', '7', '8', '4', '6']",2,7,8,4,6,5.4,4230000
+13,Real Sociedad de Fútbol,Ryan,PT,33,8,0,0,15,5,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,310000
+13,Real Sociedad de Fútbol,Le Normand,DF,32,97,3,2,185,5.3,"['3', '9', '6', '6', '-']",3,9,6,6,0,4.8,5200000
+13,Real Sociedad de Fútbol,Aritz Elustondo,DF,34,58,1,1,140,4.8,"['-', '5', '2', '-', '7']",0,5,2,0,7,2.8,3640000
+13,Real Sociedad de Fútbol,Gorosabel,DF,30,67,0,3,113,3.8,"['5', '5', '7', '6', '7']",5,5,7,6,7,6.0,2300000
+13,Real Sociedad de Fútbol,Diego Rico,DF,30,47,5,2,79,4.2,"['2', '-', '2', '0', '7']",2,0,2,0,7,2.2,2610000
+13,Real Sociedad de Fútbol,Zubeldia,DF,29,50,4,1,77,3.1,"['4', '2', '2', '2', '5']",4,2,2,2,5,3.0,1000000
+13,Real Sociedad de Fútbol,Zaldua,DF,24,36,2,4,73,3.3,"['3', '-', '2', '-', '-']",3,0,2,0,0,1.0,1230000
+13,Real Sociedad de Fútbol,Aihen Muñoz,DF,22,42,9,3,46,2.3,"['-', '-', '-', '-', '4']",0,0,0,0,4,0.8,700000
+13,Real Sociedad de Fútbol,Jon Pacheco,DF,31,11,4,0,34,3.4,"['-', '6', '-', '-', '2']",0,6,0,0,2,1.6,650000
+13,Real Sociedad de Fútbol,Álex Sola,DF,25,0,0,1,6,3,"['-', '2', '-', '-', '-']",0,2,0,0,0,0.4,490000
+13,Real Sociedad de Fútbol,Cristo Romero,DF,31,0,3,0,2,2,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,280000
+13,Real Sociedad de Fútbol,González de Zárate,DF,35,0,1,2,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,250000
+13,Real Sociedad de Fútbol,Monreal,DF,19,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,360000
+13,Real Sociedad de Fútbol,Aritz Arambarri,DF,20,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,280000
+13,Real Sociedad de Fútbol,Mikel Merino,MD,22,86,0,0,166,5.2,"['2', '16', '3', '6', '5']",2,16,3,6,5,6.4,7850000
+13,Real Sociedad de Fútbol,Zubimendi,MD,15,67,1,0,147,4.3,"['4', '3', '5', '9', '5']",4,3,5,9,5,5.2,3560000
+13,Real Sociedad de Fútbol,Januzaj,MD,17,47,0,0,126,4.1,"['4', '-', '4', '2', '8']",4,0,4,2,8,3.6,4460000
+13,Real Sociedad de Fútbol,Silva,MD,11,58,1,1,125,5.2,"['-', '14', '-', '13', '11']",0,14,0,13,11,7.6,4430000
+13,Real Sociedad de Fútbol,Rafinha,MD,10,33,0,0,70,4.7,"['5', '-', '8', '5', '3']",5,0,8,5,3,4.2,5610000
+13,Real Sociedad de Fútbol,Guevara,MD,6,31,0,0,54,3.2,"['2', '1', '2', '-', '-']",2,1,2,0,0,1.0,750000
+13,Real Sociedad de Fútbol,Ander Barrenetxea,MD,3,17,0,0,38,3.5,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,890000
+13,Real Sociedad de Fútbol,Robert Navarro,MD,6,8,0,0,23,3.8,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,420000
+13,Real Sociedad de Fútbol,Beñat Turrientes,MD,13,3,2,0,22,2.8,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,390000
+13,Real Sociedad de Fútbol,Näis Djouahra,MD,8,3,0,0,16,2.7,"['-', '2', '5', '-', '-']",0,2,5,0,0,1.4,390000
+13,Real Sociedad de Fútbol,Illarramendi,MD,6,11,0,0,16,2.7,"['-', '3', '-', '-', '-']",0,3,0,0,0,0.6,1140000
+13,Real Sociedad de Fútbol,Guridi,MD,7,3,0,0,15,2.1,"['2', '-', '-', '-', '2']",2,0,0,0,2,0.8,350000
+13,Real Sociedad de Fútbol,Ander Martín,MD,5,3,0,0,12,2.4,"['4', '-', '-', '-', '-']",4,0,0,0,0,0.8,280000
+13,Real Sociedad de Fútbol,Germán Valera,MD,3,0,0,0,6,2,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,260000
+13,Real Sociedad de Fútbol,Roberto López,MD,1,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,250000
+13,Real Sociedad de Fútbol,Luca Sangalli,MD,2,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,230000
+13,Real Sociedad de Fútbol,Oyarzabal,DL,1,53,0,0,128,5.8,"['-', '6', '-', '-', '-']",0,6,0,0,0,1.2,6420000
+13,Real Sociedad de Fútbol,Isak,DL,0,67,0,0,122,4.1,"['1', '-', '2', '5', '-']",1,0,2,5,0,1.6,7120000
+13,Real Sociedad de Fútbol,Sorloth,DL,0,50,0,0,111,3.6,"['5', '4', '11', '3', '8']",5,4,11,3,8,6.2,5130000
+13,Real Sociedad de Fútbol,Portu,DL,0,47,0,0,108,3.1,"['2', '2', '2', '2', '12']",2,2,2,2,12,4.0,3550000
+13,Real Sociedad de Fútbol,Lobete,DL,0,6,0,0,34,2.6,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,540000
+13,Real Sociedad de Fútbol,Carlos Fernández,DL,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,480000

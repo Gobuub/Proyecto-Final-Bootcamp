@@ -2,6 +2,7 @@
 
 from django.db import models
 # Create your models here.
+from django.template.defaultfilters import default
 
 
 class Players(models.Model):
@@ -44,3 +45,6 @@ class Players(models.Model):
         return self.Player
 
 
+class Image(models.Model):
+    image = models.ImageField(upload_to= 'img', default='players/static/img/no-img.png')
+    team = models.CharField(max_length=100)

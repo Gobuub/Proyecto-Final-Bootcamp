@@ -257,3 +257,8 @@ class CadizView(View):
             return render(request, 'players.html', context=context)
 
         return redirect('login')
+
+
+def upload_image(request):
+    if request.method == 'GET':
+        return render(request, 'upload_image.html')

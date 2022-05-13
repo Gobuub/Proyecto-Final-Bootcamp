@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Upload Image</title>
+</head>
+<body>
+  <form action="{% url 'players:upload_image %}" method="post" enctype="multipart/form-data">
+      {% csrf_token %}
+      <p>
+          <img id="id_image" type="file" accept="image/*" name="image" requided/>
+      </p>
+      <p>
+          Image team:
+          <input id="id_team" type="text" team="team" required>
+      </p>
+      <input type="submit" value="Submit" />
+  </form>
+</body>
+</html>

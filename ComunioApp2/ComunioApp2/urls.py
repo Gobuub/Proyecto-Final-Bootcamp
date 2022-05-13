@@ -16,6 +16,7 @@ Including another URLconf
 from django.contrib import admin
 from rest_framework.documentation import include, include_docs_urls
 
+from players import views
 from players.api.router import router
 from players.api.views import PlayersApiView
 from players.views import PlayersView, AlavesView, AthleticView, AtleticoView, OsasunaView, EspanyolView, BarcelonaView, \
@@ -53,6 +54,7 @@ urlpatterns = [
     path('logout/', LogoutView.as_view(), name='logout'),
     path('docs/', include_docs_urls(title='Comunio API Docs', public=True)),
     path('api/', include(router.urls)),
+    path('upload_image/', views.upload_image, name='upload_image')
 
 
 
