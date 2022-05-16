@@ -134,7 +134,7 @@ class comunio_pred_lib():
     
         X = df.drop(['Target'], axis=1)._get_numeric_data()
         y = df.Target
-
+        
         x_scaler = pickle.load(open('modelos/x_scaler.model', 'rb'))
         y_scaler = pickle.load(open('modelos/y_scaler.model', 'rb'))
 
