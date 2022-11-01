@@ -1,0 +1,25 @@
+Team_id,Team,Player,Position,Matchs,On_start_%,Goals,Assists,Total_Points,Points_Average,Last_5_games_points,J_7,J_6,J_5,J_4,J_3,Avg_last_5_games,Value,img,squad_img
+7,Real Madrid CF,Courtois,PT,7,86,5,1,25,4.2,"['5', '5', '2', '4', '-']",5,5,2,4,0,3.2,6930000,https://www.comuniate.com/caras3/1400.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Lunin,PT,7,14,1,3,2,2,"['-', '-', '-', '-', '2']",0,0,0,0,2,0.4,550000,https://www.comuniate.com/caras3/2611.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Alaba,DF,6,86,0,0,38,5.4,"['2', '7', '2', '2', '6']",2,7,2,2,6,3.8,9400000,https://www.comuniate.com/caras3/3099.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Carvajal,DF,6,57,0,2,27,4.5,"['2', '5', '6', '7', '4']",2,5,6,7,4,4.8,6280000,https://www.comuniate.com/caras3/1683.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Lucas Vázquez,DF,6,43,0,0,25,6.3,"['4', '-', '10', '2', '3']",4,0,10,2,3,3.8,3840000,https://www.comuniate.com/caras3/1949.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Rüdiger,DF,7,57,3,1,25,3.6,"['2', '-', '7', '-', '-']",2,0,7,0,0,1.8,7330000,https://www.comuniate.com/caras3/3243.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Éder Militão,DF,5,57,3,1,20,4,"['6', '5', '-', '5', '2']",6,5,0,5,2,3.6,7510000,https://www.comuniate.com/caras3/2760.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Ferland Mendy,DF,6,86,0,1,16,2.7,"['-', '2', '2', '2', '3']",0,2,2,2,3,1.8,3790000,https://www.comuniate.com/caras3/2791.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Nacho Fernández,DF,7,14,1,0,8,4,"['-', '-', '4', '-', '-']",0,0,4,0,0,0.8,1380000,https://www.comuniate.com/caras3/1332.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Odriozola,DF,5,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,470000,https://www.comuniate.com/caras3/2350.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Jesús Vallejo,DF,5,0,3,2,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,510000,https://www.comuniate.com/caras3/2400.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Fede Valverde,MD,6,71,1,1,58,8.3,"['3', '7', '12', '12', '4']",3,7,12,12,4,7.6,16560000,https://www.comuniate.com/caras3/2415.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Modric,MD,6,57,0,1,43,7.2,"['4', '9', '3', '7', '-']",4,9,3,7,0,4.6,13570000,https://www.comuniate.com/caras3/1583.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Kroos,MD,7,71,0,0,41,6.8,"['4', '4', '10', '5', '9']",4,4,10,5,9,6.4,17100000,https://www.comuniate.com/caras3/1909.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Tchouaméni,MD,4,86,1,0,40,6.7,"['7', '10', '-', '7', '4']",7,10,0,7,4,5.6,14230000,https://www.comuniate.com/caras3/3276.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Dani Ceballos,MD,7,29,0,1,26,3.7,"['5', '3', '7', '2', '3']",5,3,7,2,3,4.0,2680000,https://www.comuniate.com/caras3/1842.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Camavinga,MD,2,43,0,0,25,3.6,"['4', '2', '3', '2', '5']",4,2,3,2,5,3.2,7040000,https://www.comuniate.com/caras3/3163.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Vinícius Júnior,DL,3,100,0,0,63,9,"['10', '8', '11', '0', '13']",10,8,11,0,13,8.4,23940000,https://www.comuniate.com/caras3/2565.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Rodrygo,DL,1,57,0,0,47,9.4,"['6', '12', '15', '10', '4']",6,12,15,10,4,9.4,15220000,https://www.comuniate.com/caras3/2769.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Benzema,DL,3,71,0,0,33,6.6,"['17', '4', '-', '-', '2']",17,4,0,0,2,4.6,33950000,https://www.comuniate.com/caras3/1027.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Asensio,DL,1,0,0,0,8,2.7,"['-', '-', '-', '3', '2']",0,0,0,3,2,1.0,4160000,https://www.comuniate.com/caras3/2049.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Eden Hazard,DL,1,14,0,0,4,1.3,"['-', '-', '3', '-', '-']",0,0,3,0,0,0.6,6130000,https://www.comuniate.com/caras3/2784.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Mariano Díaz,DL,0,0,0,0,3,3,"['-', '-', '-', '-', '3']",0,0,0,0,3,0.6,920000,https://www.comuniate.com/caras3/2304.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Peter González,DL,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,490000,https://www.comuniate.com/caras3/3194.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg

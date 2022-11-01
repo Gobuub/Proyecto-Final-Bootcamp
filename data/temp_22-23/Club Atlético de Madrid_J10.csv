@@ -1,0 +1,24 @@
+Team_id,Team,Player,Position,Matchs,On_start_%,Goals,Assists,Total_Points,Points_Average,Last_5_games_points,J_10,J_9,J_8,J_7,J_6,Avg_last_5_games,Value,img,squad_img
+2,Club Atlético de Madrid,Oblak,PT,10,80,0,0,36,4.5,"['1', '7', '3', '3', '-']",1,7,3,3,0,2.8,5120000,https://www.comuniate.com/caras3/1897.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Ivo Grbic,PT,10,20,0,0,11,2.8,"['-', '-', '-', '4', '2']",0,0,0,4,2,1.2,620000,https://www.comuniate.com/caras3/2971.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Reinildo Mandava,DF,9,100,0,2,52,5.2,"['2', '6', '4', '10', '4']",2,6,4,10,4,5.2,5790000,https://www.comuniate.com/caras3/3232.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,José Giménez,DF,8,60,0,0,36,5.1,"['-', '8', '5', '5', '2']",0,8,5,5,2,4.0,4400000,https://www.comuniate.com/caras3/1676.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Savic,DF,10,60,5,1,27,4.5,"['-', '5', '2', '5', '5']",0,5,2,5,5,3.4,4610000,https://www.comuniate.com/caras3/2109.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Nahuel Molina,DF,7,70,0,0,24,3.4,"['-', '6', '4', '6', '4']",0,6,4,6,4,4.0,4930000,https://www.comuniate.com/caras3/3305.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Mario Hermoso,DF,7,10,0,0,14,4.7,"['8', '-', '-', '-', '-']",8,0,0,0,0,1.6,1130000,https://www.comuniate.com/caras3/2434.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Felipe,DF,6,10,0,0,2,2,"['2', '-', '-', '-', '-']",2,0,0,0,0,0.4,820000,https://www.comuniate.com/caras3/2776.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Reguilón,DF,6,0,1,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,1990000,https://www.comuniate.com/caras3/2683.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Rodrigo de Paul,MD,8,60,1,1,43,5.4,"['8', '-', '-', '2', '3']",8,0,0,2,3,2.6,6290000,https://www.comuniate.com/caras3/1846.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Witsel,MD,9,90,1,0,42,4.2,"['2', '5', '5', '4', '6']",2,5,5,4,6,4.4,4650000,https://www.comuniate.com/caras3/3289.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Ferreira Carrasco,MD,8,50,0,1,40,4.4,"['4', '2', '4', '-', '3']",4,2,4,0,3,2.6,8200000,https://www.comuniate.com/caras3/2095.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Koke,MD,9,80,0,3,37,4.1,"['4', '5', '3', '4', '-']",4,5,3,4,0,3.2,5940000,https://www.comuniate.com/caras3/1083.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Kondogbia,MD,7,50,0,1,36,4.5,"['3', '13', '-', '-', '-']",3,13,0,0,0,3.2,3750000,https://www.comuniate.com/caras3/1555.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Marcos Llorente,MD,10,60,3,2,36,6,"['2', '2', '2', '8', '8']",2,2,2,8,8,4.4,7250000,https://www.comuniate.com/caras3/2158.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Lemar,MD,9,50,0,0,29,4.1,"['-', '-', '4', '2', '2']",0,0,4,2,2,1.6,4330000,https://www.comuniate.com/caras3/2596.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Saúl Ñíguez,MD,10,40,3,0,25,2.8,"['1', '6', '2', '2', '1']",1,6,2,2,1,2.4,2910000,https://www.comuniate.com/caras3/1746.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Carlos Martín,MD,8,0,0,1,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,190000,https://www.comuniate.com/caras3/3182.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Morata,DL,4,80,0,0,73,7.3,"['3', '11', '3', '5', '10']",3,11,3,5,10,6.4,17000000,https://www.comuniate.com/caras3/1254.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Griezmann,DL,3,40,1,0,70,7,"['7', '5', '8', '10', '11']",7,5,8,10,11,8.2,19320000,https://www.comuniate.com/caras3/1153.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Correa,DL,1,20,0,0,43,4.3,"['4', '2', '17', '1', '2']",4,2,17,1,2,5.2,8270000,https://www.comuniate.com/caras3/1870.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,João Félix,DL,0,50,0,0,30,3.3,"['1', '-', '1', '2', '-']",1,0,1,2,0,0.8,12510000,https://www.comuniate.com/caras3/2792.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Matheus Cunha,DL,0,20,0,0,28,3.5,"['2', '9', '2', '-', '5']",2,9,2,0,5,3.6,4430000,https://www.comuniate.com/caras3/3156.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg

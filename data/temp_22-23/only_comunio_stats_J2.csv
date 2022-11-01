@@ -1,0 +1,499 @@
+Team_id,Team,Player,Position,Total_Points,Points_Average,Value,On_start_%,Last_5_games_points,J_2,J_1,J_0,J_-1,J_-2,Avg_last_5_games
+1,Athletic Club,Unai Simón,PT,13,6.5,4220000,100,"['8', '5', 0, 0, 0]",8,5,0,0,0,2.6
+1,Athletic Club,Agirrezabala,PT,0,0,440000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+1,Athletic Club,Ander Iru,PT,0,0,410000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+1,Athletic Club,De Marcos,DF,14,7,2840000,100,"['8', '6', 0, 0, 0]",8,6,0,0,0,2.8
+1,Athletic Club,Yeray Álvarez,DF,14,7,3930000,100,"['6', '8', 0, 0, 0]",6,8,0,0,0,2.8
+1,Athletic Club,Yuri Berchiche,DF,14,7,4270000,100,"['7', '7', 0, 0, 0]",7,7,0,0,0,2.8
+1,Athletic Club,Daniel Vivian,DF,9,4.5,2470000,100,"['5', '4', 0, 0, 0]",5,4,0,0,0,1.8
+1,Athletic Club,Capa,DF,0,0,750000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+1,Athletic Club,Lekue,DF,0,0,700000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+1,Athletic Club,Nolaskoain,DF,0,0,240000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+1,Athletic Club,Iñigo Martínez,DF,0,0,5410000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+1,Athletic Club,Balenziaga,DF,0,0,310000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+1,Athletic Club,Álex Berenguer,MD,15,7.5,4480000,100,"['4', '11', 0, 0, 0]",4,11,0,0,0,3.0
+1,Athletic Club,Mikel Vesga,MD,12,6,2000000,100,"['7', '5', 0, 0, 0]",7,5,0,0,0,2.4
+1,Athletic Club,Muniain,MD,11,5.5,12730000,100,"['3', '8', 0, 0, 0]",3,8,0,0,0,2.2
+1,Athletic Club,Nico Williams,MD,8,4,5860000,50,"['6', '2', 0, 0, 0]",6,2,0,0,0,1.6
+1,Athletic Club,Zarraga,MD,4,2,1000000,0,"['2', '2', 0, 0, 0]",2,2,0,0,0,0.8
+1,Athletic Club,Unai Vencedor,MD,2,2,2190000,0,"['-', '2', 0, 0, 0]",0,2,0,0,0,0.4
+1,Athletic Club,Malcom Adu,MD,0,0,410000,0,"['2', '-', 0, 0, 0]",2,0,0,0,0,0.4
+1,Athletic Club,Dani García,MD,0,0,1090000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+1,Athletic Club,Jon Morcillo,MD,0,0,310000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+1,Athletic Club,Williams,DL,8,4,9460000,100,"['5', '3', 0, 0, 0]",5,3,0,0,0,1.6
+1,Athletic Club,Raúl García,DL,7,3.5,2810000,0,"['4', '3', 0, 0, 0]",4,3,0,0,0,1.4
+1,Athletic Club,Sancet,DL,5,2.5,4480000,100,"['2', '3', 0, 0, 0]",2,3,0,0,0,1.0
+1,Athletic Club,Villalibre,DL,4,4,1820000,50,"['4', '-', 0, 0, 0]",4,0,0,0,0,0.8
+1,Athletic Club,Guruzeta,DL,1,1,540000,0,"['1', '-', 0, 0, 0]",1,0,0,0,0,0.2
+2,Club Atlético de Madrid,Oblak,PT,9,4.5,6330000,100,"['6', '3', 0, 0, 0]",6,3,0,0,0,1.8
+2,Club Atlético de Madrid,Ivo Grbic,PT,0,0,360000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+2,Club Atlético de Madrid,Savic,DF,10,5,5170000,100,"['8', '2', 0, 0, 0]",8,2,0,0,0,2.0
+2,Club Atlético de Madrid,Reinildo Mandava,DF,9,4.5,5110000,100,"['5', '4', 0, 0, 0]",5,4,0,0,0,1.8
+2,Club Atlético de Madrid,José Giménez,DF,2,2,4310000,0,"['-', '2', 0, 0, 0]",0,2,0,0,0,0.4
+2,Club Atlético de Madrid,Nahuel Molina,DF,1,0.5,8290000,100,"['5', '-4', 0, 0, 0]",5,-4,0,0,0,0.2
+2,Club Atlético de Madrid,Mario Hermoso,DF,0,0,1110000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+2,Club Atlético de Madrid,Felipe,DF,0,0,1030000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+2,Club Atlético de Madrid,Renan Lodi,DF,0,0,1090000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+2,Club Atlético de Madrid,Koke,MD,10,5,5620000,100,"['4', '6', 0, 0, 0]",4,6,0,0,0,2.0
+2,Club Atlético de Madrid,Lemar,MD,8,4,5160000,100,"['5', '3', 0, 0, 0]",5,3,0,0,0,1.6
+2,Club Atlético de Madrid,Ferreira Carrasco,MD,8,4,8650000,50,"['4', '4', 0, 0, 0]",4,4,0,0,0,1.6
+2,Club Atlético de Madrid,Rodrigo de Paul,MD,8,4,5220000,0,"['4', '4', 0, 0, 0]",4,4,0,0,0,1.6
+2,Club Atlético de Madrid,Witsel,MD,8,4,6520000,100,"['4', '4', 0, 0, 0]",4,4,0,0,0,1.6
+2,Club Atlético de Madrid,Marcos Llorente,MD,7,3.5,8370000,100,"['4', '3', 0, 0, 0]",4,3,0,0,0,1.4
+2,Club Atlético de Madrid,Saúl Ñíguez,MD,5,5,3750000,50,"['5', '-', 0, 0, 0]",5,0,0,0,0,1.0
+2,Club Atlético de Madrid,Kondogbia,MD,0,0,3080000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+2,Club Atlético de Madrid,Carlos Martín,MD,0,0,180000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+2,Club Atlético de Madrid,Javi Serrano,MD,0,0,230000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+2,Club Atlético de Madrid,Morata,DL,23,11.5,15070000,100,"['16', '7', 0, 0, 0]",16,7,0,0,0,4.6
+2,Club Atlético de Madrid,João Félix,DL,18,9,16240000,100,"['13', '5', 0, 0, 0]",13,5,0,0,0,3.6
+2,Club Atlético de Madrid,Griezmann,DL,16,8,13370000,0,"['12', '4', 0, 0, 0]",12,4,0,0,0,3.2
+2,Club Atlético de Madrid,Correa,DL,6,3,7400000,0,"['2', '4', 0, 0, 0]",2,4,0,0,0,1.2
+2,Club Atlético de Madrid,Matheus Cunha,DL,3,1.5,6210000,0,"['4', '-1', 0, 0, 0]",4,-1,0,0,0,0.6
+3,CA Osasuna,Sergio Herrera,PT,10,5,4280000,100,"['4', '6', 0, 0, 0]",4,6,0,0,0,2.0
+3,CA Osasuna,Juan Pérez,PT,0,0,170000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+3,CA Osasuna,Aitor Fernández,PT,0,0,1040000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+3,CA Osasuna,Rubén Peña,DF,12,6,1650000,100,"['5', '7', 0, 0, 0]",5,7,0,0,0,2.4
+3,CA Osasuna,Unai García,DF,11,5.5,800000,100,"['3', '8', 0, 0, 0]",3,8,0,0,0,2.2
+3,CA Osasuna,David García Zub.,DF,10,5,4640000,100,"['3', '7', 0, 0, 0]",3,7,0,0,0,2.0
+3,CA Osasuna,Juan Cruz,DF,9,4.5,1090000,100,"['4', '5', 0, 0, 0]",4,5,0,0,0,1.8
+3,CA Osasuna,Nacho Vidal,DF,4,2,2650000,0,"['2', '2', 0, 0, 0]",2,2,0,0,0,0.8
+3,CA Osasuna,Manu Sánchez,DF,3,3,1700000,0,"['3', '-', 0, 0, 0]",3,0,0,0,0,0.6
+3,CA Osasuna,Unai Dufur,DF,0,0,220000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+3,CA Osasuna,Jesús Areso,DF,0,0,250000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+3,CA Osasuna,Aridane Hernández,DF,0,0,2010000,0,"['0', '0', 0, 0, 0]",0,0,0,0,0,0.0
+3,CA Osasuna,Aimar Oroz,MD,12,6,1890000,100,"['6', '6', 0, 0, 0]",6,6,0,0,0,2.4
+3,CA Osasuna,Moi Gómez,MD,12,6,3370000,100,"['8', '4', 0, 0, 0]",8,4,0,0,0,2.4
+3,CA Osasuna,Brasanac,MD,8,4,1570000,0,"['4', '4', 0, 0, 0]",4,4,0,0,0,1.6
+3,CA Osasuna,Lucas Torró,MD,8,4,4260000,100,"['2', '6', 0, 0, 0]",2,6,0,0,0,1.6
+3,CA Osasuna,Jon Moncayola,MD,7,3.5,5690000,100,"['5', '2', 0, 0, 0]",5,2,0,0,0,1.4
+3,CA Osasuna,Rubén García,MD,2,2,4530000,0,"['-', '2', 0, 0, 0]",0,2,0,0,0,0.4
+3,CA Osasuna,Roberto Torres,MD,2,2,1070000,0,"['-', '2', 0, 0, 0]",0,2,0,0,0,0.4
+3,CA Osasuna,Pablo Ibáñez,MD,2,2,190000,0,"['2', '-', 0, 0, 0]",2,0,0,0,0,0.4
+3,CA Osasuna,Javi Martínez Calvo,MD,0,0,450000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+3,CA Osasuna,Iker Benito,MD,0,0,230000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+3,CA Osasuna,Kike Barja,MD,-1,-1,620000,50,"['-1', '-', 0, 0, 0]",-1,0,0,0,0,-0.2
+3,CA Osasuna,Ezequiel Ávila,DL,18,9,10350000,100,"['9', '9', 0, 0, 0]",9,9,0,0,0,3.6
+3,CA Osasuna,Kike García,DL,15,7.5,3210000,0,"['4', '11', 0, 0, 0]",4,11,0,0,0,3.0
+3,CA Osasuna,Budimir,DL,5,5,6060000,50,"['-', '5', 0, 0, 0]",0,5,0,0,0,1.0
+3,CA Osasuna,Barbero,DL,0,0,210000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+4,RCD Espanyol de Barcelona,Lecomte,PT,1,0.5,3040000,100,"['1', '0', 0, 0, 0]",1,0,0,0,0,0.2
+4,RCD Espanyol de Barcelona,Joan García,PT,0,0,180000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+4,RCD Espanyol de Barcelona,Rubén Sánchez Sáez,DF,11,5.5,1120000,100,"['5', '6', 0, 0, 0]",5,6,0,0,0,2.2
+4,RCD Espanyol de Barcelona,Leandro Cabrera,DF,10,5,4150000,100,"['5', '5', 0, 0, 0]",5,5,0,0,0,2.0
+4,RCD Espanyol de Barcelona,Brian Oliván,DF,8,4,1880000,100,"['6', '2', 0, 0, 0]",6,2,0,0,0,1.6
+4,RCD Espanyol de Barcelona,Calero,DF,6,3,1110000,50,"['4', '2', 0, 0, 0]",4,2,0,0,0,1.2
+4,RCD Espanyol de Barcelona,Óscar Gil,DF,1,0.5,2030000,100,"['1', '0', 0, 0, 0]",1,0,0,0,0,0.2
+4,RCD Espanyol de Barcelona,Adrià Pedrosa,DF,0,0,1490000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+4,RCD Espanyol de Barcelona,Lluís Recasens,DF,0,0,220000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+4,RCD Espanyol de Barcelona,Aleix Vidal,DF,0,0,770000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+4,RCD Espanyol de Barcelona,Sergi Gómez,DF,-6,-3,1760000,100,"['2', '-8', 0, 0, 0]",2,-8,0,0,0,-1.2
+4,RCD Espanyol de Barcelona,Edu Expósito,MD,17,8.5,4320000,50,"['11', '6', 0, 0, 0]",11,6,0,0,0,3.4
+4,RCD Espanyol de Barcelona,Sergi Darder,MD,10,5,6690000,100,"['2', '8', 0, 0, 0]",2,8,0,0,0,2.0
+4,RCD Espanyol de Barcelona,Vinicius Souza,MD,9,4.5,2480000,100,"['2', '7', 0, 0, 0]",2,7,0,0,0,1.8
+4,RCD Espanyol de Barcelona,Nico Melamed,MD,5,2.5,1580000,100,"['3', '2', 0, 0, 0]",3,2,0,0,0,1.0
+4,RCD Espanyol de Barcelona,Keidi Bare,MD,4,4,920000,0,"['4', '-', 0, 0, 0]",4,0,0,0,0,0.8
+4,RCD Espanyol de Barcelona,Embarba,MD,4,4,1140000,0,"['-', '4', 0, 0, 0]",0,4,0,0,0,0.8
+4,RCD Espanyol de Barcelona,Luca Koleosho,MD,3,1.5,230000,0,"['1', '2', 0, 0, 0]",1,2,0,0,0,0.6
+4,RCD Espanyol de Barcelona,Javi Puado,MD,2,2,2220000,0,"['-', '2', 0, 0, 0]",0,2,0,0,0,0.4
+4,RCD Espanyol de Barcelona,Matías Vargas,MD,0,0,400000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+4,RCD Espanyol de Barcelona,Gori,MD,0,0,220000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+4,RCD Espanyol de Barcelona,Villahermosa,MD,0,0,220000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+4,RCD Espanyol de Barcelona,Pol Lozano,MD,0,0,270000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+4,RCD Espanyol de Barcelona,Joselu,DL,15,7.5,16250000,100,"['10', '5', 0, 0, 0]",10,5,0,0,0,3.0
+4,RCD Espanyol de Barcelona,Nabil Touaizi,DL,2,2,290000,0,"['2', '-', 0, 0, 0]",2,0,0,0,0,0.4
+4,RCD Espanyol de Barcelona,Dimata,DL,0,0,230000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+4,RCD Espanyol de Barcelona,Raúl de Tomás,DL,0,0,12280000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+4,RCD Espanyol de Barcelona,Dani Gómez,DL,0,0,1040000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+5,FC Barcelona,Ter Stegen,PT,15,7.5,5870000,100,"['8', '7', 0, 0, 0]",8,7,0,0,0,3.0
+5,FC Barcelona,Iñaki Peña,PT,0,0,700000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+5,FC Barcelona,Eric García,DF,10,5,2730000,100,"['6', '4', 0, 0, 0]",6,4,0,0,0,2.0
+5,FC Barcelona,Christensen,DF,10,5,5140000,100,"['5', '5', 0, 0, 0]",5,5,0,0,0,2.0
+5,FC Barcelona,Ronald Araujo,DF,7,3.5,9260000,100,"['4', '3', 0, 0, 0]",4,3,0,0,0,1.4
+5,FC Barcelona,Alejandro Balde,DF,5,5,610000,50,"['2', '3', 0, 0, 0]",2,3,0,0,0,1.0
+5,FC Barcelona,Jordi Alba,DF,5,2.5,7540000,50,"['-', '5', 0, 0, 0]",0,5,0,0,0,1.0
+5,FC Barcelona,Kounde,DF,0,0,10550000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+5,FC Barcelona,Piqué,DF,0,0,3230000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+5,FC Barcelona,Sergiño Dest,DF,0,0,1230000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+5,FC Barcelona,Umtiti,DF,0,0,280000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+5,FC Barcelona,Pedri,MD,14,7,17480000,100,"['5', '9', 0, 0, 0]",5,9,0,0,0,2.8
+5,FC Barcelona,De Jong,MD,11,5.5,6520000,50,"['6', '5', 0, 0, 0]",6,5,0,0,0,2.2
+5,FC Barcelona,Sergi Roberto,MD,6,3,830000,0,"['2', '4', 0, 0, 0]",2,4,0,0,0,1.2
+5,FC Barcelona,Gavi,MD,6,3,12500000,100,"['2', '4', 0, 0, 0]",2,4,0,0,0,1.2
+5,FC Barcelona,Kessié,MD,4,2,5290000,0,"['2', '2', 0, 0, 0]",2,2,0,0,0,0.8
+5,FC Barcelona,Sergio Busquets,MD,3,3,9140000,50,"['3', '-', 0, 0, 0]",3,0,0,0,0,0.6
+5,FC Barcelona,Pjanic,MD,0,0,1190000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+5,FC Barcelona,Álvaro Sanz,MD,0,0,220000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+5,FC Barcelona,Lewandowski,DL,23,11.5,33080000,100,"['6', '17', 0, 0, 0]",6,17,0,0,0,4.6
+5,FC Barcelona,Ansu Fati,DL,20,10,16610000,0,"['4', '16', 0, 0, 0]",4,16,0,0,0,4.0
+5,FC Barcelona,Dembélé,DL,15,7.5,19300000,100,"['7', '8', 0, 0, 0]",7,8,0,0,0,3.0
+5,FC Barcelona,Raphinha,DL,10,5,19110000,50,"['6', '4', 0, 0, 0]",6,4,0,0,0,2.0
+5,FC Barcelona,Aubameyang,DL,3,3,10990000,0,"['3', '-', 0, 0, 0]",3,0,0,0,0,0.6
+5,FC Barcelona,Ferrán Torres,DL,2,2,8420000,50,"['-', '2', 0, 0, 0]",0,2,0,0,0,0.4
+5,FC Barcelona,Depay,DL,0,0,4880000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+5,FC Barcelona,Abde Ezzalzouli,DL,0,0,2180000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+5,FC Barcelona,Ilias Akhomach,DL,0,0,340000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+5,FC Barcelona,Estanis,DL,0,0,220000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+5,FC Barcelona,Braithwaite,DL,0,0,1720000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+6,Getafe CF,Diego Conde,PT,0,0,240000,0,"['0', '4', 0, 0, 0]",0,4,0,0,0,0.8
+6,Getafe CF,Kiko Casilla,PT,0,0,270000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+6,Getafe CF,David Soria,PT,0,0,3360000,100,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+6,Getafe CF,Juan Iglesias,DF,9,4.5,900000,100,"['5', '3', 0, 0, 0]",5,3,0,0,0,1.6
+6,Getafe CF,Domingos Duarte,DF,4,2,2170000,100,"['4', '-1', 0, 0, 0]",4,-1,0,0,0,0.6
+6,Getafe CF,Djené,DF,2,1,2520000,100,"['1', '0', 0, 0, 0]",1,0,0,0,0,0.2
+6,Getafe CF,Kofi,DF,0,0,550000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+6,Getafe CF,Omar Alderete,DF,0,0,1790000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+6,Getafe CF,Damián Suárez,DF,0,0,2510000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+6,Getafe CF,Gastón Álvarez,DF,0,0,590000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+6,Getafe CF,Mitrovic,DF,-1,-0.5,1280000,100,"['-1', '0', 0, 0, 0]",-1,0,0,0,0,-0.2
+6,Getafe CF,Angileri,DF,-2,-1,1950000,100,"['1', '-3', 0, 0, 0]",1,-3,0,0,0,-0.4
+6,Getafe CF,Mauro Arambarri,MD,10,5,5130000,100,"['6', '4', 0, 0, 0]",6,4,0,0,0,2.0
+6,Getafe CF,Maksimovic,MD,4,2,3850000,100,"['2', '2', 0, 0, 0]",2,2,0,0,0,0.8
+6,Getafe CF,Jaime Seoane,MD,4,2,2160000,0,"['2', '2', 0, 0, 0]",2,2,0,0,0,0.8
+6,Getafe CF,Moi Parra,MD,0,0,300000,0,"['3', '-', 0, 0, 0]",3,0,0,0,0,0.6
+6,Getafe CF,Aleñá,MD,1,0.5,1460000,100,"['0', '1', 0, 0, 0]",0,1,0,0,0,0.2
+6,Getafe CF,Luis Milla,MD,0,0,5960000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+6,Getafe CF,Enes Ünal,DL,15,7.5,11440000,100,"['4', '11', 0, 0, 0]",4,11,0,0,0,3.0
+6,Getafe CF,Portu,DL,3,1.5,5970000,0,"['3', '2', 0, 0, 0]",3,2,0,0,0,1.0
+6,Getafe CF,Jaime Mata,DL,2,2,520000,0,"['2', '-', 0, 0, 0]",2,0,0,0,0,0.4
+6,Getafe CF,Borja Mayoral,DL,-1,-0.5,6460000,100,"['-1', '1', 0, 0, 0]",-1,1,0,0,0,0.0
+7,Real Madrid CF,Courtois,PT,9,4.5,8090000,100,"['7', '2', 0, 0, 0]",7,2,0,0,0,1.8
+7,Real Madrid CF,Lunin,PT,0,0,470000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+7,Real Madrid CF,Alaba,DF,19,9.5,9860000,50,"['14', '5', 0, 0, 0]",14,5,0,0,0,3.8
+7,Real Madrid CF,Lucas Vázquez,DF,16,8,4310000,50,"['14', '2', 0, 0, 0]",14,2,0,0,0,3.2
+7,Real Madrid CF,Ferland Mendy,DF,7,3.5,5910000,100,"['2', '5', 0, 0, 0]",2,5,0,0,0,1.4
+7,Real Madrid CF,Rüdiger,DF,6,3,10750000,50,"['4', '2', 0, 0, 0]",4,2,0,0,0,1.2
+7,Real Madrid CF,Nacho Fernández,DF,4,4,1820000,50,"['4', '-', 0, 0, 0]",4,0,0,0,0,0.8
+7,Real Madrid CF,Carvajal,DF,3,3,5960000,50,"['-', '3', 0, 0, 0]",0,3,0,0,0,0.6
+7,Real Madrid CF,Éder Militão,DF,2,2,8180000,50,"['-', '2', 0, 0, 0]",0,2,0,0,0,0.4
+7,Real Madrid CF,Odriozola,DF,0,0,600000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+7,Real Madrid CF,Jesús Vallejo,DF,0,0,620000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+7,Real Madrid CF,Modric,MD,20,10,13610000,50,"['4', '16', 0, 0, 0]",4,16,0,0,0,4.0
+7,Real Madrid CF,Fede Valverde,MD,20,10,11820000,100,"['8', '12', 0, 0, 0]",8,12,0,0,0,4.0
+7,Real Madrid CF,Tchouaméni,MD,12,6,7610000,100,"['4', '8', 0, 0, 0]",4,8,0,0,0,2.4
+7,Real Madrid CF,Camavinga,MD,9,4.5,7420000,100,"['9', '-', 0, 0, 0]",9,0,0,0,0,1.8
+7,Real Madrid CF,Kroos,MD,9,9,15160000,50,"['4', '5', 0, 0, 0]",4,5,0,0,0,1.8
+7,Real Madrid CF,Dani Ceballos,MD,6,3,2480000,0,"['3', '3', 0, 0, 0]",3,3,0,0,0,1.2
+7,Real Madrid CF,Vinícius Júnior,DL,21,10.5,26110000,100,"['7', '14', 0, 0, 0]",7,14,0,0,0,4.2
+7,Real Madrid CF,Benzema,DL,10,5,28410000,100,"['3', '7', 0, 0, 0]",3,7,0,0,0,2.0
+7,Real Madrid CF,Asensio,DL,3,3,4240000,0,"['-', '3', 0, 0, 0]",0,3,0,0,0,0.6
+7,Real Madrid CF,Eden Hazard,DL,1,0.5,6480000,0,"['4', '-3', 0, 0, 0]",4,-3,0,0,0,0.2
+7,Real Madrid CF,Mariano Díaz,DL,0,0,1430000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+7,Real Madrid CF,Peter González,DL,0,0,650000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+7,Real Madrid CF,Latasa,DL,0,0,740000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+7,Real Madrid CF,Rodrygo,DL,0,0,8400000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+8,Rayo Vallecano de Madrid,Dimitrievski,PT,17,8.5,3640000,100,"['11', '6', 0, 0, 0]",11,6,0,0,0,3.4
+8,Rayo Vallecano de Madrid,Miguel Morro,PT,0,0,180000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+8,Rayo Vallecano de Madrid,Diego López,PT,0,0,2620000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+8,Rayo Vallecano de Madrid,Catena,DF,11,5.5,4210000,100,"['6', '5', 0, 0, 0]",6,5,0,0,0,2.2
+8,Rayo Vallecano de Madrid,Fran García,DF,8,4,3600000,100,"['5', '3', 0, 0, 0]",5,3,0,0,0,1.6
+8,Rayo Vallecano de Madrid,Balliu,DF,8,4,1980000,100,"['2', '6', 0, 0, 0]",2,6,0,0,0,1.6
+8,Rayo Vallecano de Madrid,Mario Suárez,DF,2,2,480000,0,"['-', '2', 0, 0, 0]",0,2,0,0,0,0.4
+8,Rayo Vallecano de Madrid,Mario Hernández,DF,0,0,410000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+8,Rayo Vallecano de Madrid,Saveljich,DF,0,0,790000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+8,Rayo Vallecano de Madrid,Lejeune,DF,-1,-0.5,2320000,100,"['5', '-6', 0, 0, 0]",5,-6,0,0,0,-0.2
+8,Rayo Vallecano de Madrid,Pathé Ciss,MD,19,9.5,2190000,100,"['7', '12', 0, 0, 0]",7,12,0,0,0,3.8
+8,Rayo Vallecano de Madrid,Isi Palazón,MD,16,8,4150000,100,"['7', '9', 0, 0, 0]",7,9,0,0,0,3.2
+8,Rayo Vallecano de Madrid,Álvaro García,MD,9,4.5,7430000,100,"['3', '6', 0, 0, 0]",3,6,0,0,0,1.8
+8,Rayo Vallecano de Madrid,Unai López,MD,7,3.5,930000,100,"['2', '5', 0, 0, 0]",2,5,0,0,0,1.4
+8,Rayo Vallecano de Madrid,Óscar Valentín,MD,6,3,2430000,0,"['4', '2', 0, 0, 0]",4,2,0,0,0,1.2
+8,Rayo Vallecano de Madrid,Salvi,MD,6,3,600000,0,"['2', '4', 0, 0, 0]",2,4,0,0,0,1.2
+8,Rayo Vallecano de Madrid,Trejo,MD,4,2,6360000,100,"['2', '2', 0, 0, 0]",2,2,0,0,0,0.8
+8,Rayo Vallecano de Madrid,Pozo,MD,4,4,630000,0,"['4', '-', 0, 0, 0]",4,0,0,0,0,0.8
+8,Rayo Vallecano de Madrid,Comesaña,MD,0,0,2890000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+8,Rayo Vallecano de Madrid,Álvaro Aguirre,MD,0,0,210000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+8,Rayo Vallecano de Madrid,Bebé,MD,0,0,1160000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+8,Rayo Vallecano de Madrid,Randy Nteka,DL,4,4,1400000,0,"['2', '2', 0, 0, 0]",2,2,0,0,0,0.8
+8,Rayo Vallecano de Madrid,Sergio Camello,DL,4,2,2380000,100,"['-', '4', 0, 0, 0]",0,4,0,0,0,0.8
+8,Rayo Vallecano de Madrid,Falcao,DL,3,1.5,4450000,0,"['2', '1', 0, 0, 0]",2,1,0,0,0,0.6
+8,Rayo Vallecano de Madrid,Andrés Martín,DL,0,0,210000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+9,RCD Mallorca,Rajkovic,PT,12,6,4000000,100,"['11', '1', 0, 0, 0]",11,1,0,0,0,2.4
+9,RCD Mallorca,Greif,PT,0,0,240000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+9,RCD Mallorca,Leo Román,PT,0,0,1040000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+9,RCD Mallorca,Martin Valjent,DF,11,5.5,1870000,100,"['8', '3', 0, 0, 0]",8,3,0,0,0,2.2
+9,RCD Mallorca,Maffeo,DF,9,4.5,3350000,100,"['5', '4', 0, 0, 0]",5,4,0,0,0,1.8
+9,RCD Mallorca,Copete,DF,9,4.5,2520000,100,"['7', '2', 0, 0, 0]",7,2,0,0,0,1.8
+9,RCD Mallorca,Raíllo,DF,8,4,2800000,100,"['5', '3', 0, 0, 0]",5,3,0,0,0,1.6
+9,RCD Mallorca,Jaume Costa,DF,8,4,1970000,100,"['3', '5', 0, 0, 0]",3,5,0,0,0,1.6
+9,RCD Mallorca,Braian Cufré,DF,0,0,410000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+9,RCD Mallorca,Josep Gayá,DF,0,0,230000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+9,RCD Mallorca,Giovanni González,DF,0,0,350000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+9,RCD Mallorca,Franco Russo,DF,0,0,420000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+9,RCD Mallorca,Kang-In Lee,MD,15,7.5,1780000,100,"['4', '11', 0, 0, 0]",4,11,0,0,0,3.0
+9,RCD Mallorca,Grenier,MD,8,4,2200000,100,"['4', '4', 0, 0, 0]",4,4,0,0,0,1.6
+9,RCD Mallorca,Idrissu Baba,MD,6,3,2080000,0,"['2', '4', 0, 0, 0]",2,4,0,0,0,1.2
+9,RCD Mallorca,Lago Júnior,MD,4,2,390000,0,"['4', '0', 0, 0, 0]",4,0,0,0,0,0.8
+9,RCD Mallorca,Dani Rodríguez,MD,4,2,3460000,100,"['2', '2', 0, 0, 0]",2,2,0,0,0,0.8
+9,RCD Mallorca,Antonio Sánchez,MD,3,1.5,500000,0,"['4', '-1', 0, 0, 0]",4,-1,0,0,0,0.6
+9,RCD Mallorca,Rodrigo Battaglia,MD,3,1.5,1240000,100,"['1', '2', 0, 0, 0]",1,2,0,0,0,0.6
+9,RCD Mallorca,Mboula,MD,0,0,270000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+9,RCD Mallorca,Ruiz de Galarreta,MD,0,0,670000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+9,RCD Mallorca,Amath Ndiaye,MD,0,0,310000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+9,RCD Mallorca,Javi Llabres,MD,0,0,210000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+9,RCD Mallorca,Muriqi,DL,11,5.5,10040000,100,"['2', '9', 0, 0, 0]",2,9,0,0,0,2.2
+9,RCD Mallorca,Abdón Prats,DL,6,3,620000,0,"['2', '4', 0, 0, 0]",2,4,0,0,0,1.2
+9,RCD Mallorca,Ángel Rodríguez,DL,0,0,1640000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+10,Real Betis Balompié,Rui Silva,PT,16,8,2730000,100,"['7', '9', 0, 0, 0]",7,9,0,0,0,3.2
+10,Real Betis Balompié,Dani Martín,PT,0,0,230000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+10,Real Betis Balompié,Claudio Bravo,PT,0,0,1230000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+10,Real Betis Balompié,Pezzella,DF,15,7.5,2770000,100,"['10', '5', 0, 0, 0]",10,5,0,0,0,3.0
+10,Real Betis Balompié,Édgar González,DF,10,5,1840000,100,"['6', '4', 0, 0, 0]",6,4,0,0,0,2.0
+10,Real Betis Balompié,Álex Moreno,DF,6,3,5790000,100,"['4', '2', 0, 0, 0]",4,2,0,0,0,1.2
+10,Real Betis Balompié,Fran Delgado,DF,0,0,290000,0,"['2', '-', 0, 0, 0]",2,0,0,0,0,0.4
+10,Real Betis Balompié,Sabaly,DF,0,0,2330000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+10,Real Betis Balompié,Martín Montoya,DF,0,0,280000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+10,Real Betis Balompié,Víctor Ruiz,DF,0,0,440000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+10,Real Betis Balompié,Juan Miranda,DF,0,0,680000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+10,Real Betis Balompié,Luiz Felipe,DF,0,0,4500000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+10,Real Betis Balompié,Fekir,MD,12,6,14950000,100,"['7', '5', 0, 0, 0]",7,5,0,0,0,2.4
+10,Real Betis Balompié,William Carvalho,MD,11,5.5,5260000,100,"['7', '4', 0, 0, 0]",7,4,0,0,0,2.2
+10,Real Betis Balompié,Guido Rodríguez,MD,11,5.5,7510000,100,"['9', '2', 0, 0, 0]",9,2,0,0,0,2.2
+10,Real Betis Balompié,Rober González,MD,8,4,580000,0,"['6', '2', 0, 0, 0]",6,2,0,0,0,1.6
+10,Real Betis Balompié,Aitor Ruibal,MD,7,3.5,1300000,100,"['5', '2', 0, 0, 0]",5,2,0,0,0,1.4
+10,Real Betis Balompié,Rodrigo Sánchez,MD,6,3,1070000,100,"['5', '1', 0, 0, 0]",5,1,0,0,0,1.2
+10,Real Betis Balompié,Paul Akouokou,MD,0,0,340000,0,"['-', '3', 0, 0, 0]",0,3,0,0,0,0.6
+10,Real Betis Balompié,Camarasa,MD,0,0,240000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+10,Real Betis Balompié,Joaquín,MD,0,0,670000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+10,Real Betis Balompié,Guardado,MD,0,0,570000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+10,Real Betis Balompié,Luiz Henrique,MD,0,0,6410000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+10,Real Betis Balompié,Canales,MD,0,0,13540000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+10,Real Betis Balompié,Borja Iglesias,DL,27,13.5,12980000,100,"['12', '15', 0, 0, 0]",12,15,0,0,0,5.4
+10,Real Betis Balompié,Juanmi Jiménez,DL,15,7.5,15080000,100,"['16', '-1', 0, 0, 0]",16,-1,0,0,0,3.0
+10,Real Betis Balompié,Loren Morón,DL,5,2.5,580000,0,"['3', '2', 0, 0, 0]",3,2,0,0,0,1.0
+10,Real Betis Balompié,Willian José,DL,0,0,4690000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+11,Real Sociedad de Fútbol,Alex Remiro,PT,6,3,5110000,100,"['7', '-1', 0, 0, 0]",7,-1,0,0,0,1.2
+11,Real Sociedad de Fútbol,Andoni Zubiaurre,PT,0,0,160000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+11,Real Sociedad de Fútbol,Zubeldia,DF,7,3.5,1680000,100,"['6', '1', 0, 0, 0]",6,1,0,0,0,1.4
+11,Real Sociedad de Fútbol,Le Normand,DF,7,3.5,6480000,100,"['5', '2', 0, 0, 0]",5,2,0,0,0,1.4
+11,Real Sociedad de Fútbol,Aritz Elustondo,DF,6,3,3690000,100,"['6', '0', 0, 0, 0]",6,0,0,0,0,1.2
+11,Real Sociedad de Fútbol,Diego Rico,DF,3,3,2450000,50,"['3', '-', 0, 0, 0]",3,0,0,0,0,0.6
+11,Real Sociedad de Fútbol,Gorosabel,DF,2,2,2030000,0,"['-', '2', 0, 0, 0]",0,2,0,0,0,0.4
+11,Real Sociedad de Fútbol,Aihen Muñoz,DF,1,0.5,800000,50,"['2', '-1', 0, 0, 0]",2,-1,0,0,0,0.2
+11,Real Sociedad de Fútbol,Jon Pacheco,DF,0,0,380000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+11,Real Sociedad de Fútbol,Álex Sola,DF,0,0,300000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+11,Real Sociedad de Fútbol,Mikel Merino,MD,17,8.5,11050000,100,"['11', '6', 0, 0, 0]",11,6,0,0,0,3.4
+11,Real Sociedad de Fútbol,Kubo,MD,12,6,5290000,100,"['9', '3', 0, 0, 0]",9,3,0,0,0,2.4
+11,Real Sociedad de Fútbol,Silva,MD,10,5,6700000,100,"['6', '4', 0, 0, 0]",6,4,0,0,0,2.0
+11,Real Sociedad de Fútbol,Brais Méndez,MD,7,3.5,7670000,100,"['5', '2', 0, 0, 0]",5,2,0,0,0,1.4
+11,Real Sociedad de Fútbol,Zubimendi,MD,6,3,3830000,100,"['4', '2', 0, 0, 0]",4,2,0,0,0,1.2
+11,Real Sociedad de Fútbol,Illarramendi,MD,3,3,1510000,0,"['3', '-', 0, 0, 0]",3,0,0,0,0,0.6
+11,Real Sociedad de Fútbol,Beñat Turrientes,MD,2,2,380000,0,"['2', '-', 0, 0, 0]",2,0,0,0,0,0.4
+11,Real Sociedad de Fútbol,Ander Barrenetxea,MD,2,2,900000,0,"['-', '2', 0, 0, 0]",0,2,0,0,0,0.4
+11,Real Sociedad de Fútbol,Robert Navarro,MD,2,2,400000,0,"['-', '2', 0, 0, 0]",0,2,0,0,0,0.4
+11,Real Sociedad de Fútbol,Germán Valera,MD,0,0,210000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+11,Real Sociedad de Fútbol,Merquelanz,MD,0,0,320000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+11,Real Sociedad de Fútbol,Ander Martín,MD,0,0,210000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+11,Real Sociedad de Fútbol,Guevara,MD,0,0,290000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+11,Real Sociedad de Fútbol,Isak,DL,10,5,9950000,100,"['2', '8', 0, 0, 0]",2,8,0,0,0,2.0
+11,Real Sociedad de Fútbol,Karrikaburu,DL,8,4,590000,0,"['6', '2', 0, 0, 0]",6,2,0,0,0,1.6
+11,Real Sociedad de Fútbol,Ali Cho,DL,2,1,7020000,0,"['0', '2', 0, 0, 0]",0,2,0,0,0,0.4
+11,Real Sociedad de Fútbol,Carlos Fernández,DL,0,0,1080000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+11,Real Sociedad de Fútbol,Oyarzabal,DL,0,0,5500000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+12,Villarreal CF,Rulli,PT,23,11.5,4210000,100,"['12', '11', 0, 0, 0]",12,11,0,0,0,4.6
+12,Villarreal CF,Pepe Reina,PT,0,0,910000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+12,Villarreal CF,Juan Foyth,DF,13,6.5,4390000,100,"['3', '10', 0, 0, 0]",3,10,0,0,0,2.6
+12,Villarreal CF,Alfonso Pedraza,DF,12,6,3730000,100,"['4', '8', 0, 0, 0]",4,8,0,0,0,2.4
+12,Villarreal CF,Albiol,DF,11,5.5,4490000,100,"['4', '7', 0, 0, 0]",4,7,0,0,0,2.2
+12,Villarreal CF,Pau Torres,DF,10,5,8180000,100,"['3', '7', 0, 0, 0]",3,7,0,0,0,2.0
+12,Villarreal CF,Aïssa Mandi,DF,2,2,1050000,0,"['2', '-', 0, 0, 0]",2,0,0,0,0,0.4
+12,Villarreal CF,Jorge Cuenca,DF,0,0,1240000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+12,Villarreal CF,Kiko Femenía,DF,0,0,1230000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+12,Villarreal CF,Álex Baena,MD,23,11.5,2940000,0,"['19', '4', 0, 0, 0]",19,4,0,0,0,4.6
+12,Villarreal CF,Parejo,MD,18,9,16360000,100,"['10', '8', 0, 0, 0]",10,8,0,0,0,3.6
+12,Villarreal CF,Yéremi Pino,MD,15,7.5,8690000,100,"['7', '8', 0, 0, 0]",7,8,0,0,0,3.0
+12,Villarreal CF,Capoue,MD,9,4.5,6000000,100,"['5', '4', 0, 0, 0]",5,4,0,0,0,1.8
+12,Villarreal CF,Coquelin,MD,8,4,3730000,50,"['6', '2', 0, 0, 0]",6,2,0,0,0,1.6
+12,Villarreal CF,Samu Chukwueze,MD,7,3.5,3810000,0,"['5', '2', 0, 0, 0]",5,2,0,0,0,1.4
+12,Villarreal CF,Lo Celso,MD,3,3,8770000,50,"['-', '3', 0, 0, 0]",0,3,0,0,0,0.6
+12,Villarreal CF,Morlanes,MD,0,0,650000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+12,Villarreal CF,Alberto Moreno,MD,0,0,1020000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+12,Villarreal CF,Carlo Adriano,MD,0,0,330000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+12,Villarreal CF,Trigueros,MD,0,0,2820000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+12,Villarreal CF,Nicolas Jackson,DL,12,6,3080000,100,"['10', '2', 0, 0, 0]",10,2,0,0,0,2.4
+12,Villarreal CF,Gerard Moreno,DL,8,4,17440000,100,"['2', '6', 0, 0, 0]",2,6,0,0,0,1.6
+12,Villarreal CF,Morales,DL,4,2,7150000,0,"['2', '2', 0, 0, 0]",2,2,0,0,0,0.8
+12,Villarreal CF,Danjuma,DL,0,0,8000000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+12,Villarreal CF,Fernando Niño,DL,0,0,1000000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+13,Valencia CF,Mamardashvili,PT,8,4,3130000,100,"['6', '2', 0, 0, 0]",6,2,0,0,0,1.6
+13,Valencia CF,Jaume Doménech,PT,0,0,420000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+13,Valencia CF,Thierry Correia,DF,9,4.5,2970000,100,"['2', '7', 0, 0, 0]",2,7,0,0,0,1.8
+13,Valencia CF,Foulquier,DF,6,3,1480000,0,"['2', '4', 0, 0, 0]",2,4,0,0,0,1.2
+13,Valencia CF,Diakhaby,DF,5,2.5,1820000,100,"['-', '5', 0, 0, 0]",0,5,0,0,0,1.0
+13,Valencia CF,Gabriel Paulista,DF,5,5,4510000,50,"['3', '2', 0, 0, 0]",3,2,0,0,0,1.0
+13,Valencia CF,Lato,DF,4,2,380000,0,"['4', '-', 0, 0, 0]",4,0,0,0,0,0.8
+13,Valencia CF,Cristhian Mosquera,DF,4,4,540000,0,"['2', '2', 0, 0, 0]",2,2,0,0,0,0.8
+13,Valencia CF,Jesús Vázquez,DF,3,1.5,1530000,100,"['3', '0', 0, 0, 0]",3,0,0,0,0,0.6
+13,Valencia CF,Gayà,DF,0,0,4760000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+13,Valencia CF,Rubén Iranzo,DF,0,0,200000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+13,Valencia CF,Özkacar,DF,0,0,500000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+13,Valencia CF,Cömert,DF,-3,-3,500000,50,"['-3', '-', 0, 0, 0]",-3,0,0,0,0,-0.6
+13,Valencia CF,Carlos Soler,MD,15,7.5,14340000,100,"['10', '5', 0, 0, 0]",10,5,0,0,0,3.0
+13,Valencia CF,Samuel Lino,MD,9,4.5,4960000,100,"['5', '4', 0, 0, 0]",5,4,0,0,0,1.8
+13,Valencia CF,Samu Castillejo,MD,7,3.5,7540000,100,"['3', '4', 0, 0, 0]",3,4,0,0,0,1.4
+13,Valencia CF,Guillamón,MD,6,3,2870000,100,"['4', '2', 0, 0, 0]",4,2,0,0,0,1.2
+13,Valencia CF,Nico González,MD,5,2.5,3610000,0,"['3', '2', 0, 0, 0]",3,2,0,0,0,1.0
+13,Valencia CF,Yunus Musah,MD,5,2.5,1520000,100,"['2', '3', 0, 0, 0]",2,3,0,0,0,1.0
+13,Valencia CF,Racic,MD,0,0,690000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+13,Valencia CF,Jesús Santiago,MD,0,0,420000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+13,Valencia CF,Koba,MD,0,0,300000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+13,Valencia CF,Hugo Duro,DL,6,3,4410000,100,"['4', '2', 0, 0, 0]",4,2,0,0,0,1.2
+13,Valencia CF,Maxi Gómez,DL,4,2,3420000,0,"['2', '2', 0, 0, 0]",2,2,0,0,0,0.8
+13,Valencia CF,Marcos André,DL,3,3,2180000,0,"['-', '3', 0, 0, 0]",0,3,0,0,0,0.6
+13,Valencia CF,Manu Vallejo,DL,0,0,410000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+14,Real Valladolid CF,Masip,PT,0,0,1470000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+14,Real Valladolid CF,Sergio Asenjo,PT,-1,-0.5,1810000,100,"['-1', '0', 0, 0, 0]",-1,0,0,0,0,-0.2
+14,Real Valladolid CF,Jawad El Yamiq,DF,7,3.5,1830000,100,"['6', '1', 0, 0, 0]",6,1,0,0,0,1.4
+14,Real Valladolid CF,Javi Sánchez,DF,5,5,1030000,50,"['-', '5', 0, 0, 0]",0,5,0,0,0,1.0
+14,Real Valladolid CF,Luis Pérez,DF,4,2,1480000,100,"['2', '2', 0, 0, 0]",2,2,0,0,0,0.8
+14,Real Valladolid CF,Sergio Escudero,DF,3,1.5,1470000,100,"['1', '2', 0, 0, 0]",1,2,0,0,0,0.6
+14,Real Valladolid CF,Joaquín Fernández,DF,3,1.5,1280000,50,"['1', '2', 0, 0, 0]",1,2,0,0,0,0.6
+14,Real Valladolid CF,Lucas Olaza,DF,3,1.5,720000,0,"['1', '2', 0, 0, 0]",1,2,0,0,0,0.6
+14,Real Valladolid CF,Anuar,MD,14,14,720000,50,"['-', '14', 0, 0, 0]",0,14,0,0,0,2.8
+14,Real Valladolid CF,Iván Sánchez,MD,10,5,2020000,50,"['6', '4', 0, 0, 0]",6,4,0,0,0,2.0
+14,Real Valladolid CF,Álvaro Aguado,MD,9,4.5,2520000,100,"['3', '6', 0, 0, 0]",3,6,0,0,0,1.8
+14,Real Valladolid CF,Kike Pérez,MD,8,4,970000,50,"['6', '2', 0, 0, 0]",6,2,0,0,0,1.6
+14,Real Valladolid CF,Monchu,MD,6,3,780000,50,"['4', '2', 0, 0, 0]",4,2,0,0,0,1.2
+14,Real Valladolid CF,Roque Mesa,MD,4,2,2840000,100,"['2', '2', 0, 0, 0]",2,2,0,0,0,0.8
+14,Real Valladolid CF,Óscar Plano,MD,4,2,1570000,0,"['2', '2', 0, 0, 0]",2,2,0,0,0,0.8
+14,Real Valladolid CF,Gonzalo Plata,MD,2,2,4180000,50,"['2', '-', 0, 0, 0]",2,0,0,0,0,0.4
+14,Real Valladolid CF,Toni Villa,MD,1,1,1550000,50,"['1', '-', 0, 0, 0]",1,0,0,0,0,0.2
+14,Real Valladolid CF,Mickael Malsa,MD,0,0,810000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+14,Real Valladolid CF,Hugo Vallejo,MD,0,0,280000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+14,Real Valladolid CF,Sergio León,DL,7,3.5,2090000,50,"['2', '5', 0, 0, 0]",2,5,0,0,0,1.4
+14,Real Valladolid CF,Sergi Guardiola,DL,2,2,3650000,50,"['-', '2', 0, 0, 0]",0,2,0,0,0,0.4
+14,Real Valladolid CF,Sekou Gassama,DL,2,2,500000,0,"['2', '-', 0, 0, 0]",2,0,0,0,0,0.4
+14,Real Valladolid CF,Shon Weissman,DL,0,0,3550000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+15,Cádiz CF,Jeremías Ledesma,PT,10,5,3710000,100,"['10', '0', 0, 0, 0]",10,0,0,0,0,2.0
+15,Cádiz CF,David Gil,PT,0,0,180000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+15,Cádiz CF,Luis Hernández,DF,14,7,2690000,100,"['8', '6', 0, 0, 0]",8,6,0,0,0,2.8
+15,Cádiz CF,Fali,DF,9,4.5,1830000,100,"['6', '3', 0, 0, 0]",6,3,0,0,0,1.8
+15,Cádiz CF,Víctor Chust,DF,6,3,1400000,100,"['4', '2', 0, 0, 0]",4,2,0,0,0,1.2
+15,Cádiz CF,Zaldua,DF,6,3,2040000,100,"['5', '1', 0, 0, 0]",5,1,0,0,0,1.2
+15,Cádiz CF,Arzamendia,DF,6,3,620000,50,"['2', '4', 0, 0, 0]",2,4,0,0,0,1.2
+15,Cádiz CF,Espino,DF,3,1.5,3780000,100,"['1', '2', 0, 0, 0]",1,2,0,0,0,0.6
+15,Cádiz CF,Cala,DF,0,0,360000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+15,Cádiz CF,Iza Carcelén,DF,0,0,420000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+15,Cádiz CF,Momo Mbaye,DF,0,0,330000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+15,Cádiz CF,Awer Mabil,MD,6,3,1680000,50,"['4', '2', 0, 0, 0]",4,2,0,0,0,1.2
+15,Cádiz CF,José Mari,MD,4,2,1000000,50,"['1', '3', 0, 0, 0]",1,3,0,0,0,0.8
+15,Cádiz CF,Iván Alejo,MD,4,2,620000,0,"['-', '4', 0, 0, 0]",0,4,0,0,0,0.8
+15,Cádiz CF,Fede San Emeterio,MD,4,4,630000,0,"['2', '2', 0, 0, 0]",2,2,0,0,0,0.8
+15,Cádiz CF,Mamady Diarra,MD,4,2,330000,50,"['2', '2', 0, 0, 0]",2,2,0,0,0,0.8
+15,Cádiz CF,Tomás Alarcón,MD,3,1.5,720000,50,"['4', '-1', 0, 0, 0]",4,-1,0,0,0,0.6
+15,Cádiz CF,Alberto Perea,MD,2,2,560000,50,"['2', '-', 0, 0, 0]",2,0,0,0,0,0.4
+15,Cádiz CF,Antonio Blanco,MD,0,0,970000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+15,Cádiz CF,Álvaro Bastida,MD,0,0,240000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+15,Cádiz CF,Martín Calderón,MD,0,0,230000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+15,Cádiz CF,Rubén Alcaraz,MD,0,0,2700000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+15,Cádiz CF,Jon Ander Garrido,MD,0,0,210000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+15,Cádiz CF,Pombo,MD,0,0,280000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+15,Cádiz CF,Álex Fernández,MD,0,0,1900000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+15,Cádiz CF,Negredo,DL,4,2,3500000,0,"['2', '2', 0, 0, 0]",2,2,0,0,0,0.8
+15,Cádiz CF,Choco Lozano,DL,4,2,3090000,100,"['4', '0', 0, 0, 0]",4,0,0,0,0,0.8
+15,Cádiz CF,Lucas Pérez,DL,3,1.5,5710000,100,"['1', '2', 0, 0, 0]",1,2,0,0,0,0.6
+15,Cádiz CF,Iván Chapela,DL,0,0,290000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+15,Cádiz CF,Álvaro Giménez,DL,0,0,220000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+15,Cádiz CF,Sobrino,DL,0,0,1540000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+16,UD Almería,Fernando Martínez,PT,16,8,2630000,100,"['12', '4', 0, 0, 0]",12,4,0,0,0,3.2
+16,UD Almería,Rosic,PT,0,0,200000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+16,UD Almería,Pacheco,PT,0,0,2350000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+16,UD Almería,Rodrigo Ely,DF,9,4.5,2450000,100,"['6', '3', 0, 0, 0]",6,3,0,0,0,1.8
+16,UD Almería,Kaiky,DF,9,4.5,2050000,100,"['5', '4', 0, 0, 0]",5,4,0,0,0,1.8
+16,UD Almería,Akieme,DF,7,3.5,2150000,100,"['4', '4', 0, 0, 0]",4,4,0,0,0,1.6
+16,UD Almería,Chumi,DF,7,3.5,690000,50,"['2', '5', 0, 0, 0]",2,5,0,0,0,1.4
+16,UD Almería,Babic,DF,4,2,2160000,100,"['2', '2', 0, 0, 0]",2,2,0,0,0,0.8
+16,UD Almería,Álex Pozo,DF,0,0,1340000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+16,UD Almería,Juanjo Nieto,DF,0,0,330000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+16,UD Almería,Iván Martos,DF,0,0,220000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+16,UD Almería,Mendes,DF,0,0,680000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+16,UD Almería,Álex Centelles,DF,0,0,260000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+16,UD Almería,Ramazani,MD,16,8,5000000,100,"['9', '7', 0, 0, 0]",9,7,0,0,0,3.2
+16,UD Almería,Eguaras,MD,13,6.5,1740000,100,"['8', '5', 0, 0, 0]",8,5,0,0,0,2.6
+16,UD Almería,Robertone,MD,11,5.5,3250000,100,"['3', '8', 0, 0, 0]",3,8,0,0,0,2.2
+16,UD Almería,Samu Costa,MD,9,4.5,2240000,100,"['3', '5', 0, 0, 0]",3,5,0,0,0,1.6
+16,UD Almería,Francisco Portillo,MD,4,2,1570000,0,"['2', '2', 0, 0, 0]",2,2,0,0,0,0.8
+16,UD Almería,Curro Sánchez,MD,4,4,670000,0,"['4', '-', 0, 0, 0]",4,0,0,0,0,0.8
+16,UD Almería,Arnau Puigmal,MD,3,1.5,620000,50,"['2', '1', 0, 0, 0]",2,1,0,0,0,0.6
+16,UD Almería,Lazo,MD,2,2,730000,0,"['2', '-', 0, 0, 0]",2,0,0,0,0,0.4
+16,UD Almería,Arvin Appiah,MD,0,0,870000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+16,UD Almería,De la Hoz,MD,0,0,770000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+16,UD Almería,Gui Guedes,MD,0,0,560000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+16,UD Almería,Svidersky,MD,0,0,1090000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+16,UD Almería,Umar Sadiq,DL,7,3.5,12890000,100,"['2', '5', 0, 0, 0]",2,5,0,0,0,1.4
+16,UD Almería,Dyego Sousa,DL,4,2,1240000,0,"['2', '2', 0, 0, 0]",2,2,0,0,0,0.8
+16,UD Almería,Leo Baptistão,DL,2,2,4030000,0,"['-', '2', 0, 0, 0]",0,2,0,0,0,0.4
+16,UD Almería,Milovanovic,DL,0,0,1610000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+17,Elche CF,Édgar Badía,PT,9,4.5,3000000,100,"['2', '7', 0, 0, 0]",2,7,0,0,0,1.8
+17,Elche CF,Axel Werner,PT,0,0,310000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+17,Elche CF,Johan Mojica,DF,8,4,4150000,100,"['1', '7', 0, 0, 0]",1,7,0,0,0,1.6
+17,Elche CF,Bigas,DF,6,3,1350000,100,"['0', '6', 0, 0, 0]",0,6,0,0,0,1.2
+17,Elche CF,Pol Lirola,DF,6,6,1100000,50,"['-', '6', 0, 0, 0]",0,6,0,0,0,1.2
+17,Elche CF,Helibelton Palacios,DF,4,4,1650000,50,"['-2', '6', 0, 0, 0]",-2,6,0,0,0,0.8
+17,Elche CF,Enzo Roco,DF,4,2,1690000,100,"['4', '-', 0, 0, 0]",4,0,0,0,0,0.8
+17,Elche CF,Diego González,DF,2,2,480000,0,"['2', '-', 0, 0, 0]",2,0,0,0,0,0.4
+17,Elche CF,Clerc,DF,0,0,530000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+17,Elche CF,Gonzalo Verdú,DF,0,0,670000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+17,Elche CF,John Donald,DF,-8,-8,220000,50,"['-8', '-', 0, 0, 0]",-8,0,0,0,0,-1.6
+17,Elche CF,Álex Collado,MD,8,8,2060000,50,"['-', '8', 0, 0, 0]",0,8,0,0,0,1.6
+17,Elche CF,Gumbau,MD,7,3.5,1810000,100,"['2', '5', 0, 0, 0]",2,5,0,0,0,1.4
+17,Elche CF,Josan,MD,4,2,1180000,0,"['-', '5', 0, 0, 0]",0,5,0,0,0,1.0
+17,Elche CF,Domingos Quina,MD,4,4,960000,0,"['2', '2', 0, 0, 0]",2,2,0,0,0,0.8
+17,Elche CF,Omar Mascarell,MD,3,1.5,2160000,100,"['1', '2', 0, 0, 0]",1,2,0,0,0,0.6
+17,Elche CF,Tete Morente,MD,3,1.5,1270000,50,"['0', '3', 0, 0, 0]",0,3,0,0,0,0.6
+17,Elche CF,Pastore,MD,1,1,400000,0,"['1', '-', 0, 0, 0]",1,0,0,0,0,0.2
+17,Elche CF,Fidel,MD,1,1,3890000,50,"['-', '1', 0, 0, 0]",0,1,0,0,0,0.2
+17,Elche CF,Álex Alfaro,MD,0,0,200000,0,"['1', '-', 0, 0, 0]",1,0,0,0,0,0.2
+17,Elche CF,Raúl Guti,MD,0,0,700000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+17,Elche CF,Ezequiel Ponce,DL,7,3.5,1610000,50,"['3', '4', 0, 0, 0]",3,4,0,0,0,1.4
+17,Elche CF,Pere Milla,DL,6,3,4030000,50,"['1', '5', 0, 0, 0]",1,5,0,0,0,1.2
+17,Elche CF,Roger,DL,6,3,4910000,100,"['-', '4', 0, 0, 0]",0,4,0,0,0,0.8
+17,Elche CF,Lucas Boyé,DL,4,4,5390000,0,"['2', '2', 0, 0, 0]",2,2,0,0,0,0.8
+18,Girona FC,Juan Carlos Martín,PT,4,2,2480000,100,"['2', '2', 0, 0, 0]",2,2,0,0,0,0.8
+18,Girona FC,Santiago Bueno,DF,13,6.5,2310000,100,"['7', '6', 0, 0, 0]",7,6,0,0,0,2.6
+18,Girona FC,Miguel Gutiérrez,DF,8,4,2440000,50,"['3', '5', 0, 0, 0]",3,5,0,0,0,1.6
+18,Girona FC,Juanpe,DF,7,3.5,2600000,100,"['5', '2', 0, 0, 0]",5,2,0,0,0,1.4
+18,Girona FC,Yan Couto,DF,6,3,820000,100,"['4', '2', 0, 0, 0]",4,2,0,0,0,1.2
+18,Girona FC,David López,DF,3,1.5,1610000,100,"['2', '1', 0, 0, 0]",2,1,0,0,0,0.6
+18,Girona FC,Valery,DF,2,2,1130000,50,"['2', '-', 0, 0, 0]",2,0,0,0,0,0.4
+18,Girona FC,Arnau Martínez,DF,2,2,1890000,0,"['2', '-', 0, 0, 0]",2,0,0,0,0,0.4
+18,Girona FC,Javi Hernández,DF,1,1,900000,0,"['-', '1', 0, 0, 0]",0,1,0,0,0,0.2
+18,Girona FC,Bernardo,DF,0,0,2590000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+18,Girona FC,Aleix García,MD,14,7,3820000,100,"['6', '8', 0, 0, 0]",6,8,0,0,0,2.8
+18,Girona FC,Yangel Herrera,MD,9,4.5,2280000,50,"['2', '7', 0, 0, 0]",2,7,0,0,0,1.8
+18,Girona FC,Rodrigo Riquelme,MD,7,3.5,3380000,100,"['2', '5', 0, 0, 0]",2,5,0,0,0,1.4
+18,Girona FC,Samu Sáiz,MD,4,2,2670000,50,"['1', '3', 0, 0, 0]",1,3,0,0,0,0.8
+18,Girona FC,Ramón Terrats,MD,3,1.5,1270000,50,"['2', '1', 0, 0, 0]",2,1,0,0,0,0.6
+18,Girona FC,Óscar Ureña,MD,3,3,790000,0,"['3', '-', 0, 0, 0]",3,0,0,0,0,0.6
+18,Girona FC,Reinier,MD,2,2,1330000,0,"['-', '2', 0, 0, 0]",0,2,0,0,0,0.4
+18,Girona FC,Iván Martín,MD,0,0,390000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+18,Girona FC,Borja García,MD,0,0,1240000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+18,Girona FC,Ibrahima Kébé,MD,0,0,300000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+18,Girona FC,Valentín Castellanos,DL,13,6.5,5870000,100,"['4', '9', 0, 0, 0]",4,9,0,0,0,2.6
+18,Girona FC,Stuani,DL,10,5,10050000,50,"['2', '8', 0, 0, 0]",2,8,0,0,0,2.0
+20,Sevilla FC,Bono,PT,5,2.5,6540000,100,"['2', '3', 0, 0, 0]",2,3,0,0,0,1.0
+20,Sevilla FC,Dmitrovic,PT,0,0,570000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+20,Sevilla FC,Rekik,DF,13,6.5,2570000,100,"['1', '12', 0, 0, 0]",1,12,0,0,0,2.6
+20,Sevilla FC,Marcos Acuña,DF,8,4,6350000,100,"['4', '4', 0, 0, 0]",4,4,0,0,0,1.6
+20,Sevilla FC,Nianzou,DF,4,4,2980000,50,"['-', '4', 0, 0, 0]",0,4,0,0,0,0.8
+20,Sevilla FC,Álex Telles,DF,3,1.5,2550000,0,"['2', '1', 0, 0, 0]",2,1,0,0,0,0.6
+20,Sevilla FC,Gonzalo Montiel,DF,2,2,820000,50,"['-', '2', 0, 0, 0]",0,2,0,0,0,0.4
+20,Sevilla FC,Jesús Navas,DF,1,1,5810000,50,"['1', '-', 0, 0, 0]",1,0,0,0,0,0.2
+20,Sevilla FC,José Ángel Carmona,DF,0,0,330000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+20,Sevilla FC,Marcão,DF,0,0,5110000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+20,Sevilla FC,Papu Gómez,MD,12,6,6710000,100,"['7', '5', 0, 0, 0]",7,5,0,0,0,2.4
+20,Sevilla FC,Fernando Reges,MD,11,5.5,6860000,100,"['6', '5', 0, 0, 0]",6,5,0,0,0,2.2
+20,Sevilla FC,Óliver Torres,MD,6,6,700000,50,"['-', '6', 0, 0, 0]",0,6,0,0,0,1.2
+20,Sevilla FC,Delaney,MD,5,5,2380000,50,"['5', '-', 0, 0, 0]",5,0,0,0,0,1.0
+20,Sevilla FC,Gudelj,MD,4,4,920000,50,"['2', '2', 0, 0, 0]",2,2,0,0,0,0.8
+20,Sevilla FC,Rakitic,MD,4,2,5780000,0,"['-', '4', 0, 0, 0]",0,4,0,0,0,0.8
+20,Sevilla FC,Joan Jordan,MD,4,4,5160000,50,"['4', '-', 0, 0, 0]",4,0,0,0,0,0.8
+20,Sevilla FC,Isco,MD,2,2,9120000,0,"['-', '2', 0, 0, 0]",0,2,0,0,0,0.4
+20,Sevilla FC,Pedro Ortiz,MD,0,0,220000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+20,Sevilla FC,Luismi Cruz,MD,0,0,200000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+20,Sevilla FC,Erik Lamela,DL,10,5,4250000,50,"['2', '8', 0, 0, 0]",2,8,0,0,0,2.0
+20,Sevilla FC,Rafa Mir,DL,8,4,7500000,100,"['9', '-1', 0, 0, 0]",9,-1,0,0,0,1.6
+20,Sevilla FC,Ocampos,DL,6,3,8530000,50,"['5', '1', 0, 0, 0]",5,1,0,0,0,1.2
+20,Sevilla FC,En-Nesyri,DL,4,2,7720000,0,"['2', '2', 0, 0, 0]",2,2,0,0,0,0.8
+20,Sevilla FC,Iván Romero,DL,2,2,280000,0,"['2', '-', 0, 0, 0]",2,0,0,0,0,0.4
+20,Sevilla FC,Jesús Corona,DL,2,2,6090000,50,"['2', '-', 0, 0, 0]",2,0,0,0,0,0.4
+20,Sevilla FC,Munir El Haddadi,DL,0,0,1490000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0
+20,Sevilla FC,Suso,DL,0,0,1300000,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0

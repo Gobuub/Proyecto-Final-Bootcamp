@@ -1,0 +1,29 @@
+Team_id,Team,Player,Position,Matchs,On_start_%,Goals,Assists,Total_Points,Points_Average,Last_5_games_points,J_10,J_9,J_8,J_7,J_6,Avg_last_5_games,Value,img,squad_img
+13,Valencia CF,Mamardashvili,PT,10,100,0,0,46,4.6,"['9', '2', '2', '1', '6']",9,2,2,1,6,4.0,3690000,https://www.comuniate.com/caras3/3102.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Jaume Doménech,PT,10,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,300000,https://www.comuniate.com/caras3/2149.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Herrerín,PT,10,0,1,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,370000,https://www.comuniate.com/caras3/1709.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Diakhaby,DF,9,90,2,0,53,5.9,"['6', '5', '10', '-', '4']",6,5,10,0,4,5.0,4250000,https://www.comuniate.com/caras3/2614.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Thierry Correia,DF,9,100,0,3,45,4.5,"['9', '3', '4', '0', '7']",9,3,4,0,7,4.6,4030000,https://www.comuniate.com/caras3/2863.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Gayà,DF,8,60,1,0,39,6.5,"['9', '9', '7', '7', '5']",9,9,7,7,5,7.4,6770000,https://www.comuniate.com/caras3/1844.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Lato,DF,8,20,0,2,38,4.8,"['3', '-', '2', '5', '-']",3,0,2,5,0,2.0,2590000,https://www.comuniate.com/caras3/2345.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Cömert,DF,7,70,2,0,34,4.3,"['5', '11', '4', '5', '2']",5,11,4,5,2,5.4,2160000,https://www.comuniate.com/caras3/3226.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Gabriel Paulista,DF,6,40,0,1,29,4.1,"['2', '12', '1', '5', '2']",2,12,1,5,2,4.4,4440000,https://www.comuniate.com/caras3/1768.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Foulquier,DF,5,10,3,1,18,3,"['-', '-', '2', '-', '6']",0,0,2,0,6,1.6,860000,https://www.comuniate.com/caras3/1780.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Jesús Vázquez,DF,7,20,1,2,5,1.7,"['-', '-', '-', '2', '-']",0,0,0,2,0,0.4,800000,https://www.comuniate.com/caras3/3173.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Cristhian Mosquera,DF,7,0,1,0,5,2.5,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,420000,https://www.comuniate.com/caras3/3220.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Rubén Iranzo,DF,6,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,200000,https://www.comuniate.com/caras3/3191.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Özkacar,DF,9,0,1,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,720000,https://www.comuniate.com/caras3/3324.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Samuel Lino,MD,7,100,1,0,47,4.7,"['2', '3', '7', '5', '4']",2,3,7,5,4,4.2,6620000,https://www.comuniate.com/caras3/3256.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Guillamón,MD,3,90,1,0,44,4.9,"['6', '2', '2', '-', '7']",6,2,2,0,7,3.4,5390000,https://www.comuniate.com/caras3/2908.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Samu Castillejo,MD,6,70,1,0,38,5.4,"['10', '2', '-', '-', '-']",10,2,0,0,0,2.4,8450000,https://www.comuniate.com/caras3/1968.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,André Almeida,MD,8,40,1,0,36,5.1,"['9', '1', '5', '8', '2']",9,1,5,8,2,5.0,4670000,https://www.comuniate.com/caras3/3325.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Yunus Musah,MD,7,70,1,0,32,4,"['-', '-', '2', '3', '2']",0,0,2,3,2,1.4,3670000,https://www.comuniate.com/caras3/2995.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Nico González,MD,3,30,0,0,29,3.2,"['2', '2', '-', '3', '2']",2,2,0,3,2,1.8,4380000,https://www.comuniate.com/caras3/3146.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Kluivert,MD,6,20,0,1,27,4.5,"['1', '3', '11', '6', '2']",1,3,11,6,2,4.6,4540000,https://www.comuniate.com/caras3/3341.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Ilaix Moriba,MD,3,40,0,0,20,3.3,"['5', '4', '4', '5', '6']",5,4,4,5,6,4.8,2200000,https://www.comuniate.com/caras3/3074.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Fran Pérez,MD,2,0,0,0,0,0,"['-', '-', '-', '2', '-']",0,0,0,2,0,0.4,300000,https://www.comuniate.com/caras3/0.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Jesús Santiago,MD,2,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,300000,https://www.comuniate.com/caras3/3239.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Cavani,DL,1,50,0,0,31,6.2,"['2', '4', '0', '15', '10']",2,4,0,15,10,6.2,15660000,https://www.comuniate.com/caras3/3329.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Hugo Duro,DL,0,30,0,0,22,3.1,"['-', '2', '2', '0', '-']",0,2,2,0,0,0.8,4120000,https://www.comuniate.com/caras3/2550.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Marcos André,DL,0,20,0,0,20,2.9,"['11', '-5', '-', '-', '2']",11,-5,0,0,2,1.6,2740000,https://www.comuniate.com/caras3/2957.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Diego López Noguerol,DL,0,0,0,0,2,2,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,310000,https://www.comuniate.com/caras3/3333.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg

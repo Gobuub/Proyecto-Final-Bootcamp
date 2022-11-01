@@ -1,0 +1,28 @@
+Team_id,Team,Player,Position,Matchs,On_start_%,Goals,Assists,Total_Points,Points_Average,Last_5_games_points,J_12,J_11,J_10,J_9,J_8,Avg_last_5_games,Value,img,squad_img
+12,Villarreal CF,Rulli,PT,12,100,0,0,80,6.7,"['5', '10', '0', '6', '9']",5,10,0,6,9,6.0,6620000,https://www.comuniate.com/caras3/1915.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Pepe Reina,PT,12,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,460000,https://www.comuniate.com/caras3/2877.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Pau Torres,DF,12,100,0,2,57,4.8,"['3', '5', '2', '4', '2']",3,5,2,4,2,3.2,8570000,https://www.comuniate.com/caras3/2554.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Albiol,DF,11,92,0,0,55,5,"['2', '7', '2', '5', '-']",2,7,2,5,0,3.2,6230000,https://www.comuniate.com/caras3/106.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Alfonso Pedraza,DF,10,83,0,1,48,4.8,"['1', '7', '2', '-', '-']",1,7,2,0,0,2.0,5030000,https://www.comuniate.com/caras3/2031.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Kiko Femenía,DF,12,58,2,2,34,3.8,"['2', '-', '3', '5', '2']",2,0,3,5,2,2.4,2780000,https://www.comuniate.com/caras3/1168.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Aïssa Mandi,DF,8,25,0,0,23,3.3,"['4', '6', '2', '2', '5']",4,6,2,2,5,3.8,1470000,https://www.comuniate.com/caras3/2251.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Johan Mojica,DF,11,33,1,1,20,2.9,"['-', '-', '1', '4', '-']",0,0,1,4,0,1.0,3320000,https://www.comuniate.com/caras3/1732.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Juan Foyth,DF,8,25,1,0,15,5,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,3910000,https://www.comuniate.com/caras3/3017.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Jorge Cuenca,DF,9,0,0,0,2,2,"['-', '-', '-', '-', '2']",0,0,0,0,2,0.4,570000,https://www.comuniate.com/caras3/3093.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Parejo,MD,10,100,1,0,76,6.3,"['2', '6', '5', '12', '4']",2,6,5,12,4,5.8,16640000,https://www.comuniate.com/caras3/951.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Álex Baena,MD,5,33,2,0,62,5.6,"['2', '10', '2', '4', '-']",2,10,2,4,0,3.6,6240000,https://www.comuniate.com/caras3/2943.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Yéremi Pino,MD,11,67,4,0,41,3.7,"['1', '-', '-', '6', '4']",1,0,0,6,4,2.2,7770000,https://www.comuniate.com/caras3/3031.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Coquelin,MD,7,50,2,0,41,4.1,"['3', '4', '2', '2', '2']",3,4,2,2,2,2.6,4220000,https://www.comuniate.com/caras3/2522.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Lo Celso,MD,12,67,1,0,38,4.8,"['4', '-', '-', '-', '2']",4,0,0,0,2,1.2,9250000,https://www.comuniate.com/caras3/2684.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Capoue,MD,11,67,0,1,37,4.6,"['6', '-', '-', '-', '-']",6,0,0,0,0,1.2,4530000,https://www.comuniate.com/caras3/3051.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Samu Chukwueze,MD,7,25,0,0,35,3.2,"['2', '1', '-', '2', '2']",2,1,0,2,2,1.4,4520000,https://www.comuniate.com/caras3/2687.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Alberto Moreno,MD,3,17,0,0,12,3,"['-', '3', '4', '3', '2']",0,3,4,3,2,2.4,1650000,https://www.comuniate.com/caras3/1659.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Trigueros,MD,4,0,0,0,10,2.5,"['-', '2', '3', '2', '3']",0,2,3,2,3,2.0,2330000,https://www.comuniate.com/caras3/1699.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Alberto del Moral,MD,2,0,0,0,2,2,"['-', '3', '3', '-', '-']",0,3,3,0,0,1.2,160000,https://www.comuniate.com/caras3/0.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Morlanes,MD,4,17,0,0,6,3,"['-', '-', '-', '-', '2']",0,0,0,0,2,0.4,510000,https://www.comuniate.com/caras3/2671.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Carlo Adriano,MD,4,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,240000,https://www.comuniate.com/caras3/3211.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Nicolas Jackson,DL,1,67,0,0,48,4,"['2', '7', '0', '10', '2']",2,7,0,10,2,4.2,6250000,https://www.comuniate.com/caras3/3210.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Morales,DL,1,25,0,0,34,2.8,"['4', '3', '1', '2', '2']",4,3,1,2,2,2.4,5560000,https://www.comuniate.com/caras3/1868.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Danjuma,DL,0,33,0,0,28,4,"['1', '15', '2', '2', '4']",1,15,2,2,4,4.8,9930000,https://www.comuniate.com/caras3/3150.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Gerard Moreno,DL,0,42,0,0,22,4.4,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,12510000,https://www.comuniate.com/caras3/1927.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Fernando Niño,DL,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,590000,https://www.comuniate.com/caras3/2895.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg

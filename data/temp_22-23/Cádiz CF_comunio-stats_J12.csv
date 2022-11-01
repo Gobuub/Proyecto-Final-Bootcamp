@@ -1,0 +1,31 @@
+Team_id,Team,Player,Position,Total_Points,Points_Average,Value,On_start_%,Last_5_games_points,J_12,J_11,J_10,J_9,J_8,Avg_last_5_games,img,squad_img
+15,Cádiz CF,Jeremías Ledesma,PT,64,5.3,3890000,100,"['5', '7', '8', '2', '5']",5,7,8,2,5,5.4,https://www.comuniate.com/caras3/2983.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,David Gil,PT,0,0,220000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/2927.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Luis Hernández,DF,38,3.5,2930000,92,"['3', '5', '-', '-1', '2']",3,5,0,-1,2,1.8,https://www.comuniate.com/caras3/2052.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Víctor Chust,DF,33,3.3,1900000,67,"['11', '2', '-', '0', '2']",11,2,0,0,2,3.0,https://www.comuniate.com/caras3/3079.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Espino,DF,31,2.6,2970000,92,"['6', '2', '5', '-2', '7']",6,2,5,-2,7,3.6,https://www.comuniate.com/caras3/2928.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Fali,DF,23,3.8,980000,42,"['-', '-', '4', '2', '6']",0,0,4,2,6,2.4,https://www.comuniate.com/caras3/2929.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Zaldua,DF,20,2,1300000,58,"['-1', '2', '2', '-', '-']",-1,2,2,0,0,0.6,https://www.comuniate.com/caras3/1800.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Momo Mbaye,DF,9,3,330000,25,"['-', '5', '2', '-7', '-']",0,5,2,-7,0,0.0,https://www.comuniate.com/caras3/3310.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Iza Carcelén,DF,8,1.6,660000,33,"['-', '-', '3', '-', '-']",0,0,3,0,0,0.6,https://www.comuniate.com/caras3/2930.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Arzamendia,DF,7,1.8,490000,25,"['-', '2', '-', '-', '-']",0,2,0,0,0,0.4,https://www.comuniate.com/caras3/3122.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Cala,DF,2,2,310000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/1120.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Álex Fernández,MD,42,4.2,1690000,50,"['4', '11', '3', '2', '12']",4,11,3,2,12,6.4,https://www.comuniate.com/caras3/1783.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Fede San Emeterio,MD,28,2.5,940000,75,"['2', '2', '3', '2', '3']",2,2,3,2,3,2.4,https://www.comuniate.com/caras3/2771.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Iván Alejo,MD,24,2.4,680000,58,"['1', '-', '4', '-', '11']",1,0,4,0,11,3.2,https://www.comuniate.com/caras3/2411.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Bongonda,MD,24,3.4,1490000,33,"['2', '6', '-', '-', '6']",2,6,0,0,6,2.8,https://www.comuniate.com/caras3/2014.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,José Mari,MD,23,2.6,930000,17,"['4', '2', '2', '-', '1']",4,2,2,0,1,1.8,https://www.comuniate.com/caras3/1570.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Rubén Alcaraz,MD,21,2.6,2120000,33,"['5', '4', '4', '-2', '2']",5,4,4,-2,2,2.6,https://www.comuniate.com/caras3/2390.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Brian Ocampo,MD,14,1.8,1360000,50,"['2', '2', '3', '2', '3']",2,2,3,2,3,2.4,https://www.comuniate.com/caras3/3328.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Awer Mabil,MD,9,1.8,1230000,8,"['-', '-', '-', '0', '-']",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/3258.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Antonio Blanco,MD,7,2.3,640000,17,"['-', '-', '-', '2', '-']",0,0,0,2,0,0.4,https://www.comuniate.com/caras3/3081.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Tomás Alarcón,MD,6,1.5,510000,17,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/3103.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Mamady Diarra,MD,4,2,350000,8,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/3315.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Álvaro Bastida,MD,0,0,260000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/3089.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Jon Ander Garrido,MD,0,0,200000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/2935.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Lucas Pérez,DL,33,3,3890000,42,"['11', '-', '2', '2', '2']",11,0,2,2,2,3.4,https://www.comuniate.com/caras3/1912.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Negredo,DL,33,3.7,3210000,42,"['2', '6', '-', '2', '-']",2,6,0,2,0,2.0,https://www.comuniate.com/caras3/633.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Sobrino,DL,23,2.6,1460000,58,"['2', '2', '4', '-1', '7']",2,2,4,-1,7,2.8,https://www.comuniate.com/caras3/2270.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Choco Lozano,DL,22,2.2,2310000,50,"['2', '3', '3', '1', '4']",2,3,3,1,4,2.6,https://www.comuniate.com/caras3/2534.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Álvaro Giménez,DL,1,1,280000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/1457.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Iván Chapela,DL,0,0,260000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/3176.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg

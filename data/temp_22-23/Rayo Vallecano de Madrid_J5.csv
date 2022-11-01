@@ -1,0 +1,28 @@
+Team_id,Team,Player,Position,Matchs,On_start_%,Goals,Assists,Total_Points,Points_Average,Last_5_games_points,J_5,J_4,J_3,J_2,J_1,Avg_last_5_games,Value,img,squad_img
+8,Rayo Vallecano de Madrid,Dimitrievski,PT,5,100,0,0,21,4.2,"['11', '6', '1', '2', '1']",11,6,1,2,1,4.2,4490000,https://www.comuniate.com/caras3/1946.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Miguel Morro,PT,5,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,180000,https://www.comuniate.com/caras3/3111.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Diego López,PT,5,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,1870000,https://www.comuniate.com/caras3/52.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Catena,DF,5,100,0,0,28,5.6,"['6', '5', '3', '8', '6']",6,5,3,8,6,5.6,4260000,https://www.comuniate.com/caras3/2743.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Balliu,DF,5,100,0,1,16,3.2,"['2', '6', '4', '0', '4']",2,6,4,0,4,3.2,2290000,https://www.comuniate.com/caras3/3130.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Lejeune,DF,5,80,0,1,14,3.5,"['5', '-6', '-', '13', '2']",5,-6,0,13,2,2.8,2770000,https://www.comuniate.com/caras3/1470.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Fran García,DF,5,100,1,0,13,2.6,"['5', '3', '4', '1', '0']",5,3,4,1,0,2.6,3210000,https://www.comuniate.com/caras3/3116.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Mario Suárez,DF,5,0,0,0,2,2,"['-', '2', '-', '-', '-']",0,2,0,0,0,0.4,440000,https://www.comuniate.com/caras3/547.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Pep Chavarría,DF,4,0,1,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,650000,https://www.comuniate.com/caras3/3335.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Abdul Mumin,DF,5,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,670000,https://www.comuniate.com/caras3/3339.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Mario Hernández,DF,4,0,2,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,380000,https://www.comuniate.com/caras3/3105.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Saveljich,DF,4,0,0,1,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,620000,https://www.comuniate.com/caras3/2398.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Pathé Ciss,MD,4,80,0,0,28,5.6,"['7', '12', '5', '2', '2']",7,12,5,2,2,5.6,4040000,https://www.comuniate.com/caras3/3136.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Isi Palazón,MD,5,60,0,0,27,6.8,"['7', '9', '-', '1', '10']",7,9,0,1,10,5.4,4640000,https://www.comuniate.com/caras3/3108.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Trejo,MD,3,100,0,0,24,4.8,"['2', '2', '6', '5', '9']",2,2,6,5,9,4.8,6600000,https://www.comuniate.com/caras3/526.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Óscar Valentín,MD,1,60,0,0,19,3.8,"['4', '2', '6', '2', '5']",4,2,6,2,5,3.8,2450000,https://www.comuniate.com/caras3/3107.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Álvaro García,MD,3,100,0,0,17,3.4,"['3', '6', '4', '2', '2']",3,6,4,2,2,3.4,6270000,https://www.comuniate.com/caras3/1771.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Salvi,MD,3,40,0,0,13,3.3,"['2', '4', '4', '3', '-']",2,4,4,3,0,2.6,900000,https://www.comuniate.com/caras3/2937.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Unai López,MD,1,60,0,0,11,2.8,"['2', '5', '2', '-', '2']",2,5,2,0,2,2.2,1140000,https://www.comuniate.com/caras3/1969.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Comesaña,MD,1,20,0,0,8,2.7,"['-', '-', '4', '2', '2']",0,0,4,2,2,1.6,2360000,https://www.comuniate.com/caras3/2591.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Pozo,MD,0,0,0,0,8,2.7,"['4', '-', '3', '-', '1']",4,0,3,0,1,1.6,670000,https://www.comuniate.com/caras3/2641.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Bebé,MD,0,0,0,0,2,2,"['-', '-', '2', '-', '-']",0,0,2,0,0,0.4,1090000,https://www.comuniate.com/caras3/2013.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Álvaro Aguirre,MD,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,210000,https://www.comuniate.com/caras3/3205.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Sergio Camello,DL,0,80,0,0,13,2.6,"['2', '2', '2', '2', '5']",2,2,2,2,5,2.6,2740000,https://www.comuniate.com/caras3/2764.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Randy Nteka,DL,0,0,0,0,9,3,"['-', '4', '4', '-', '1']",0,4,4,0,1,1.8,1200000,https://www.comuniate.com/caras3/3135.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Falcao,DL,0,20,0,0,7,1.4,"['2', '1', '2', '2', '0']",2,1,2,2,0,1.4,4880000,https://www.comuniate.com/caras3/1426.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Raúl de Tomás,DL,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,10690000,https://www.comuniate.com/caras3/2587.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg

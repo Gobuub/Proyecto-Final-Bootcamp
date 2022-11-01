@@ -1,0 +1,27 @@
+Team_id,Team,Player,Position,Total_Points,Points_Average,Value,On_start_%,Last_5_games_points,J_8,J_7,J_6,J_5,J_4,Avg_last_5_games,img,squad_img
+17,Elche CF,Édgar Badía,PT,41,5.1,3410000,100,"['4', '2', '5', '2', '9']",4,2,5,2,9,4.4,https://www.comuniate.com/caras3/2972.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Axel Werner,PT,0,0,250000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/2548.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Bigas,DF,18,2.6,1460000,88,"['1', '2', '3', '-', '2']",1,2,3,0,2,1.6,https://www.comuniate.com/caras3/1450.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Helibelton Palacios,DF,16,2.7,1190000,63,"['0', '-', '2', '3', '3']",0,0,2,3,3,1.6,https://www.comuniate.com/caras3/3073.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Pol Lirola,DF,13,2.6,990000,50,"['-', '0', '-', '1', '5']",0,0,0,1,5,1.2,https://www.comuniate.com/caras3/3312.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Clerc,DF,9,2.3,1040000,50,"['4', '-', '2', '0', '3']",4,0,2,0,3,1.8,https://www.comuniate.com/caras3/1794.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Diego González,DF,9,3,570000,13,"['-', '-', '2', '5', '-']",0,0,2,5,0,1.4,https://www.comuniate.com/caras3/2216.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Enzo Roco,DF,7,1.2,970000,63,"['1', '-1', '-', '2', '-']",1,-1,0,2,0,0.4,https://www.comuniate.com/caras3/1931.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Federico Fernández,DF,4,4,1130000,13,"['-', '-', '-', '4', '-']",0,0,0,4,0,0.8,https://www.comuniate.com/caras3/1650.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Fernández Mercau,DF,1,0.3,680000,13,"['-', '-1', '1', '-', '1']",0,-1,1,0,1,0.2,https://www.comuniate.com/caras3/3344.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,John Donald,DF,-4,-1.3,300000,25,"['-', '4', '0', '-', '-']",0,4,0,0,0,0.8,https://www.comuniate.com/caras3/3049.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Gonzalo Verdú,DF,-5,-2.5,590000,25,"['-', '-', '-8', '-', '3']",0,0,-8,0,3,-1.0,https://www.comuniate.com/caras3/2974.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Gumbau,MD,27,3.4,1250000,88,"['4', '0', '2', '6', '6']",4,0,2,6,6,3.6,https://www.comuniate.com/caras3/2153.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Álex Collado,MD,17,4.3,2790000,50,"['1', '0', '-', '-', '-']",1,0,0,0,0,0.2,https://www.comuniate.com/caras3/2757.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Domingos Quina,MD,15,2.1,1090000,25,"['1', '0', '2', '2', '2']",1,0,2,2,2,1.4,https://www.comuniate.com/caras3/3068.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Raúl Guti,MD,14,2.3,720000,50,"['0', '4', '2', '2', '2']",0,4,2,2,2,2.0,https://www.comuniate.com/caras3/3003.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Josan,MD,12,2,690000,13,"['1', '3', '2', '-', '2']",1,3,2,0,2,1.6,https://www.comuniate.com/caras3/2981.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Omar Mascarell,MD,11,1.8,1180000,75,"['1', '2', '-', '-', '2']",1,2,0,0,2,1.0,https://www.comuniate.com/caras3/1678.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Tete Morente,MD,9,1.5,940000,50,"['2', '-', '2', '0', '-']",2,0,2,0,0,0.8,https://www.comuniate.com/caras3/3001.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Fidel,MD,5,1.7,3160000,25,"['-', '4', '0', '-', '-']",0,4,0,0,0,0.8,https://www.comuniate.com/caras3/1693.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Pastore,MD,1,1,410000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/3167.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Álex Alfaro,MD,0,0,280000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/3318.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Ezequiel Ponce,DL,30,3.8,2510000,50,"['1', '11', '1', '1', '7']",1,11,1,1,7,4.2,https://www.comuniate.com/caras3/2293.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Pere Milla,DL,22,3.1,2810000,25,"['2', '2', '-', '3', '5']",2,2,0,3,5,2.4,https://www.comuniate.com/caras3/2408.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Lucas Boyé,DL,19,2.7,6240000,50,"['2', '10', '2', '8', '-8']",2,10,2,8,-8,2.8,https://www.comuniate.com/caras3/2539.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Roger,DL,15,2.5,3370000,63,"['2', '-', '-', '3', '2']",2,0,0,3,2,1.4,https://www.comuniate.com/caras3/1475.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg

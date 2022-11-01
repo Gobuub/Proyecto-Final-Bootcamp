@@ -1,0 +1,27 @@
+Team_id,Team,Player,Position,Total_Points,Points_Average,Value,On_start_%,Last_5_games_points,J_6,J_5,J_4,J_3,J_2,Avg_last_5_games,img,squad_img
+5,FC Barcelona,Ter Stegen,PT,44,7.3,6730000,100,"['7', '7', '10', '6', '6']",7,7,10,6,6,7.2,https://www.comuniate.com/caras3/1852.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Iñaki Peña,PT,0,0,500000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/3257.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Eric García,DF,32,6.4,4440000,83,"['5', '7', '11', '-', '4']",5,7,11,0,4,5.4,https://www.comuniate.com/caras3/3100.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Kounde,DF,28,9.3,11530000,50,"['-', '10', '12', '-', '6']",0,10,12,0,6,5.6,https://www.comuniate.com/caras3/2818.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Ronald Araujo,DF,28,4.7,8130000,100,"['3', '3', '7', '6', '5']",3,3,7,6,5,4.8,https://www.comuniate.com/caras3/2866.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Alejandro Balde,DF,28,5.6,3290000,83,"['5', '5', '2', '4', '12']",5,5,2,4,12,5.6,https://www.comuniate.com/caras3/3170.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Héctor Bellerín,DF,10,5,3480000,17,"['3', '-', '5', '-', '-']",3,0,5,0,0,1.6,https://www.comuniate.com/caras3/3164.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Christensen,DF,10,5,3700000,33,"['4', '-', '-', '-', '-']",4,0,0,0,0,0.8,https://www.comuniate.com/caras3/3244.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Jordi Alba,DF,10,3.3,4650000,17,"['-', '-', '-', '5', '5']",0,0,0,5,5,2.0,https://www.comuniate.com/caras3/987.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Piqué,DF,6,6,2360000,17,"['-', '-', '-', '6', '-']",0,0,0,6,0,1.2,https://www.comuniate.com/caras3/140.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Marcos Alonso,DF,2,2,4150000,0,"['-', '-', '-', '2', '-']",0,0,0,2,0,0.4,https://www.comuniate.com/caras3/3345.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Pedri,MD,43,7.2,21220000,83,"['9', '12', '5', '2', '10']",9,12,5,2,10,7.6,https://www.comuniate.com/caras3/2969.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,De Jong,MD,41,6.8,8610000,50,"['5', '4', '2', '13', '11']",5,4,2,13,11,7.0,https://www.comuniate.com/caras3/2761.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Gavi,MD,26,4.3,11310000,83,"['4', '5', '5', '5', '5']",4,5,5,5,5,4.8,https://www.comuniate.com/caras3/3160.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Sergio Busquets,MD,23,5.8,8660000,67,"['-', '5', '7', '8', '-']",0,5,7,8,0,4.0,https://www.comuniate.com/caras3/938.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Sergi Roberto,MD,22,5.5,1510000,0,"['4', '11', '5', '-', '-']",4,11,5,0,0,4.0,https://www.comuniate.com/caras3/1342.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Kessié,MD,9,2.3,3710000,17,"['2', '4', '-', '-', '1']",2,4,0,0,1,1.4,https://www.comuniate.com/caras3/3286.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Álvaro Sanz,MD,0,0,250000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/3207.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Lewandowski,DL,75,12.5,33260000,83,"['17', '16', '4', '16', '16']",17,16,4,16,16,13.8,https://www.comuniate.com/caras3/3300.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Dembélé,DL,46,7.7,26050000,83,"['8', '13', '3', '10', '5']",8,13,3,10,5,7.8,https://www.comuniate.com/caras3/2476.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Raphinha,DL,46,7.7,23050000,67,"['4', '12', '13', '6', '5']",4,12,13,6,5,8.0,https://www.comuniate.com/caras3/3298.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Ansu Fati,DL,37,6.2,17100000,0,"['16', '4', '2', '9', '2']",16,4,2,9,2,6.6,https://www.comuniate.com/caras3/2856.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Depay,DL,13,6.5,4930000,33,"['-', '-', '-', '5', '8']",0,0,0,5,8,2.6,https://www.comuniate.com/caras3/3104.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Ferrán Torres,DL,9,1.8,6770000,33,"['2', '2', '2', '2', '1']",2,2,2,2,1,1.8,https://www.comuniate.com/caras3/2505.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Ilias Akhomach,DL,0,0,440000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/3181.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Estanis,DL,0,0,240000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/3209.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg

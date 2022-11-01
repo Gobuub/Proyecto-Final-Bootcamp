@@ -1,0 +1,24 @@
+Team_id,Team,Player,Position,Matchs,On_start_%,Goals,Assists,Total_Points,Points_Average,Last_5_games_points,J_2,J_1,J_0,J_-1,J_-2,Avg_last_5_games,Value
+9,RCD Mallorca,Rajkovic,PT,2,100,0,0,12,6,"['11', '1', 0, 0, 0]",11,1,0,0,0,2.4,4000000
+9,RCD Mallorca,Greif,PT,2,0,0,0,0,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0,240000
+9,RCD Mallorca,Leo Román,PT,2,0,0,0,0,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0,1040000
+9,RCD Mallorca,Martin Valjent,DF,2,100,0,0,11,5.5,"['8', '3', 0, 0, 0]",8,3,0,0,0,2.2,1870000
+9,RCD Mallorca,Maffeo,DF,2,100,0,0,9,4.5,"['5', '4', 0, 0, 0]",5,4,0,0,0,1.8,3350000
+9,RCD Mallorca,Copete,DF,2,100,0,0,9,4.5,"['7', '2', 0, 0, 0]",7,2,0,0,0,1.8,2520000
+9,RCD Mallorca,Raíllo,DF,2,100,1,0,8,4,"['5', '3', 0, 0, 0]",5,3,0,0,0,1.6,2800000
+9,RCD Mallorca,Jaume Costa,DF,2,100,0,1,8,4,"['3', '5', 0, 0, 0]",3,5,0,0,0,1.6,1970000
+9,RCD Mallorca,Braian Cufré,DF,2,0,0,0,0,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0,410000
+9,RCD Mallorca,Josep Gayá,DF,2,0,0,0,0,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0,230000
+9,RCD Mallorca,Giovanni González,DF,2,0,0,0,0,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0,350000
+9,RCD Mallorca,Franco Russo,DF,2,0,0,0,0,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0,420000
+9,RCD Mallorca,Kang-In Lee,MD,2,100,0,0,15,7.5,"['4', '11', 0, 0, 0]",4,11,0,0,0,3.0,1780000
+9,RCD Mallorca,Grenier,MD,2,100,0,0,8,4,"['4', '4', 0, 0, 0]",4,4,0,0,0,1.6,2200000
+9,RCD Mallorca,Idrissu Baba,MD,2,0,0,0,6,3,"['2', '4', 0, 0, 0]",2,4,0,0,0,1.2,2080000
+9,RCD Mallorca,Lago Júnior,MD,0,0,0,0,4,2,"['4', '0', 0, 0, 0]",4,0,0,0,0,0.8,390000
+9,RCD Mallorca,Dani Rodríguez,MD,0,100,0,0,4,2,"['2', '2', 0, 0, 0]",2,2,0,0,0,0.8,3460000
+9,RCD Mallorca,Antonio Sánchez,MD,0,0,0,0,3,1.5,"['4', '-1', 0, 0, 0]",4,-1,0,0,0,0.6,500000
+9,RCD Mallorca,Rodrigo Battaglia,MD,0,100,0,0,3,1.5,"['1', '2', 0, 0, 0]",1,2,0,0,0,0.6,1240000
+9,RCD Mallorca,Mboula,MD,0,0,0,0,0,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0,270000
+9,RCD Mallorca,Ruiz de Galarreta,MD,0,0,0,0,0,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0,670000
+9,RCD Mallorca,Amath Ndiaye,MD,0,0,0,0,0,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0,310000
+9,RCD Mallorca,Javi Llabres,MD,0,0,0,0,0,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0,210000

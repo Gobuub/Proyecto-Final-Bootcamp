@@ -1,0 +1,24 @@
+Team_id,Team,Player,Position,Matchs,On_start_%,Goals,Assists,Total_Points,Points_Average,Last_5_games_points,J_2,J_1,J_0,J_-1,J_-2,Avg_last_5_games,Value
+14,Real Valladolid CF,Masip,PT,2,0,0,0,0,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0,1470000
+14,Real Valladolid CF,Sergio Asenjo,PT,2,100,0,0,-1,-0.5,"['-1', '0', 0, 0, 0]",-1,0,0,0,0,-0.2,1810000
+14,Real Valladolid CF,Jawad El Yamiq,DF,2,100,0,0,7,3.5,"['6', '1', 0, 0, 0]",6,1,0,0,0,1.4,1830000
+14,Real Valladolid CF,Javi Sánchez,DF,2,50,0,0,5,5,"['-', '5', 0, 0, 0]",0,5,0,0,0,1.0,1030000
+14,Real Valladolid CF,Luis Pérez,DF,2,100,0,0,4,2,"['2', '2', 0, 0, 0]",2,2,0,0,0,0.8,1480000
+14,Real Valladolid CF,Sergio Escudero,DF,2,100,0,0,3,1.5,"['1', '2', 0, 0, 0]",1,2,0,0,0,0.6,1470000
+14,Real Valladolid CF,Joaquín Fernández,DF,2,50,0,0,3,1.5,"['1', '2', 0, 0, 0]",1,2,0,0,0,0.6,1280000
+14,Real Valladolid CF,Lucas Olaza,DF,2,0,0,0,3,1.5,"['1', '2', 0, 0, 0]",1,2,0,0,0,0.6,720000
+14,Real Valladolid CF,Anuar,MD,2,50,0,0,14,14,"['-', '14', 0, 0, 0]",0,14,0,0,0,2.8,720000
+14,Real Valladolid CF,Iván Sánchez,MD,2,50,0,0,10,5,"['6', '4', 0, 0, 0]",6,4,0,0,0,2.0,2020000
+14,Real Valladolid CF,Álvaro Aguado,MD,1,100,1,0,9,4.5,"['3', '6', 0, 0, 0]",3,6,0,0,0,1.8,2520000
+14,Real Valladolid CF,Kike Pérez,MD,1,50,0,0,8,4,"['6', '2', 0, 0, 0]",6,2,0,0,0,1.6,970000
+14,Real Valladolid CF,Monchu,MD,2,50,0,1,6,3,"['4', '2', 0, 0, 0]",4,2,0,0,0,1.2,780000
+14,Real Valladolid CF,Roque Mesa,MD,1,100,0,0,4,2,"['2', '2', 0, 0, 0]",2,2,0,0,0,0.8,2840000
+14,Real Valladolid CF,Óscar Plano,MD,1,0,0,0,4,2,"['2', '2', 0, 0, 0]",2,2,0,0,0,0.8,1570000
+14,Real Valladolid CF,Gonzalo Plata,MD,1,50,0,0,2,2,"['2', '-', 0, 0, 0]",2,0,0,0,0,0.4,4180000
+14,Real Valladolid CF,Toni Villa,MD,2,50,0,0,1,1,"['1', '-', 0, 0, 0]",1,0,0,0,0,0.2,1550000
+14,Real Valladolid CF,Mickael Malsa,MD,2,0,0,0,0,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0,810000
+14,Real Valladolid CF,Hugo Vallejo,MD,1,0,0,0,0,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0,280000
+14,Real Valladolid CF,Sergio León,DL,0,50,0,0,7,3.5,"['2', '5', 0, 0, 0]",2,5,0,0,0,1.4,2090000
+14,Real Valladolid CF,Sergi Guardiola,DL,0,50,0,0,2,2,"['-', '2', 0, 0, 0]",0,2,0,0,0,0.4,3650000
+14,Real Valladolid CF,Sekou Gassama,DL,0,0,0,0,2,2,"['2', '-', 0, 0, 0]",2,0,0,0,0,0.4,500000
+14,Real Valladolid CF,Shon Weissman,DL,0,0,0,0,0,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0,3550000

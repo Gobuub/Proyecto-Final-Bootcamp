@@ -1,0 +1,526 @@
+Team_id,Team,Player,Position,Matchs,On_start_%,Goals,Assists,Total_Points,Points_Average,Last_5_games_points,J_5,J_4,J_3,J_2,J_1,Avg_last_5_games,Value,img,squad_img
+1,Athletic Club,Unai Simón,PT,5,100,0,1,25,5,"['8', '5', '8', '2', '2']",8,5,8,2,2,5.0,4830000,https://www.comuniate.com/caras3/2669.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Agirrezabala,PT,5,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,370000,https://www.comuniate.com/caras3/3140.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Ander Iru,PT,5,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,300000,https://www.comuniate.com/caras3/3309.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,De Marcos,DF,5,100,3,0,32,6.4,"['7', '7', '9', '5', '4']",7,7,9,5,4,6.4,4660000,https://www.comuniate.com/caras3/1032.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Yeray Álvarez,DF,5,80,0,0,27,6.8,"['6', '8', '8', '5', '-']",6,8,8,5,0,5.4,5370000,https://www.comuniate.com/caras3/2326.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Daniel Vivian,DF,5,100,1,0,23,4.6,"['5', '4', '9', '4', '1']",5,4,9,4,1,4.6,3390000,https://www.comuniate.com/caras3/2968.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Yuri Berchiche,DF,5,40,1,0,14,7,"['8', '6', '-', '-', '-']",8,6,0,0,0,2.8,5760000,https://www.comuniate.com/caras3/1074.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Lekue,DF,5,60,0,1,13,4.3,"['-', '-', '8', '3', '2']",0,0,8,3,2,2.6,1010000,https://www.comuniate.com/caras3/2140.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Iñigo Martínez,DF,4,20,0,0,5,5,"['-', '-', '-', '-', '5']",0,0,0,0,5,1.0,5120000,https://www.comuniate.com/caras3/1424.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Capa,DF,5,0,1,1,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,650000,https://www.comuniate.com/caras3/1866.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Balenziaga,DF,3,0,0,1,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,360000,https://www.comuniate.com/caras3/937.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Álex Berenguer,MD,2,100,0,0,48,9.6,"['4', '11', '11', '9', '13']",4,11,11,9,13,9.6,6530000,https://www.comuniate.com/caras3/2241.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Nico Williams,MD,1,80,0,0,34,6.8,"['6', '2', '9', '5', '12']",6,2,9,5,12,6.8,6700000,https://www.comuniate.com/caras3/3084.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Muniain,MD,2,100,0,0,27,5.4,"['3', '8', '7', '5', '4']",3,8,7,5,4,5.4,12760000,https://www.comuniate.com/caras3/1053.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Mikel Vesga,MD,1,80,0,0,26,5.2,"['7', '5', '5', '5', '4']",7,5,5,5,4,5.2,4220000,https://www.comuniate.com/caras3/2305.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Jon Morcillo,MD,5,0,0,0,7,1.8,"['2', '2', '-', '-', '3']",2,2,0,0,3,1.4,400000,https://www.comuniate.com/caras3/2994.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Zarraga,MD,4,0,2,0,7,2.3,"['-', '-', '-', '2', '4']",0,0,0,2,4,1.2,800000,https://www.comuniate.com/caras3/3030.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Unai Vencedor,MD,3,0,0,0,4,2,"['-', '2', '-', '2', '-']",0,2,0,2,0,0.8,1700000,https://www.comuniate.com/caras3/2907.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Dani García,MD,2,20,0,0,2,1,"['-', '-', '-', '-', '2']",0,0,0,0,2,0.4,930000,https://www.comuniate.com/caras3/1864.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Malcom Adu,MD,4,0,0,1,0,0,"['2', '-', '-', '-', '-']",2,0,0,0,0,0.4,350000,https://www.comuniate.com/caras3/3316.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Ander Herrera,MD,1,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,5620000,https://www.comuniate.com/caras3/1016.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Guruzeta,DL,1,0,0,0,22,5.5,"['1', '-', '16', '2', '3']",1,0,16,2,3,4.4,2120000,https://www.comuniate.com/caras3/2664.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Sancet,DL,1,100,0,0,19,3.8,"['2', '3', '6', '0', '8']",2,3,6,0,8,3.8,4360000,https://www.comuniate.com/caras3/2662.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Williams,DL,0,100,0,0,18,3.6,"['5', '3', '4', '2', '4']",5,3,4,2,4,3.6,10070000,https://www.comuniate.com/caras3/1995.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Raúl García,DL,0,0,0,0,14,2.8,"['4', '3', '4', '1', '2']",4,3,4,1,2,2.8,3150000,https://www.comuniate.com/caras3/415.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Villalibre,DL,0,20,0,0,4,4,"['4', '-', '-', '-', '-']",4,0,0,0,0,0.8,2070000,https://www.comuniate.com/caras3/2338.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+2,Club Atlético de Madrid,Oblak,PT,5,80,0,0,22,5.5,"['6', '3', '7', '6', '-']",6,3,7,6,0,4.4,5920000,https://www.comuniate.com/caras3/1897.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Ivo Grbic,PT,5,20,0,0,5,2.5,"['-', '-', '-', '2', '3']",0,0,0,2,3,1.0,610000,https://www.comuniate.com/caras3/2971.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Reinildo Mandava,DF,5,100,3,0,26,5.2,"['5', '4', '6', '6', '5']",5,4,6,6,5,5.2,5610000,https://www.comuniate.com/caras3/3232.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,José Giménez,DF,5,40,0,1,16,5.3,"['-', '2', '7', '7', '-']",0,2,7,7,0,3.2,3850000,https://www.comuniate.com/caras3/1676.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Savic,DF,4,40,0,0,10,5,"['8', '2', '-', '-', '-']",8,2,0,0,0,2.0,4590000,https://www.comuniate.com/caras3/2109.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Mario Hermoso,DF,5,20,0,3,6,3,"['-', '-', '-', '2', '4']",0,0,0,2,4,1.2,1030000,https://www.comuniate.com/caras3/2434.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Nahuel Molina,DF,4,60,0,0,4,1.3,"['5', '-4', '-', '-', '3']",5,-4,0,0,3,0.8,6470000,https://www.comuniate.com/caras3/3305.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Reguilón,DF,5,0,1,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,2390000,https://www.comuniate.com/caras3/2683.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Felipe,DF,3,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,840000,https://www.comuniate.com/caras3/2776.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Rodrigo de Paul,MD,5,60,1,1,30,6,"['4', '4', '5', '2', '15']",4,4,5,2,15,6.0,5270000,https://www.comuniate.com/caras3/1846.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Ferreira Carrasco,MD,4,60,0,1,27,5.4,"['5', '3', '2', '6', '11']",5,3,2,6,11,5.4,8080000,https://www.comuniate.com/caras3/2095.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Lemar,MD,4,60,0,0,21,5.3,"['4', '6', '3', '3', '5']",4,6,3,3,5,4.2,4460000,https://www.comuniate.com/caras3/2596.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Koke,MD,3,80,0,1,21,4.2,"['4', '4', '9', '-', '4']",4,4,9,0,4,4.2,5900000,https://www.comuniate.com/caras3/1083.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Marcos Llorente,MD,3,80,0,0,20,5,"['4', '3', '6', '7', '-']",4,3,6,7,0,4.0,8340000,https://www.comuniate.com/caras3/2158.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Witsel,MD,2,100,0,0,20,4,"['4', '4', '6', '2', '4']",4,4,6,2,4,4.0,5780000,https://www.comuniate.com/caras3/3289.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Kondogbia,MD,5,40,1,0,14,4.7,"['-', '-', '5', '1', '8']",0,0,5,1,8,2.8,3780000,https://www.comuniate.com/caras3/1555.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Saúl Ñíguez,MD,2,60,0,0,13,3.3,"['5', '-', '4', '2', '2']",5,0,4,2,2,2.6,3810000,https://www.comuniate.com/caras3/1746.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Carlos Martín,MD,2,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,180000,https://www.comuniate.com/caras3/3182.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Morata,DL,5,100,2,0,41,8.2,"['16', '7', '3', '11', '4']",16,7,3,11,4,8.2,19270000,https://www.comuniate.com/caras3/1254.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Griezmann,DL,4,0,0,0,29,5.8,"['12', '4', '8', '3', '2']",12,4,8,3,2,5.8,13620000,https://www.comuniate.com/caras3/1153.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,João Félix,DL,0,80,0,0,26,5.2,"['13', '5', '5', '1', '2']",13,5,5,1,2,5.2,18790000,https://www.comuniate.com/caras3/2792.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Correa,DL,0,20,0,0,17,3.4,"['2', '4', '1', '1', '9']",2,4,1,1,9,3.4,6760000,https://www.comuniate.com/caras3/1870.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+2,Club Atlético de Madrid,Matheus Cunha,DL,0,0,0,0,10,2.5,"['4', '-1', '2', '-', '5']",4,-1,2,0,5,2.0,4010000,https://www.comuniate.com/caras3/3156.png,https://www.comuniate.com/intranet/equipos/fotos/62.jpg
+3,CA Osasuna,Sergio Herrera,PT,5,100,0,0,21,4.2,"['4', '6', '2', '2', '7']",4,6,2,2,7,4.2,4020000,https://www.comuniate.com/caras3/2774.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Juan Pérez,PT,5,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,180000,https://www.comuniate.com/caras3/2872.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Aitor Fernández,PT,5,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,810000,https://www.comuniate.com/caras3/2633.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,David García Zub.,DF,5,100,0,0,23,4.6,"['3', '7', '5', '4', '4']",3,7,5,4,4,4.6,4700000,https://www.comuniate.com/caras3/2238.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Juan Cruz,DF,5,100,0,0,19,3.8,"['2', '2', '5', '4', '6']",2,2,5,4,6,3.8,1540000,https://www.comuniate.com/caras3/2975.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Nacho Vidal,DF,5,60,0,0,19,3.8,"['4', '5', '1', '2', '7']",4,5,1,2,7,3.8,2610000,https://www.comuniate.com/caras3/2471.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Unai García,DF,5,100,3,0,18,3.6,"['3', '8', '2', '1', '4']",3,8,2,1,4,3.6,1820000,https://www.comuniate.com/caras3/1681.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Rubén Peña,DF,5,60,0,0,14,4.7,"['5', '7', '2', '-', '-']",5,7,2,0,0,2.8,2710000,https://www.comuniate.com/caras3/1608.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Manu Sánchez,DF,4,0,2,0,7,3.5,"['3', '-', '4', '-', '-']",3,0,4,0,0,1.4,1610000,https://www.comuniate.com/caras3/2876.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Unai Dufur,DF,5,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,240000,https://www.comuniate.com/caras3/3080.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Aridane Hernández,DF,4,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,1550000,https://www.comuniate.com/caras3/2093.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Moi Gómez,MD,3,100,0,1,34,6.8,"['6', '6', '7', '8', '7']",6,6,7,8,7,6.8,6420000,https://www.comuniate.com/caras3/1462.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Rubén García,MD,4,20,0,1,24,6,"['-', '2', '5', '11', '6']",0,2,5,11,6,4.8,3830000,https://www.comuniate.com/caras3/1602.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Aimar Oroz,MD,4,80,1,1,23,5.8,"['8', '4', '2', '9', '-']",8,4,2,9,0,4.6,4210000,https://www.comuniate.com/caras3/2953.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Brasanac,MD,3,20,0,0,19,4.8,"['2', '6', '-', '6', '5']",2,6,0,6,5,3.8,1800000,https://www.comuniate.com/caras3/2310.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Lucas Torró,MD,3,100,0,0,18,3.6,"['4', '4', '2', '2', '6']",4,4,2,2,6,3.6,3420000,https://www.comuniate.com/caras3/2967.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Jon Moncayola,MD,2,80,0,0,16,3.2,"['5', '2', '5', '2', '2']",5,2,5,2,2,3.2,4630000,https://www.comuniate.com/caras3/2851.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Pablo Ibáñez,MD,2,0,0,1,8,2.7,"['2', '-', '-', '4', '2']",2,0,0,4,2,1.6,200000,https://www.comuniate.com/caras3/3311.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Kike Barja,MD,3,20,0,0,5,1.7,"['-1', '-', '4', '-', '2']",-1,0,4,0,2,1.0,580000,https://www.comuniate.com/caras3/2395.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Roberto Torres,MD,1,0,0,0,2,2,"['-', '2', '-', '-', '-']",0,2,0,0,0,0.4,960000,https://www.comuniate.com/caras3/1465.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Iker Benito,MD,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,240000,https://www.comuniate.com/caras3/3221.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Ezequiel Ávila,DL,0,100,0,0,30,6,"['9', '9', '2', '4', '6']",9,9,2,4,6,6.0,11900000,https://www.comuniate.com/caras3/2586.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Kike García,DL,0,0,0,0,22,4.4,"['4', '11', '2', '1', '4']",4,11,2,1,4,4.4,3900000,https://www.comuniate.com/caras3/2202.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Abde Ezzalzouli,DL,0,0,0,0,12,6,"['-', '5', '3', '2', '2']",0,5,3,2,2,2.4,3290000,https://www.comuniate.com/caras3/3180.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Budimir,DL,0,60,0,0,12,3,"['-', '-', '-', '8', '4']",0,0,0,8,4,2.4,6050000,https://www.comuniate.com/caras3/2808.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Barbero,DL,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,220000,https://www.comuniate.com/caras3/3137.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+4,RCD Espanyol de Barcelona,Álvaro Fernández,PT,5,40,0,0,11,5.5,"['-', '-', '-', '8', '3']",0,0,0,8,3,2.2,1730000,https://www.comuniate.com/caras3/2331.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Joan García,PT,5,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,200000,https://www.comuniate.com/caras3/3214.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Lecomte,PT,5,60,3,0,-2,-0.7,"['1', '0', '-3', '-', '-']",1,0,-3,0,0,-0.4,2150000,https://www.comuniate.com/caras3/3152.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Leandro Cabrera,DF,5,100,0,0,19,3.8,"['5', '5', '4', '6', '-1']",5,5,4,6,-1,3.8,3820000,https://www.comuniate.com/caras3/1019.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Rubén Sánchez Sáez,DF,5,60,0,0,18,4.5,"['5', '6', '4', '-', '3']",5,6,4,0,3,3.6,2290000,https://www.comuniate.com/caras3/3185.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Brian Oliván,DF,5,100,0,0,18,3.6,"['6', '2', '1', '6', '3']",6,2,1,6,3,3.6,2060000,https://www.comuniate.com/caras3/2940.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Calero,DF,5,60,1,0,17,4.3,"['4', '2', '5', '6', '-']",4,2,5,6,0,3.4,1550000,https://www.comuniate.com/caras3/2600.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Óscar Gil,DF,4,100,0,0,14,2.8,"['1', '0', '2', '7', '4']",1,0,2,7,4,2.8,1930000,https://www.comuniate.com/caras3/2976.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Omar El Hilali,DF,3,0,0,0,6,3,"['-', '-', '-', '4', '2']",0,0,0,4,2,1.2,280000,https://www.comuniate.com/caras3/0.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Simo,DF,4,0,0,0,2,2,"['-', '-', '-', '2', '-']",0,0,0,2,0,0.4,250000,https://www.comuniate.com/caras3/0.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Adrià Pedrosa,DF,4,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,1140000,https://www.comuniate.com/caras3/2655.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Lluís Recasens,DF,3,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,230000,https://www.comuniate.com/caras3/3169.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Aleix Vidal,DF,2,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,540000,https://www.comuniate.com/caras3/1716.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Sergi Gómez,DF,2,60,2,0,-1,-0.3,"['2', '-8', '-', '-', '5']",2,-8,0,0,5,-0.2,1510000,https://www.comuniate.com/caras3/1889.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Sergi Darder,MD,4,100,0,0,31,6.2,"['2', '8', '6', '10', '5']",2,8,6,10,5,6.2,6550000,https://www.comuniate.com/caras3/1769.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Edu Expósito,MD,3,80,0,0,29,5.8,"['11', '6', '5', '4', '3']",11,6,5,4,3,5.8,5650000,https://www.comuniate.com/caras3/2379.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Vinicius Souza,MD,3,100,0,0,24,4.8,"['2', '7', '4', '6', '5']",2,7,4,6,5,4.8,3290000,https://www.comuniate.com/caras3/3295.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Keidi Bare,MD,1,0,0,0,9,3,"['-', '2', '2', '3', '2']",0,2,2,3,2,1.8,770000,https://www.comuniate.com/caras3/3092.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Javi Puado,MD,1,60,0,0,9,2.3,"['3', '2', '2', '-', '2']",3,2,2,0,2,1.8,2060000,https://www.comuniate.com/caras3/2637.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Nico Melamed,MD,2,40,0,0,9,2.3,"['-', '4', '2', '3', '-']",0,4,2,3,0,1.8,1460000,https://www.comuniate.com/caras3/2915.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Lazo,MD,2,0,0,0,4,2,"['2', '-', '-', '2', '-']",2,0,0,2,0,0.8,880000,https://www.comuniate.com/caras3/2768.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Luca Koleosho,MD,1,0,0,0,3,1.5,"['1', '2', '-', '-', '-']",1,2,0,0,0,0.6,270000,https://www.comuniate.com/caras3/3255.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Gori,MD,1,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,220000,https://www.comuniate.com/caras3/3148.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Villahermosa,MD,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,220000,https://www.comuniate.com/caras3/3248.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Pol Lozano,MD,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,250000,https://www.comuniate.com/caras3/2785.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Joselu,DL,0,100,0,0,39,7.8,"['10', '5', '11', '2', '11']",10,5,11,2,11,7.8,15120000,https://www.comuniate.com/caras3/1341.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Braithwaite,DL,0,40,0,0,15,7.5,"['-', '-', '-', '8', '7']",0,0,0,8,7,3.0,3790000,https://www.comuniate.com/caras3/2717.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+5,FC Barcelona,Ter Stegen,PT,5,100,0,0,38,7.6,"['8', '7', '7', '10', '6']",8,7,7,10,6,7.6,6490000,https://www.comuniate.com/caras3/1852.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Iñaki Peña,PT,5,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,570000,https://www.comuniate.com/caras3/3257.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Eric García,DF,5,80,0,0,28,7,"['5', '5', '7', '11', '-']",5,5,7,11,0,5.6,3700000,https://www.comuniate.com/caras3/3100.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Ronald Araujo,DF,5,100,6,2,23,4.6,"['4', '3', '3', '7', '6']",4,3,3,7,6,4.6,8170000,https://www.comuniate.com/caras3/2866.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Kounde,DF,5,40,1,0,22,11,"['-', '-', '10', '12', '-']",0,0,10,12,0,4.4,11840000,https://www.comuniate.com/caras3/2818.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Alejandro Balde,DF,4,80,0,0,16,4,"['-', '5', '5', '2', '4']",0,5,5,2,4,3.2,3440000,https://www.comuniate.com/caras3/3170.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Christensen,DF,5,40,2,2,10,5,"['2', '3', '-', '5', '-']",2,3,0,5,0,2.0,4190000,https://www.comuniate.com/caras3/3244.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Jordi Alba,DF,4,20,1,0,10,3.3,"['6', '4', '-', '-', '-']",6,4,0,0,0,2.0,5700000,https://www.comuniate.com/caras3/987.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Piqué,DF,5,20,1,1,6,6,"['-', '-', '-', '-', '6']",0,0,0,0,6,1.2,2670000,https://www.comuniate.com/caras3/140.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Héctor Bellerín,DF,4,20,0,1,5,5,"['-', '-', '-', '-', '5']",0,0,0,0,5,1.0,2910000,https://www.comuniate.com/caras3/3164.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Marcos Alonso,DF,5,0,1,0,2,2,"['-', '-', '-', '-', '2']",0,0,0,0,2,0.4,4120000,https://www.comuniate.com/caras3/3345.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Pedri,MD,2,80,0,2,33,6.6,"['5', '9', '12', '5', '2']",5,9,12,5,2,6.6,23080000,https://www.comuniate.com/caras3/2969.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,De Jong,MD,4,40,0,0,30,6,"['6', '5', '4', '2', '13']",6,5,4,2,13,6.0,8320000,https://www.comuniate.com/caras3/2761.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Sergio Busquets,MD,2,80,0,0,23,5.8,"['3', '-', '5', '7', '8']",3,0,5,7,8,4.6,8580000,https://www.comuniate.com/caras3/938.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Sergi Roberto,MD,3,0,0,0,22,5.5,"['2', '4', '11', '5', '-']",2,4,11,5,0,4.4,1490000,https://www.comuniate.com/caras3/1342.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Gavi,MD,1,100,0,0,21,4.2,"['2', '4', '5', '5', '5']",2,4,5,5,5,4.2,11480000,https://www.comuniate.com/caras3/3160.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Kessié,MD,1,0,0,0,8,2.7,"['2', '2', '4', '-', '-']",2,2,4,0,0,1.6,4080000,https://www.comuniate.com/caras3/3286.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Álvaro Sanz,MD,1,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,250000,https://www.comuniate.com/caras3/3207.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Lewandowski,DL,5,80,2,2,59,11.8,"['6', '17', '16', '4', '16']",6,17,16,4,16,11.8,28940000,https://www.comuniate.com/caras3/3300.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Dembélé,DL,4,80,1,0,41,8.2,"['7', '8', '13', '3', '10']",7,8,13,3,10,8.2,24280000,https://www.comuniate.com/caras3/2476.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Raphinha,DL,3,80,0,0,41,8.2,"['6', '4', '12', '13', '6']",6,4,12,13,6,8.2,22580000,https://www.comuniate.com/caras3/3298.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Ansu Fati,DL,1,0,0,0,35,7,"['4', '16', '4', '2', '9']",4,16,4,2,9,7.0,16240000,https://www.comuniate.com/caras3/2856.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Ferrán Torres,DL,1,40,0,0,8,2,"['-', '2', '2', '2', '2']",0,2,2,2,2,1.6,6970000,https://www.comuniate.com/caras3/2505.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Depay,DL,0,20,0,0,5,5,"['-', '-', '-', '-', '5']",0,0,0,0,5,1.0,4090000,https://www.comuniate.com/caras3/3104.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Ilias Akhomach,DL,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,450000,https://www.comuniate.com/caras3/3181.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+5,FC Barcelona,Estanis,DL,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,250000,https://www.comuniate.com/caras3/3209.png,https://www.comuniate.com/intranet/equipos/fotos/5.jpg
+6,Getafe CF,David Soria,PT,5,100,0,0,13,2.6,"['0', '4', '11', '-4', '6']",0,4,11,-4,6,3.4,3300000,https://www.comuniate.com/caras3/2206.png,https://www.comuniate.com/intranet/equipos/fotos/20.jpg
+6,Getafe CF,Diego Conde,PT,5,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,200000,https://www.comuniate.com/caras3/3121.png,https://www.comuniate.com/intranet/equipos/fotos/20.jpg
+6,Getafe CF,Kiko Casilla,PT,5,0,2,1,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,310000,https://www.comuniate.com/caras3/645.png,https://www.comuniate.com/intranet/equipos/fotos/20.jpg
+6,Getafe CF,Juan Iglesias,DF,5,80,0,0,19,3.8,"['5', '3', '4', '4', '2']",5,3,4,4,2,3.6,1920000,https://www.comuniate.com/caras3/3052.png,https://www.comuniate.com/intranet/equipos/fotos/20.jpg
+6,Getafe CF,Domingos Duarte,DF,5,100,1,0,18,3.6,"['-', '-', '4', '8', '6']",0,0,4,8,6,3.6,2470000,https://www.comuniate.com/caras3/2833.png,https://www.comuniate.com/intranet/equipos/fotos/20.jpg
+6,Getafe CF,Gastón Álvarez,DF,5,40,0,0,18,6,"['4', '-1', '7', '2', '5']",4,-1,7,2,5,3.4,820000,https://www.comuniate.com/caras3/3227.png,https://www.comuniate.com/intranet/equipos/fotos/20.jpg
+6,Getafe CF,Djené,DF,4,80,0,0,5,1.3,"['-', '-', '-', '-', '4']",0,0,0,0,4,0.8,2070000,https://www.comuniate.com/caras3/2447.png,https://www.comuniate.com/intranet/equipos/fotos/20.jpg
+6,Getafe CF,Damián Suárez,DF,4,20,0,0,4,4,"['1', '0', '4', '-1', '-']",1,0,4,-1,0,0.8,2280000,https://www.comuniate.com/caras3/1360.png,https://www.comuniate.com/intranet/equipos/fotos/20.jpg
+6,Getafe CF,Mitrovic,DF,4,60,0,0,3,0.8,"['-1', '0', '-', '2', '2']",-1,0,0,2,2,0.6,960000,https://www.comuniate.com/caras3/1815.png,https://www.comuniate.com/intranet/equipos/fotos/20.jpg
+6,Getafe CF,Kofi,DF,4,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,450000,https://www.comuniate.com/caras3/3083.png,https://www.comuniate.com/intranet/equipos/fotos/20.jpg
+6,Getafe CF,Omar Alderete,DF,5,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,1710000,https://www.comuniate.com/caras3/3127.png,https://www.comuniate.com/intranet/equipos/fotos/20.jpg
+6,Getafe CF,Amavi,DF,3,0,1,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,920000,https://www.comuniate.com/caras3/2426.png,https://www.comuniate.com/intranet/equipos/fotos/20.jpg
+6,Getafe CF,Angileri,DF,5,80,0,0,-4,-1,"['1', '-3', '-', '-1', '0']",1,-3,0,-1,0,-0.6,1330000,https://www.comuniate.com/caras3/3299.png,https://www.comuniate.com/intranet/equipos/fotos/20.jpg
+6,Getafe CF,Mauro Arambarri,MD,5,80,0,0,15,3.8,"['6', '4', '5', '0', '-']",6,4,5,0,0,3.0,4100000,https://www.comuniate.com/caras3/2461.png,https://www.comuniate.com/intranet/equipos/fotos/20.jpg
+6,Getafe CF,Aleñá,MD,1,100,0,0,12,2.4,"['2', '2', '2', '1', '5']",2,2,2,1,5,2.4,1420000,https://www.comuniate.com/caras3/2377.png,https://www.comuniate.com/intranet/equipos/fotos/20.jpg
+6,Getafe CF,Maksimovic,MD,1,60,0,0,12,2.4,"['2', '2', '2', '2', '4']",2,2,2,2,4,2.4,3190000,https://www.comuniate.com/caras3/2399.png,https://www.comuniate.com/intranet/equipos/fotos/20.jpg
+6,Getafe CF,Jaime Seoane,MD,2,40,0,0,12,2.4,"['0', '1', '2', '0', '9']",0,1,2,0,9,2.4,1900000,https://www.comuniate.com/caras3/2948.png,https://www.comuniate.com/intranet/equipos/fotos/20.jpg
+6,Getafe CF,Algobia,MD,3,20,0,0,5,5,"['-', '-', '-', '-', '5']",0,0,0,0,5,1.0,160000,https://www.comuniate.com/caras3/0.png,https://www.comuniate.com/intranet/equipos/fotos/20.jpg
+6,Getafe CF,Moi Parra,MD,1,0,0,0,0,0,"['3', '-', '-', '-', '-']",3,0,0,0,0,0.6,290000,https://www.comuniate.com/caras3/0.png,https://www.comuniate.com/intranet/equipos/fotos/20.jpg
+6,Getafe CF,Luis Milla,MD,1,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,4980000,https://www.comuniate.com/caras3/2965.png,https://www.comuniate.com/intranet/equipos/fotos/20.jpg
+6,Getafe CF,Enes Ünal,DL,0,100,0,0,35,7,"['4', '11', '4', '2', '14']",4,11,4,2,14,7.0,12460000,https://www.comuniate.com/caras3/2403.png,https://www.comuniate.com/intranet/equipos/fotos/20.jpg
+6,Getafe CF,Portu,DL,0,40,0,0,10,2,"['3', '2', '4', '1', '2']",3,2,4,1,2,2.4,4330000,https://www.comuniate.com/caras3/1835.png,https://www.comuniate.com/intranet/equipos/fotos/20.jpg
+6,Getafe CF,Jaime Mata,DL,0,0,0,0,7,2.3,"['2', '-', '2', '3', '-']",2,0,2,3,0,1.4,570000,https://www.comuniate.com/caras3/2598.png,https://www.comuniate.com/intranet/equipos/fotos/20.jpg
+6,Getafe CF,Munir El Haddadi,DL,0,0,0,0,4,2,"['-', '-', '-', '2', '2']",0,0,0,2,2,0.8,2510000,https://www.comuniate.com/caras3/1954.png,https://www.comuniate.com/intranet/equipos/fotos/20.jpg
+6,Getafe CF,Borja Mayoral,DL,0,100,0,0,2,0.4,"['-1', '1', '4', '2', '-3']",-1,1,4,2,-3,0.6,5300000,https://www.comuniate.com/caras3/2204.png,https://www.comuniate.com/intranet/equipos/fotos/20.jpg
+6,Getafe CF,Latasa,DL,0,0,0,0,2,2,"['-', '-', '2', '-', '-']",0,0,2,0,0,0.4,1100000,https://www.comuniate.com/caras3/3251.png,https://www.comuniate.com/intranet/equipos/fotos/20.jpg
+7,Real Madrid CF,Courtois,PT,5,100,0,0,21,4.2,"['7', '2', '5', '5', '2']",7,2,5,5,2,4.2,7490000,https://www.comuniate.com/caras3/1400.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Lunin,PT,5,0,4,1,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,560000,https://www.comuniate.com/caras3/2611.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Alaba,DF,5,80,1,2,30,6,"['14', '5', '2', '7', '2']",14,5,2,7,2,6.0,9700000,https://www.comuniate.com/caras3/3099.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Lucas Vázquez,DF,4,60,3,1,25,6.3,"['14', '2', '2', '-', '7']",14,2,2,0,7,5.0,4580000,https://www.comuniate.com/caras3/1949.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Rüdiger,DF,5,60,2,1,20,4,"['4', '2', '4', '-', '10']",4,2,4,0,10,4.0,10420000,https://www.comuniate.com/caras3/3243.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Carvajal,DF,4,40,0,1,16,4,"['-', '3', '2', '5', '6']",0,3,2,5,6,3.2,5300000,https://www.comuniate.com/caras3/1683.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Éder Militão,DF,4,60,0,0,13,4.3,"['-', '2', '6', '5', '-']",0,2,6,5,0,2.6,7080000,https://www.comuniate.com/caras3/2760.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Ferland Mendy,DF,5,80,1,0,11,2.8,"['2', '5', '-', '2', '2']",2,5,0,2,2,2.2,5220000,https://www.comuniate.com/caras3/2791.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Nacho Fernández,DF,5,20,1,1,8,4,"['4', '-', '-', '-', '4']",4,0,0,0,4,1.6,1720000,https://www.comuniate.com/caras3/1332.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Odriozola,DF,3,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,570000,https://www.comuniate.com/caras3/2350.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Jesús Vallejo,DF,4,0,0,1,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,580000,https://www.comuniate.com/caras3/2400.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Fede Valverde,MD,4,80,1,0,42,8.4,"['8', '12', '3', '7', '12']",8,12,3,7,12,8.4,11860000,https://www.comuniate.com/caras3/2415.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Modric,MD,5,60,0,0,36,7.2,"['4', '16', '4', '9', '3']",4,16,4,9,3,7.2,14380000,https://www.comuniate.com/caras3/1583.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Tchouaméni,MD,3,80,2,2,29,7.3,"['4', '8', '7', '10', '-']",4,8,7,10,0,5.8,11590000,https://www.comuniate.com/caras3/3276.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Kroos,MD,4,60,0,1,27,6.8,"['9', '-', '4', '4', '10']",9,0,4,4,10,5.4,14060000,https://www.comuniate.com/caras3/1909.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Dani Ceballos,MD,2,20,0,0,21,4.2,"['3', '3', '5', '3', '7']",3,3,5,3,7,4.2,2500000,https://www.comuniate.com/caras3/1842.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Camavinga,MD,5,60,0,1,18,3.6,"['4', '5', '4', '2', '3']",4,5,4,2,3,3.6,8050000,https://www.comuniate.com/caras3/3163.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Vinícius Júnior,DL,3,100,0,0,50,10,"['7', '14', '10', '8', '11']",7,14,10,8,11,10.0,26150000,https://www.comuniate.com/caras3/2565.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Rodrygo,DL,1,40,0,0,33,11,"['-', '-', '6', '12', '15']",0,0,6,12,15,6.6,12580000,https://www.comuniate.com/caras3/2769.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Benzema,DL,1,80,0,0,31,7.8,"['3', '7', '17', '4', '-']",3,7,17,4,0,6.2,31870000,https://www.comuniate.com/caras3/1027.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Eden Hazard,DL,0,20,0,0,4,1.3,"['4', '-3', '-', '-', '3']",4,-3,0,0,3,0.8,7590000,https://www.comuniate.com/caras3/2784.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Asensio,DL,0,0,0,0,3,3,"['-', '3', '-', '-', '-']",0,3,0,0,0,0.6,3780000,https://www.comuniate.com/caras3/2049.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Mariano Díaz,DL,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,1260000,https://www.comuniate.com/caras3/2304.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+7,Real Madrid CF,Peter González,DL,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,530000,https://www.comuniate.com/caras3/3194.png,https://www.comuniate.com/intranet/equipos/fotos/13.jpg
+8,Rayo Vallecano de Madrid,Dimitrievski,PT,5,100,0,0,21,4.2,"['11', '6', '1', '2', '1']",11,6,1,2,1,4.2,4490000,https://www.comuniate.com/caras3/1946.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Miguel Morro,PT,5,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,180000,https://www.comuniate.com/caras3/3111.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Diego López,PT,5,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,1870000,https://www.comuniate.com/caras3/52.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Catena,DF,5,100,0,0,28,5.6,"['6', '5', '3', '8', '6']",6,5,3,8,6,5.6,4260000,https://www.comuniate.com/caras3/2743.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Balliu,DF,5,100,0,1,16,3.2,"['2', '6', '4', '0', '4']",2,6,4,0,4,3.2,2290000,https://www.comuniate.com/caras3/3130.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Lejeune,DF,5,80,0,1,14,3.5,"['5', '-6', '-', '13', '2']",5,-6,0,13,2,2.8,2770000,https://www.comuniate.com/caras3/1470.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Fran García,DF,5,100,1,0,13,2.6,"['5', '3', '4', '1', '0']",5,3,4,1,0,2.6,3210000,https://www.comuniate.com/caras3/3116.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Mario Suárez,DF,5,0,0,0,2,2,"['-', '2', '-', '-', '-']",0,2,0,0,0,0.4,440000,https://www.comuniate.com/caras3/547.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Pep Chavarría,DF,4,0,1,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,650000,https://www.comuniate.com/caras3/3335.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Abdul Mumin,DF,5,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,670000,https://www.comuniate.com/caras3/3339.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Mario Hernández,DF,4,0,2,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,380000,https://www.comuniate.com/caras3/3105.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Saveljich,DF,4,0,0,1,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,620000,https://www.comuniate.com/caras3/2398.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Pathé Ciss,MD,4,80,0,0,28,5.6,"['7', '12', '5', '2', '2']",7,12,5,2,2,5.6,4040000,https://www.comuniate.com/caras3/3136.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Isi Palazón,MD,5,60,0,0,27,6.8,"['7', '9', '-', '1', '10']",7,9,0,1,10,5.4,4640000,https://www.comuniate.com/caras3/3108.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Trejo,MD,3,100,0,0,24,4.8,"['2', '2', '6', '5', '9']",2,2,6,5,9,4.8,6600000,https://www.comuniate.com/caras3/526.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Óscar Valentín,MD,1,60,0,0,19,3.8,"['4', '2', '6', '2', '5']",4,2,6,2,5,3.8,2450000,https://www.comuniate.com/caras3/3107.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Álvaro García,MD,3,100,0,0,17,3.4,"['3', '6', '4', '2', '2']",3,6,4,2,2,3.4,6270000,https://www.comuniate.com/caras3/1771.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Salvi,MD,3,40,0,0,13,3.3,"['2', '4', '4', '3', '-']",2,4,4,3,0,2.6,900000,https://www.comuniate.com/caras3/2937.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Unai López,MD,1,60,0,0,11,2.8,"['2', '5', '2', '-', '2']",2,5,2,0,2,2.2,1140000,https://www.comuniate.com/caras3/1969.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Comesaña,MD,1,20,0,0,8,2.7,"['-', '-', '4', '2', '2']",0,0,4,2,2,1.6,2360000,https://www.comuniate.com/caras3/2591.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Pozo,MD,0,0,0,0,8,2.7,"['4', '-', '3', '-', '1']",4,0,3,0,1,1.6,670000,https://www.comuniate.com/caras3/2641.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Bebé,MD,0,0,0,0,2,2,"['-', '-', '2', '-', '-']",0,0,2,0,0,0.4,1090000,https://www.comuniate.com/caras3/2013.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Álvaro Aguirre,MD,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,210000,https://www.comuniate.com/caras3/3205.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Sergio Camello,DL,0,80,0,0,13,2.6,"['2', '2', '2', '2', '5']",2,2,2,2,5,2.6,2740000,https://www.comuniate.com/caras3/2764.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Randy Nteka,DL,0,0,0,0,9,3,"['-', '4', '4', '-', '1']",0,4,4,0,1,1.8,1200000,https://www.comuniate.com/caras3/3135.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Falcao,DL,0,20,0,0,7,1.4,"['2', '1', '2', '2', '0']",2,1,2,2,0,1.4,4880000,https://www.comuniate.com/caras3/1426.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+8,Rayo Vallecano de Madrid,Raúl de Tomás,DL,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,10690000,https://www.comuniate.com/caras3/2587.png,https://www.comuniate.com/intranet/equipos/fotos/90.jpg
+9,RCD Mallorca,Rajkovic,PT,5,100,0,0,19,3.8,"['11', '1', '6', '2', '-1']",11,1,6,2,-1,3.8,4150000,https://www.comuniate.com/caras3/3302.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Greif,PT,5,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,230000,https://www.comuniate.com/caras3/3120.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Leo Román,PT,5,0,1,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,730000,https://www.comuniate.com/caras3/3213.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Raíllo,DF,5,100,0,0,29,5.8,"['5', '3', '7', '13', '1']",5,3,7,13,1,5.8,3440000,https://www.comuniate.com/caras3/2061.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Martin Valjent,DF,5,100,0,0,23,4.6,"['8', '3', '7', '4', '1']",8,3,7,4,1,4.6,2470000,https://www.comuniate.com/caras3/2796.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Copete,DF,5,80,3,0,19,4.8,"['7', '2', '7', '3', '-']",7,2,7,3,0,3.8,3220000,https://www.comuniate.com/caras3/3285.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Maffeo,DF,5,100,1,3,16,3.2,"['5', '4', '7', '0', '0']",5,4,7,0,0,3.2,3190000,https://www.comuniate.com/caras3/2453.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Jaume Costa,DF,5,100,0,0,15,3,"['3', '5', '5', '3', '-1']",3,5,5,3,-1,3.0,2770000,https://www.comuniate.com/caras3/1489.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Nastasic,DF,5,20,0,1,0,0,"['-', '-', '-', '-', '0']",0,0,0,0,0,0.0,1100000,https://www.comuniate.com/caras3/3340.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Braian Cufré,DF,4,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,350000,https://www.comuniate.com/caras3/3090.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Josep Gayá,DF,5,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,230000,https://www.comuniate.com/caras3/3171.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Giovanni González,DF,5,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,310000,https://www.comuniate.com/caras3/3228.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Franco Russo,DF,1,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,380000,https://www.comuniate.com/caras3/2805.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Kang-In Lee,MD,3,100,0,0,43,8.6,"['4', '11', '11', '11', '6']",4,11,11,11,6,8.6,3160000,https://www.comuniate.com/caras3/2731.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Grenier,MD,3,60,0,0,18,3.6,"['4', '4', '4', '2', '4']",4,4,4,2,4,3.6,2440000,https://www.comuniate.com/caras3/3237.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Dani Rodríguez,MD,5,100,0,0,14,2.8,"['4', '0', '5', '4', '1']",4,0,5,4,1,2.8,3000000,https://www.comuniate.com/caras3/2797.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Rodrigo Battaglia,MD,3,100,0,0,10,2,"['4', '-1', '2', '3', '2']",4,-1,2,3,2,2.0,1260000,https://www.comuniate.com/caras3/2986.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Ruiz de Galarreta,MD,1,20,0,0,9,3,"['-', '-', '2', '2', '5']",0,0,2,2,5,1.8,730000,https://www.comuniate.com/caras3/1566.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Antonio Sánchez,MD,0,20,0,0,7,1.4,"['2', '4', '-', '-', '1']",2,4,0,0,1,1.4,600000,https://www.comuniate.com/caras3/3095.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Idrissu Baba,MD,0,0,0,0,7,2.3,"['1', '2', '1', '2', '1']",1,2,1,2,1,1.4,1760000,https://www.comuniate.com/caras3/2798.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Lago Júnior,MD,0,0,0,0,6,2,"['2', '2', '-', '-', '2']",2,2,0,0,2,1.2,370000,https://www.comuniate.com/caras3/962.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Javi Llabres,MD,0,0,0,0,2,2,"['-', '-', '2', '-', '-']",0,0,2,0,0,0.4,260000,https://www.comuniate.com/caras3/3208.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Amath Ndiaye,MD,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,290000,https://www.comuniate.com/caras3/2404.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Muriqi,DL,0,100,0,0,36,7.2,"['2', '9', '11', '4', '10']",2,9,11,4,10,7.2,11150000,https://www.comuniate.com/caras3/3230.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Abdón Prats,DL,0,0,0,0,13,2.6,"['2', '4', '2', '4', '1']",2,4,2,4,1,2.6,760000,https://www.comuniate.com/caras3/1501.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Kadewere,DL,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,1740000,https://www.comuniate.com/caras3/3330.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+10,Real Betis Balompié,Rui Silva,PT,5,100,0,1,33,6.6,"['7', '9', '8', '2', '7']",7,9,8,2,7,6.6,4150000,https://www.comuniate.com/caras3/2360.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Dani Martín,PT,5,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,190000,https://www.comuniate.com/caras3/2836.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Claudio Bravo,PT,5,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,1410000,https://www.comuniate.com/caras3/201.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Édgar González,DF,5,80,4,1,22,5.5,"['6', '4', '8', '4', '-']",6,4,8,4,0,4.4,3490000,https://www.comuniate.com/caras3/2869.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Pezzella,DF,4,80,0,0,19,4.8,"['-', '-', '2', '9', '8']",0,0,2,9,8,3.8,3170000,https://www.comuniate.com/caras3/2094.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Luiz Felipe,DF,4,40,0,1,19,6.3,"['10', '5', '-4', '-', '8']",10,5,-4,0,8,3.8,4410000,https://www.comuniate.com/caras3/3288.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Álex Moreno,DF,4,100,0,0,14,2.8,"['4', '2', '3', '-1', '7']",4,2,3,-1,7,3.0,4990000,https://www.comuniate.com/caras3/1908.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Sabaly,DF,4,40,2,0,13,6.5,"['-', '-', '-', '5', '8']",0,0,0,5,8,2.6,2400000,https://www.comuniate.com/caras3/3101.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Fran Delgado,DF,4,0,1,0,2,0,"['2', '-', '-', '-', '-']",2,0,0,0,0,0.4,240000,https://www.comuniate.com/caras3/3319.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Martín Montoya,DF,4,0,0,1,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,250000,https://www.comuniate.com/caras3/1325.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Víctor Ruiz,DF,5,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,440000,https://www.comuniate.com/caras3/1097.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Juan Miranda,DF,3,0,1,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,570000,https://www.comuniate.com/caras3/2985.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,William Carvalho,MD,3,80,0,0,26,6.5,"['7', '4', '6', '5', '4']",7,4,6,5,4,5.2,6210000,https://www.comuniate.com/caras3/2628.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Guido Rodríguez,MD,2,100,0,0,26,5.2,"['9', '2', '7', '-', '8']",9,2,7,0,8,5.2,7400000,https://www.comuniate.com/caras3/2893.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Canales,MD,3,40,0,1,24,8,"['-', '-', '3', '14', '7']",0,0,3,14,7,4.8,13390000,https://www.comuniate.com/caras3/947.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Rodrigo Sánchez,MD,3,80,0,0,19,4.8,"['5', '1', '2', '-', '11']",5,1,2,0,11,3.8,1350000,https://www.comuniate.com/caras3/3033.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Fekir,MD,2,80,0,0,18,4.5,"['7', '5', '5', '1', '-']",7,5,5,1,0,3.6,14210000,https://www.comuniate.com/caras3/2837.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Aitor Ruibal,MD,2,60,0,0,17,3.4,"['5', '2', '5', '3', '2']",5,2,5,3,2,3.4,2160000,https://www.comuniate.com/caras3/2504.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Luiz Henrique,MD,1,20,0,0,9,3,"['-', '-', '2', '1', '6']",0,0,2,1,6,1.8,5390000,https://www.comuniate.com/caras3/3245.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Guardado,MD,2,20,0,0,4,1.3,"['-', '-', '-', '2', '2']",0,0,0,2,2,0.8,530000,https://www.comuniate.com/caras3/641.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Paul Akouokou,MD,2,0,0,0,0,0,"['-', '3', '-', '-', '-']",0,3,0,0,0,0.6,520000,https://www.comuniate.com/caras3/2993.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Joaquín,MD,1,0,0,0,2,2,"['-', '-', '-', '2', '-']",0,0,0,2,0,0.4,730000,https://www.comuniate.com/caras3/111.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Camarasa,MD,1,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,230000,https://www.comuniate.com/caras3/1807.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Borja Iglesias,DL,0,100,0,0,43,8.6,"['12', '15', '9', '4', '3']",12,15,9,4,3,8.6,17350000,https://www.comuniate.com/caras3/2009.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Juanmi Jiménez,DL,0,80,0,0,19,4.8,"['16', '-1', '2', '2', '-']",16,-1,2,2,0,3.8,12050000,https://www.comuniate.com/caras3/1112.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Willian José,DL,0,0,0,0,5,2.5,"['-', '-', '-', '3', '2']",0,0,0,3,2,1.0,4830000,https://www.comuniate.com/caras3/1847.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Loren Morón,DL,0,0,0,0,5,2.5,"['3', '2', '-', '-', '-']",3,2,0,0,0,1.0,540000,https://www.comuniate.com/caras3/2533.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+11,Real Sociedad de Fútbol,Alex Remiro,PT,5,100,0,0,30,6,"['7', '-1', '11', '6', '7']",7,-1,11,6,7,6.0,5150000,https://www.comuniate.com/caras3/2369.png,https://www.comuniate.com/intranet/equipos/fotos/14.jpg
+11,Real Sociedad de Fútbol,Andoni Zubiaurre,PT,5,0,0,1,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,410000,https://www.comuniate.com/caras3/3323.png,https://www.comuniate.com/intranet/equipos/fotos/14.jpg
+11,Real Sociedad de Fútbol,Zubeldia,DF,5,100,0,1,18,3.6,"['5', '2', '4', '2', '5']",5,2,4,2,5,3.6,2000000,https://www.comuniate.com/caras3/2371.png,https://www.comuniate.com/intranet/equipos/fotos/14.jpg
+11,Real Sociedad de Fútbol,Le Normand,DF,5,80,0,0,14,3.5,"['6', '1', '5', '2', '-']",6,1,5,2,0,2.8,5980000,https://www.comuniate.com/caras3/2691.png,https://www.comuniate.com/intranet/equipos/fotos/14.jpg
+11,Real Sociedad de Fútbol,Aihen Muñoz,DF,5,80,2,0,12,2.4,"['6', '0', '4', '2', '-']",6,0,4,2,0,2.4,1270000,https://www.comuniate.com/caras3/2719.png,https://www.comuniate.com/intranet/equipos/fotos/14.jpg
+11,Real Sociedad de Fútbol,Aritz Elustondo,DF,5,40,0,0,12,3,"['2', '-1', '4', '4', '3']",2,-1,4,4,3,2.4,3720000,https://www.comuniate.com/caras3/2016.png,https://www.comuniate.com/intranet/equipos/fotos/14.jpg
+11,Real Sociedad de Fútbol,Gorosabel,DF,4,40,0,0,10,2.5,"['-', '2', '5', '1', '2']",0,2,5,1,2,2.0,1970000,https://www.comuniate.com/caras3/2491.png,https://www.comuniate.com/intranet/equipos/fotos/14.jpg
+11,Real Sociedad de Fútbol,Álex Sola,DF,5,20,0,0,7,3.5,"['-', '-', '-', '3', '4']",0,0,0,3,4,1.4,400000,https://www.comuniate.com/caras3/2746.png,https://www.comuniate.com/intranet/equipos/fotos/14.jpg
+11,Real Sociedad de Fútbol,Jon Pacheco,DF,5,20,1,0,3,1.5,"['3', '-', '-', '-', '-']",3,0,0,0,0,0.6,670000,https://www.comuniate.com/caras3/2918.png,https://www.comuniate.com/intranet/equipos/fotos/14.jpg
+11,Real Sociedad de Fútbol,Diego Rico,DF,5,20,0,2,3,3,"['-', '-', '2', '-', '1']",0,0,2,0,1,0.6,2270000,https://www.comuniate.com/caras3/2301.png,https://www.comuniate.com/intranet/equipos/fotos/14.jpg
+11,Real Sociedad de Fútbol,Brais Méndez,MD,4,80,0,0,35,7,"['5', '2', '11', '6', '11']",5,2,11,6,11,7.0,8260000,https://www.comuniate.com/caras3/2490.png,https://www.comuniate.com/intranet/equipos/fotos/14.jpg
+11,Real Sociedad de Fútbol,Mikel Merino,MD,4,100,0,0,30,6,"['11', '6', '1', '5', '7']",11,6,1,5,7,6.0,10960000,https://www.comuniate.com/caras3/2626.png,https://www.comuniate.com/intranet/equipos/fotos/14.jpg
+11,Real Sociedad de Fútbol,Zubimendi,MD,2,100,1,0,24,4.8,"['4', '2', '11', '3', '4']",4,2,11,3,4,4.8,4470000,https://www.comuniate.com/caras3/2756.png,https://www.comuniate.com/intranet/equipos/fotos/14.jpg
+11,Real Sociedad de Fútbol,Kubo,MD,2,80,0,0,18,3.6,"['6', '4', '4', '2', '2']",6,4,4,2,2,3.6,6990000,https://www.comuniate.com/caras3/2852.png,https://www.comuniate.com/intranet/equipos/fotos/14.jpg
+11,Real Sociedad de Fútbol,Silva,MD,2,80,0,0,18,3.6,"['9', '3', '2', '2', '2']",9,3,2,2,2,3.6,7820000,https://www.comuniate.com/caras3/113.png,https://www.comuniate.com/intranet/equipos/fotos/14.jpg
+11,Real Sociedad de Fútbol,Ander Barrenetxea,MD,2,0,1,0,4,1.3,"['3', '-', '1', '-', '-']",3,0,1,0,0,0.8,1100000,https://www.comuniate.com/caras3/2695.png,https://www.comuniate.com/intranet/equipos/fotos/14.jpg
+11,Real Sociedad de Fútbol,Illarramendi,MD,1,0,0,0,4,2,"['2', '-', '1', '1', '-']",2,0,1,1,0,0.8,1140000,https://www.comuniate.com/caras3/1231.png,https://www.comuniate.com/intranet/equipos/fotos/14.jpg
+11,Real Sociedad de Fútbol,Beñat Turrientes,MD,2,20,0,0,3,1.5,"['-', '2', '-', '-', '1']",0,2,0,0,1,0.6,390000,https://www.comuniate.com/caras3/3174.png,https://www.comuniate.com/intranet/equipos/fotos/14.jpg
+11,Real Sociedad de Fútbol,Robert Navarro,MD,2,0,0,0,2,2,"['-', '2', '-', '-', '-']",0,2,0,0,0,0.4,420000,https://www.comuniate.com/caras3/3048.png,https://www.comuniate.com/intranet/equipos/fotos/14.jpg
+11,Real Sociedad de Fútbol,Merquelanz,MD,4,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,290000,https://www.comuniate.com/caras3/2666.png,https://www.comuniate.com/intranet/equipos/fotos/14.jpg
+11,Real Sociedad de Fútbol,Ander Martín,MD,3,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,210000,https://www.comuniate.com/caras3/3235.png,https://www.comuniate.com/intranet/equipos/fotos/14.jpg
+11,Real Sociedad de Fútbol,Guevara,MD,2,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,290000,https://www.comuniate.com/caras3/2748.png,https://www.comuniate.com/intranet/equipos/fotos/14.jpg
+11,Real Sociedad de Fútbol,Umar Sadiq,DL,1,80,0,0,25,5,"['2', '5', '7', '9', '2']",2,5,7,9,2,5.0,14820000,https://www.comuniate.com/caras3/3270.png,https://www.comuniate.com/intranet/equipos/fotos/14.jpg
+11,Real Sociedad de Fútbol,Ali Cho,DL,0,40,0,0,23,4.6,"['0', '2', '4', '10', '7']",0,2,4,10,7,4.6,7150000,https://www.comuniate.com/caras3/3277.png,https://www.comuniate.com/intranet/equipos/fotos/14.jpg
+11,Real Sociedad de Fútbol,Karrikaburu,DL,0,0,0,0,11,2.8,"['6', '2', '2', '-', '1']",6,2,2,0,1,2.2,1790000,https://www.comuniate.com/caras3/3314.png,https://www.comuniate.com/intranet/equipos/fotos/14.jpg
+11,Real Sociedad de Fútbol,Sorloth,DL,0,40,0,0,2,1,"['-', '-', '-', '2', '0']",0,0,0,2,0,0.4,4050000,https://www.comuniate.com/caras3/3159.png,https://www.comuniate.com/intranet/equipos/fotos/14.jpg
+11,Real Sociedad de Fútbol,Carlos Fernández,DL,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,900000,https://www.comuniate.com/caras3/1834.png,https://www.comuniate.com/intranet/equipos/fotos/14.jpg
+11,Real Sociedad de Fútbol,Oyarzabal,DL,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,5750000,https://www.comuniate.com/caras3/2161.png,https://www.comuniate.com/intranet/equipos/fotos/14.jpg
+12,Villarreal CF,Rulli,PT,5,100,0,0,42,8.4,"['12', '11', '8', '5', '6']",12,11,8,5,6,8.4,4930000,https://www.comuniate.com/caras3/1915.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Pepe Reina,PT,5,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,810000,https://www.comuniate.com/caras3/2877.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Albiol,DF,5,100,0,0,28,5.6,"['3', '7', '7', '7', '4']",3,7,7,7,4,5.6,5300000,https://www.comuniate.com/caras3/106.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Pau Torres,DF,5,100,0,1,28,5.6,"['4', '7', '4', '8', '5']",4,7,4,8,5,5.6,8120000,https://www.comuniate.com/caras3/2554.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Alfonso Pedraza,DF,5,100,0,0,27,5.4,"['4', '8', '6', '7', '2']",4,8,6,7,2,5.4,4450000,https://www.comuniate.com/caras3/2031.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Juan Foyth,DF,5,60,0,0,15,5,"['3', '10', '2', '-', '-']",3,10,2,0,0,3.0,5130000,https://www.comuniate.com/caras3/3017.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Kiko Femenía,DF,5,40,2,0,13,4.3,"['1', '7', '2', '-', '3']",1,7,2,0,3,2.6,2070000,https://www.comuniate.com/caras3/1168.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Johan Mojica,DF,5,60,1,1,13,3.3,"['-', '-', '2', '6', '5']",0,0,2,6,5,2.6,3720000,https://www.comuniate.com/caras3/1732.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Aïssa Mandi,DF,5,0,1,1,4,2,"['2', '-', '-', '2', '-']",2,0,0,2,0,0.8,820000,https://www.comuniate.com/caras3/2251.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Jorge Cuenca,DF,4,0,1,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,910000,https://www.comuniate.com/caras3/3093.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Parejo,MD,3,100,0,0,30,6,"['10', '8', '3', '5', '4']",10,8,3,5,4,6.0,16920000,https://www.comuniate.com/caras3/951.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Álex Baena,MD,3,0,0,0,29,5.8,"['19', '4', '2', '3', '1']",19,4,2,3,1,5.8,4900000,https://www.comuniate.com/caras3/2943.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Coquelin,MD,5,20,1,0,24,4.8,"['5', '4', '5', '3', '7']",5,4,5,3,7,4.8,3330000,https://www.comuniate.com/caras3/2522.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Capoue,MD,5,100,1,0,24,4.8,"['6', '2', '1', '12', '3']",6,2,1,12,3,4.8,5500000,https://www.comuniate.com/caras3/3051.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Lo Celso,MD,5,80,0,1,23,5.8,"['-', '3', '6', '10', '4']",0,3,6,10,4,4.6,10870000,https://www.comuniate.com/caras3/2684.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Yéremi Pino,MD,5,100,2,0,23,4.6,"['7', '8', '1', '2', '5']",7,8,1,2,5,4.6,8300000,https://www.comuniate.com/caras3/3031.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Samu Chukwueze,MD,1,0,0,0,18,3.6,"['5', '2', '4', '4', '3']",5,2,4,4,3,3.6,3870000,https://www.comuniate.com/caras3/2687.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Morlanes,MD,2,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,640000,https://www.comuniate.com/caras3/2671.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Alberto Moreno,MD,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,840000,https://www.comuniate.com/caras3/1659.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Carlo Adriano,MD,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,290000,https://www.comuniate.com/caras3/3211.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Trigueros,MD,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,2270000,https://www.comuniate.com/caras3/1699.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Gerard Moreno,DL,0,100,0,0,22,4.4,"['2', '6', '5', '9', '0']",2,6,5,9,0,4.4,18380000,https://www.comuniate.com/caras3/1927.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Nicolas Jackson,DL,0,80,0,0,20,4,"['10', '2', '2', '6', '0']",10,2,2,6,0,4.0,6860000,https://www.comuniate.com/caras3/3210.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Morales,DL,0,20,0,0,18,3.6,"['2', '2', '3', '9', '2']",2,2,3,9,2,3.6,6420000,https://www.comuniate.com/caras3/1868.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+12,Villarreal CF,Danjuma,DL,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,7760000,https://www.comuniate.com/caras3/3150.png,https://www.comuniate.com/intranet/equipos/fotos/19.jpg
+13,Valencia CF,Mamardashvili,PT,5,100,0,0,26,5.2,"['6', '2', '8', '4', '6']",6,2,8,4,6,5.2,3340000,https://www.comuniate.com/caras3/3102.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Jaume Doménech,PT,5,0,1,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,420000,https://www.comuniate.com/caras3/2149.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Lato,DF,5,40,1,0,28,5.6,"['3', '2', '3', '6', '14']",3,2,3,6,14,5.6,1450000,https://www.comuniate.com/caras3/2345.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Diakhaby,DF,5,100,0,2,28,5.6,"['2', '2', '5', '15', '4']",2,2,5,15,4,5.6,2020000,https://www.comuniate.com/caras3/2614.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Thierry Correia,DF,5,100,0,0,22,4.4,"['2', '7', '3', '6', '4']",2,7,3,6,4,4.4,3310000,https://www.comuniate.com/caras3/2863.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Foulquier,DF,5,0,0,2,10,2.5,"['2', '4', '2', '2', '-']",2,4,2,2,0,2.0,1190000,https://www.comuniate.com/caras3/1780.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Cömert,DF,5,60,1,0,7,2.3,"['-', '5', '-', '-', '2']",0,5,0,0,2,1.4,880000,https://www.comuniate.com/caras3/3226.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Gabriel Paulista,DF,3,40,1,0,7,3.5,"['-3', '-', '4', '6', '-']",-3,0,4,6,0,1.4,4070000,https://www.comuniate.com/caras3/1768.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Cristhian Mosquera,DF,3,0,0,0,5,2.5,"['4', '-', '-', '1', '-']",4,0,0,1,0,1.0,600000,https://www.comuniate.com/caras3/3220.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Jesús Vázquez,DF,4,40,1,0,3,1.5,"['3', '0', '-', '-', '-']",3,0,0,0,0,0.6,1410000,https://www.comuniate.com/caras3/3173.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Gayà,DF,5,20,1,0,2,2,"['-', '-', '-', '-', '2']",0,0,0,0,2,0.4,4900000,https://www.comuniate.com/caras3/1844.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Rubén Iranzo,DF,5,0,1,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,200000,https://www.comuniate.com/caras3/3191.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Özkacar,DF,2,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,1000000,https://www.comuniate.com/caras3/3324.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Guillamón,MD,4,100,0,0,27,5.4,"['4', '2', '4', '12', '5']",4,2,4,12,5,5.4,3730000,https://www.comuniate.com/caras3/2908.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Samu Castillejo,MD,2,100,0,0,26,5.2,"['3', '4', '4', '12', '3']",3,4,4,12,3,5.2,7590000,https://www.comuniate.com/caras3/1968.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Samuel Lino,MD,1,100,0,0,26,5.2,"['5', '4', '2', '11', '4']",5,4,2,11,4,5.2,5540000,https://www.comuniate.com/caras3/3256.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Yunus Musah,MD,3,100,0,0,25,5,"['2', '3', '6', '12', '2']",2,3,6,12,2,5.0,3330000,https://www.comuniate.com/caras3/2995.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Nico González,MD,4,40,0,0,20,4,"['3', '2', '4', '12', '-1']",3,2,4,12,-1,4.0,5520000,https://www.comuniate.com/caras3/3146.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,André Almeida,MD,2,0,0,0,11,5.5,"['-', '-', '-', '3', '8']",0,0,0,3,8,2.2,2190000,https://www.comuniate.com/caras3/3325.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Kluivert,MD,2,0,0,1,4,4,"['-', '-', '-', '-', '4']",0,0,0,0,4,0.8,3190000,https://www.comuniate.com/caras3/3341.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Fran Pérez,MD,1,0,0,0,0,0,"['-', '-', '2', '-', '-']",0,0,2,0,0,0.4,330000,https://www.comuniate.com/caras3/0.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Jesús Santiago,MD,1,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,360000,https://www.comuniate.com/caras3/3239.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Ilaix Moriba,MD,1,0,0,0,-4,-4,"['-', '-', '-', '-3', '-']",0,0,0,-3,0,-0.6,1870000,https://www.comuniate.com/caras3/3074.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Hugo Duro,DL,1,60,0,0,18,4.5,"['4', '2', '-', '10', '2']",4,2,0,10,2,3.6,4820000,https://www.comuniate.com/caras3/2550.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Marcos André,DL,0,40,0,0,12,3,"['-', '3', '4', '2', '3']",0,3,4,2,3,2.4,2460000,https://www.comuniate.com/caras3/2957.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Diego López Noguerol,DL,0,0,0,0,2,2,"['-', '-', '2', '-', '-']",0,0,2,0,0,0.4,380000,https://www.comuniate.com/caras3/3333.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+13,Valencia CF,Cavani,DL,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,10290000,https://www.comuniate.com/caras3/3329.png,https://www.comuniate.com/intranet/equipos/fotos/18.jpg
+14,Real Valladolid CF,Sergio Asenjo,PT,5,80,0,0,7,1.8,"['-1', '0', '-', '6', '2']",-1,0,0,6,2,1.4,1770000,https://www.comuniate.com/caras3/555.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Masip,PT,5,20,0,0,3,3,"['-', '-', '3', '-', '-']",0,0,3,0,0,0.6,1210000,https://www.comuniate.com/caras3/1892.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Joaquín Fernández,DF,5,80,0,0,20,4,"['1', '2', '2', '10', '5']",1,2,2,10,5,4.0,1610000,https://www.comuniate.com/caras3/2681.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Javi Sánchez,DF,4,80,0,0,16,4,"['-', '5', '2', '5', '4']",0,5,2,5,4,3.2,1790000,https://www.comuniate.com/caras3/2689.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Luis Pérez,DF,4,100,0,0,15,3,"['2', '2', '0', '7', '4']",2,2,0,7,4,3.0,1400000,https://www.comuniate.com/caras3/2962.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Sergio Escudero,DF,5,80,0,1,7,1.8,"['6', '1', '-', '-', '-']",6,1,0,0,0,1.4,1340000,https://www.comuniate.com/caras3/1642.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Jawad El Yamiq,DF,5,40,0,0,7,3.5,"['1', '2', '-1', '5', '-']",1,2,-1,5,0,1.4,1750000,https://www.comuniate.com/caras3/3006.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Iván Fresneda,DF,4,0,0,0,6,6,"['-', '-', '-', '-', '6']",0,0,0,0,6,1.2,390000,https://www.comuniate.com/caras3/0.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Lucas Olaza,DF,4,20,0,0,5,1.7,"['1', '2', '-', '-', '2']",1,2,0,0,2,1.0,650000,https://www.comuniate.com/caras3/2737.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Zouhair Feddal,DF,5,0,1,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,1180000,https://www.comuniate.com/caras3/2122.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Monchu,MD,4,60,0,0,27,5.4,"['4', '2', '2', '7', '12']",4,2,2,7,12,5.4,1730000,https://www.comuniate.com/caras3/3131.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Kike Pérez,MD,3,80,1,0,20,4,"['6', '2', '1', '9', '2']",6,2,1,9,2,4.0,1940000,https://www.comuniate.com/caras3/2911.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Óscar Plano,MD,3,20,0,0,18,3.6,"['2', '2', '6', '6', '2']",2,2,6,6,2,3.6,1990000,https://www.comuniate.com/caras3/2605.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Anuar,MD,2,60,0,0,17,5.7,"['3', '6', '2', '2', '4']",3,6,2,2,4,3.4,2360000,https://www.comuniate.com/caras3/2602.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Iván Sánchez,MD,5,60,0,0,17,4.3,"['-', '14', '1', '-', '2']",0,14,1,0,2,3.4,2210000,https://www.comuniate.com/caras3/2980.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Álvaro Aguado,MD,3,80,0,0,17,3.4,"['6', '4', '2', '5', '-']",6,4,2,5,0,3.4,2420000,https://www.comuniate.com/caras3/2773.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Roque Mesa,MD,4,80,0,1,15,3,"['2', '2', '2', '5', '4']",2,2,2,5,4,3.0,2260000,https://www.comuniate.com/caras3/2072.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Gonzalo Plata,MD,2,40,0,0,6,2,"['2', '-', '-', '2', '2']",2,0,0,2,2,1.2,3070000,https://www.comuniate.com/caras3/3296.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Kenedy,MD,1,0,0,0,2,2,"['-', '-', '-', '-', '2']",0,0,0,0,2,0.4,2230000,https://www.comuniate.com/caras3/2862.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Mickael Malsa,MD,2,0,1,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,790000,https://www.comuniate.com/caras3/2961.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Sergio León,DL,1,20,0,0,12,3,"['2', '5', '1', '4', '-']",2,5,1,4,0,2.4,1970000,https://www.comuniate.com/caras3/2306.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Shon Weissman,DL,1,0,0,0,11,5.5,"['-', '-', '-', '9', '2']",0,0,0,9,2,2.2,5160000,https://www.comuniate.com/caras3/2988.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Sergi Guardiola,DL,1,80,0,0,6,1.5,"['-', '2', '2', '2', '-']",0,2,2,2,0,1.2,3730000,https://www.comuniate.com/caras3/2610.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Narvaez,DL,1,0,0,0,2,2,"['-', '-', '-', '2', '-']",0,0,0,2,0,0.4,630000,https://www.comuniate.com/caras3/2469.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Roberto Arroyo,DL,1,0,0,0,2,2,"['-', '-', '2', '-', '-']",0,0,2,0,0,0.4,230000,https://www.comuniate.com/caras3/3327.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+15,Cádiz CF,Jeremías Ledesma,PT,5,100,0,0,14,2.8,"['10', '0', '5', '-2', '1']",10,0,5,-2,1,2.8,3640000,https://www.comuniate.com/caras3/2983.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,David Gil,PT,5,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,200000,https://www.comuniate.com/caras3/2927.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Luis Hernández,DF,5,100,0,0,17,3.4,"['8', '6', '1', '2', '0']",8,6,1,2,0,3.4,3020000,https://www.comuniate.com/caras3/2052.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Zaldua,DF,5,100,0,0,11,2.2,"['6', '3', '2', '-', '-']",6,3,2,0,0,2.2,1550000,https://www.comuniate.com/caras3/1800.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Fali,DF,4,60,0,0,11,3.7,"['4', '2', '1', '0', '4']",4,2,1,0,4,2.2,1630000,https://www.comuniate.com/caras3/2929.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Víctor Chust,DF,4,60,0,0,8,2,"['5', '1', '2', '0', '-']",5,1,2,0,0,1.6,1420000,https://www.comuniate.com/caras3/3079.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Arzamendia,DF,5,40,0,0,4,1.3,"['2', '4', '-1', '-', '-']",2,4,-1,0,0,1.0,620000,https://www.comuniate.com/caras3/3122.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Espino,DF,5,100,0,0,3,0.6,"['1', '2', '0', '2', '-2']",1,2,0,2,-2,0.6,3210000,https://www.comuniate.com/caras3/2928.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Momo Mbaye,DF,3,20,0,0,1,1,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,370000,https://www.comuniate.com/caras3/3310.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Cala,DF,4,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,340000,https://www.comuniate.com/caras3/1120.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Iza Carcelén,DF,4,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,370000,https://www.comuniate.com/caras3/2930.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Awer Mabil,MD,3,20,0,0,9,2.3,"['4', '2', '0', '-', '3']",4,2,0,0,3,1.8,1530000,https://www.comuniate.com/caras3/3258.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Fede San Emeterio,MD,2,40,0,0,9,2.3,"['-', '4', '1', '2', '2']",0,4,1,2,2,1.8,690000,https://www.comuniate.com/caras3/2771.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,José Mari,MD,3,40,0,0,7,2.3,"['1', '3', '3', '-', '-']",1,3,3,0,0,1.4,770000,https://www.comuniate.com/caras3/1570.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Iván Alejo,MD,2,60,0,0,7,1.4,"['2', '2', '-1', '2', '2']",2,2,-1,2,2,1.4,610000,https://www.comuniate.com/caras3/2411.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Tomás Alarcón,MD,4,40,0,0,6,1.5,"['4', '-1', '-', '2', '1']",4,-1,0,2,1,1.2,640000,https://www.comuniate.com/caras3/3103.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Antonio Blanco,MD,4,40,0,0,5,2.5,"['-', '-', '2', '2', '1']",0,0,2,2,1,1.0,970000,https://www.comuniate.com/caras3/3081.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Álex Fernández,MD,3,20,0,0,5,1.7,"['-', '-', '1', '4', '-']",0,0,1,4,0,1.0,1600000,https://www.comuniate.com/caras3/1783.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Mamady Diarra,MD,2,20,0,0,4,2,"['2', '2', '-', '-', '-']",2,2,0,0,0,0.8,380000,https://www.comuniate.com/caras3/3315.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Brian Ocampo,MD,1,40,0,0,3,1.5,"['-', '-', '-', '1', '2']",0,0,0,1,2,0.6,1170000,https://www.comuniate.com/caras3/3328.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Bongonda,MD,2,0,0,0,3,1.5,"['-', '-', '-', '2', '1']",0,0,0,2,1,0.6,2060000,https://www.comuniate.com/caras3/2014.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Rubén Alcaraz,MD,1,0,0,0,2,2,"['-', '-', '-', '-', '2']",0,0,0,0,2,0.4,2420000,https://www.comuniate.com/caras3/2390.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Álvaro Bastida,MD,2,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,270000,https://www.comuniate.com/caras3/3089.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Jon Ander Garrido,MD,1,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,200000,https://www.comuniate.com/caras3/2935.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Lucas Pérez,DL,1,60,0,0,11,2.2,"['1', '2', '2', '2', '4']",1,2,2,2,4,2.2,4480000,https://www.comuniate.com/caras3/1912.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Negredo,DL,0,20,0,0,11,2.8,"['2', '2', '5', '-', '2']",2,2,5,0,2,2.2,2910000,https://www.comuniate.com/caras3/633.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Choco Lozano,DL,0,80,0,0,7,1.8,"['4', '0', '1', '2', '-']",4,0,1,2,0,1.4,3180000,https://www.comuniate.com/caras3/2534.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Sobrino,DL,0,20,0,0,5,2.5,"['-', '-', '-', '3', '2']",0,0,0,3,2,1.0,1240000,https://www.comuniate.com/caras3/2270.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Álvaro Giménez,DL,0,0,0,0,1,1,"['-', '-', '-', '1', '-']",0,0,0,1,0,0.2,260000,https://www.comuniate.com/caras3/1457.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+15,Cádiz CF,Iván Chapela,DL,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,280000,https://www.comuniate.com/caras3/3176.png,https://www.comuniate.com/intranet/equipos/fotos/117.jpg
+16,UD Almería,Fernando Martínez,PT,5,100,0,0,33,6.6,"['12', '4', '7', '6', '4']",12,4,7,6,4,6.6,3450000,https://www.comuniate.com/caras3/3259.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Pacheco,PT,5,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,2150000,https://www.comuniate.com/caras3/1983.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Rodrigo Ely,DF,5,100,0,0,25,5,"['6', '3', '6', '5', '5']",6,3,6,5,5,5.0,2580000,https://www.comuniate.com/caras3/2365.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Akieme,DF,5,100,0,0,24,4.8,"['2', '5', '8', '4', '5']",2,5,8,4,5,4.8,2950000,https://www.comuniate.com/caras3/2589.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Álex Pozo,DF,5,60,0,0,13,4.3,"['-', '-', '8', '3', '2']",0,0,8,3,2,2.6,1840000,https://www.comuniate.com/caras3/2407.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Babic,DF,5,100,2,0,12,2.4,"['2', '2', '1', '2', '5']",2,2,1,2,5,2.4,1750000,https://www.comuniate.com/caras3/3263.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Kaiky,DF,5,60,0,1,11,2.8,"['5', '4', '2', '0', '-']",5,4,2,0,0,2.2,2230000,https://www.comuniate.com/caras3/3301.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Chumi,DF,4,20,0,1,9,3,"['4', '4', '2', '-', '-']",4,4,2,0,0,2.0,790000,https://www.comuniate.com/caras3/3261.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Mendes,DF,4,0,0,0,1,1,"['-', '-', '1', '-', '-']",0,0,1,0,0,0.2,770000,https://www.comuniate.com/caras3/3290.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Juanjo Nieto,DF,3,0,0,1,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,320000,https://www.comuniate.com/caras3/3262.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Iván Martos,DF,3,0,2,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,220000,https://www.comuniate.com/caras3/3274.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Álex Centelles,DF,4,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,260000,https://www.comuniate.com/caras3/3273.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Robertone,MD,3,100,0,0,27,5.4,"['9', '7', '8', '2', '1']",9,7,8,2,1,5.4,3750000,https://www.comuniate.com/caras3/3266.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Ramazani,MD,2,100,0,0,27,5.4,"['3', '8', '5', '5', '6']",3,8,5,5,6,5.4,6390000,https://www.comuniate.com/caras3/3268.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Samu Costa,MD,3,100,0,0,18,3.6,"['8', '5', '1', '-', '3']",8,5,1,0,3,3.4,1850000,https://www.comuniate.com/caras3/3264.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Eguaras,MD,3,80,0,0,17,4.3,"['3', '5', '2', '1', '6']",3,5,2,1,6,3.4,2460000,https://www.comuniate.com/caras3/3265.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Embarba,MD,2,20,0,0,10,3.3,"['4', '-', '-', '2', '4']",4,0,0,2,4,2.0,1590000,https://www.comuniate.com/caras3/1788.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Francisco Portillo,MD,4,0,0,0,8,2,"['2', '2', '-', '1', '3']",2,2,0,1,3,1.6,1190000,https://www.comuniate.com/caras3/1113.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Arnau Puigmal,MD,2,20,0,0,5,1.7,"['2', '1', '-', '-', '2']",2,1,0,0,2,1.0,620000,https://www.comuniate.com/caras3/3267.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,De la Hoz,MD,1,20,0,0,4,2,"['-', '-', '2', '2', '-']",0,0,2,2,0,0.8,830000,https://www.comuniate.com/caras3/3275.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Lázaro Vinicius,MD,1,0,0,0,2,2,"['-', '-', '-', '-', '2']",0,0,0,0,2,0.4,1450000,https://www.comuniate.com/caras3/3343.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Melero,MD,1,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,1100000,https://www.comuniate.com/caras3/2581.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Gui Guedes,MD,1,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,560000,https://www.comuniate.com/caras3/3284.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Svidersky,MD,2,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,730000,https://www.comuniate.com/caras3/3291.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Dyego Sousa,DL,0,40,0,0,11,2.8,"['2', '2', '-', '3', '4']",2,2,0,3,4,2.2,1460000,https://www.comuniate.com/caras3/3271.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Leo Baptistão,DL,0,20,0,0,9,3,"['-', '2', '3', '4', '-']",0,2,3,4,0,1.8,3960000,https://www.comuniate.com/caras3/1568.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Milovanovic,DL,0,0,0,0,4,2,"['-', '-', '-', '2', '2']",0,0,0,2,2,0.8,1390000,https://www.comuniate.com/caras3/3297.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,El Bilal Touré,DL,0,0,0,0,2,2,"['-', '-', '-', '-', '2']",0,0,0,0,2,0.4,3140000,https://www.comuniate.com/caras3/3342.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+17,Elche CF,Édgar Badía,PT,5,100,0,0,25,5,"['2', '7', '10', '4', '2']",2,7,10,4,2,5.0,3320000,https://www.comuniate.com/caras3/2972.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Axel Werner,PT,5,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,270000,https://www.comuniate.com/caras3/2548.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Bigas,DF,5,100,0,0,13,2.6,"['0', '6', '4', '1', '2']",0,6,4,1,2,2.6,1730000,https://www.comuniate.com/caras3/1450.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Helibelton Palacios,DF,5,40,0,0,8,2.7,"['4', '-', '4', '0', '-']",4,0,4,0,0,1.6,1620000,https://www.comuniate.com/caras3/3073.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Pol Lirola,DF,5,60,0,0,7,2.3,"['-', '6', '1', '-', '0']",0,6,1,0,0,1.4,1470000,https://www.comuniate.com/caras3/3312.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Enzo Roco,DF,4,100,1,0,5,1,"['-2', '6', '2', '1', '-1']",-2,6,2,1,-1,1.2,1620000,https://www.comuniate.com/caras3/1931.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Clerc,DF,4,20,0,0,4,4,"['-', '-', '-', '4', '-']",0,0,0,4,0,0.8,1030000,https://www.comuniate.com/caras3/1794.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Diego González,DF,3,0,0,0,2,2,"['2', '-', '-', '-', '-']",2,0,0,0,0,0.4,450000,https://www.comuniate.com/caras3/2216.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Federico Fernández,DF,5,0,1,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,1150000,https://www.comuniate.com/caras3/1650.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Gonzalo Verdú,DF,4,0,0,1,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,600000,https://www.comuniate.com/caras3/2974.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Fernández Mercau,DF,3,20,0,0,-1,-1,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,890000,https://www.comuniate.com/caras3/3344.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,John Donald,DF,5,20,0,0,-4,-2,"['-8', '-', '-', '-', '4']",-8,0,0,0,4,-0.8,270000,https://www.comuniate.com/caras3/3049.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Álex Collado,MD,3,80,0,0,17,4.3,"['-', '8', '8', '1', '0']",0,8,8,1,0,3.4,4000000,https://www.comuniate.com/caras3/2757.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Gumbau,MD,4,80,0,1,13,2.6,"['2', '5', '2', '4', '0']",2,5,2,4,0,2.6,1590000,https://www.comuniate.com/caras3/2153.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Omar Mascarell,MD,4,100,0,0,9,1.8,"['-', '5', '4', '1', '0']",0,5,4,1,0,2.0,1490000,https://www.comuniate.com/caras3/1678.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Domingos Quina,MD,3,20,0,0,9,2.3,"['1', '2', '3', '1', '2']",1,2,3,1,2,1.8,1040000,https://www.comuniate.com/caras3/3068.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Josan,MD,1,0,0,0,8,2,"['2', '2', '-', '1', '3']",2,2,0,1,3,1.6,830000,https://www.comuniate.com/caras3/2981.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Raúl Guti,MD,1,20,0,0,8,2.7,"['-', '-', '4', '0', '4']",0,0,4,0,4,1.6,740000,https://www.comuniate.com/caras3/3003.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Tete Morente,MD,2,60,0,0,7,1.8,"['0', '3', '2', '2', '-']",0,3,2,2,0,1.4,1160000,https://www.comuniate.com/caras3/3001.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Fidel,MD,2,20,0,0,5,2.5,"['1', '-', '-', '-', '4']",1,0,0,0,4,1.0,3770000,https://www.comuniate.com/caras3/1693.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Pastore,MD,4,0,0,0,1,1,"['-', '1', '-', '-', '-']",0,1,0,0,0,0.2,460000,https://www.comuniate.com/caras3/3167.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Álex Alfaro,MD,1,0,0,0,0,0,"['1', '-', '-', '-', '-']",1,0,0,0,0,0.2,260000,https://www.comuniate.com/caras3/3318.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Ezequiel Ponce,DL,1,60,0,0,21,4.2,"['3', '4', '2', '1', '11']",3,4,2,1,11,4.2,2250000,https://www.comuniate.com/caras3/2293.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Lucas Boyé,DL,1,40,0,0,17,4.3,"['-', '4', '1', '2', '10']",0,4,1,2,10,3.4,5970000,https://www.comuniate.com/caras3/2539.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Pere Milla,DL,0,40,0,0,14,2.8,"['2', '2', '4', '2', '2']",2,2,4,2,2,2.4,3530000,https://www.comuniate.com/caras3/2408.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+17,Elche CF,Roger,DL,0,60,0,0,10,2.5,"['1', '5', '2', '2', '-']",1,5,2,2,0,2.0,4750000,https://www.comuniate.com/caras3/1475.png,https://www.comuniate.com/intranet/equipos/fotos/119.jpg
+18,Girona FC,Juan Carlos Martín,PT,5,100,0,1,20,4,"['2', '2', '8', '4', '4']",2,2,8,4,4,4.0,2690000,https://www.comuniate.com/caras3/1887.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Toni Fuidias,PT,5,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,410000,https://www.comuniate.com/caras3/3338.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Gazzaniga,PT,5,0,0,1,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,700000,https://www.comuniate.com/caras3/3070.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Santiago Bueno,DF,5,100,0,0,31,6.2,"['7', '6', '6', '3', '9']",7,6,6,3,9,6.2,3580000,https://www.comuniate.com/caras3/3280.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Miguel Gutiérrez,DF,5,80,1,0,21,4.2,"['3', '5', '6', '4', '3']",3,5,6,4,3,4.2,3130000,https://www.comuniate.com/caras3/3082.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Juanpe,DF,5,100,0,0,16,3.2,"['5', '2', '2', '2', '5']",5,2,2,2,5,3.2,1930000,https://www.comuniate.com/caras3/2386.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,David López,DF,4,80,0,0,15,3.8,"['2', '1', '8', '4', '-']",2,1,8,4,0,3.0,2100000,https://www.comuniate.com/caras3/1707.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Yan Couto,DF,4,60,0,0,15,3.8,"['4', '2', '4', '-', '5']",4,2,4,0,5,3.0,1050000,https://www.comuniate.com/caras3/3304.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Arnau Martínez,DF,4,40,0,0,11,3.7,"['2', '-', '-', '5', '4']",2,0,0,5,4,2.2,1440000,https://www.comuniate.com/caras3/3279.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Javi Hernández,DF,4,0,1,0,5,2.5,"['-', '1', '4', '-', '-']",0,1,4,0,0,1.0,650000,https://www.comuniate.com/caras3/3321.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Bernardo,DF,3,20,1,0,0,0,"['-', '-', '-', '-', '3']",0,0,0,0,3,0.6,2610000,https://www.comuniate.com/caras3/1335.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Valery,DF,2,20,1,0,2,2,"['2', '-', '-', '-', '-']",2,0,0,0,0,0.4,960000,https://www.comuniate.com/caras3/2692.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Aleix García,MD,3,100,0,0,39,7.8,"['6', '8', '7', '6', '12']",6,8,7,6,12,7.8,5330000,https://www.comuniate.com/caras3/2039.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Samu Sáiz,MD,3,20,0,1,20,4,"['1', '3', '4', '8', '4']",1,3,4,8,4,4.0,2720000,https://www.comuniate.com/caras3/2694.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Oriol Romeu,MD,5,40,1,0,15,7.5,"['-', '-', '-', '2', '13']",0,0,0,2,13,3.0,2040000,https://www.comuniate.com/caras3/1739.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Reinier,MD,3,40,0,0,15,3.8,"['-', '2', '2', '2', '9']",0,2,2,2,9,3.0,1720000,https://www.comuniate.com/caras3/3322.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Rodrigo Riquelme,MD,2,80,0,0,14,3.5,"['2', '5', '-', '2', '5']",2,5,0,2,5,2.8,4170000,https://www.comuniate.com/caras3/2859.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Yangel Herrera,MD,1,40,0,0,10,3.3,"['2', '7', '1', '-', '-']",2,7,1,0,0,2.0,2320000,https://www.comuniate.com/caras3/2727.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Toni Villa,MD,2,20,0,0,8,2,"['1', '-', '2', '2', '3']",1,0,2,2,3,1.6,1330000,https://www.comuniate.com/caras3/2603.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Óscar Ureña,MD,2,20,0,0,5,2.5,"['3', '-', '2', '-', '-']",3,0,2,0,0,1.0,660000,https://www.comuniate.com/caras3/3283.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Ramón Terrats,MD,2,20,0,0,4,1.3,"['2', '1', '1', '-', '-']",2,1,1,0,0,0.8,960000,https://www.comuniate.com/caras3/3282.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Joel Roca,MD,4,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,380000,https://www.comuniate.com/caras3/3326.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Iván Martín,MD,1,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,350000,https://www.comuniate.com/caras3/3125.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Borja García,MD,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,850000,https://www.comuniate.com/caras3/1356.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Ibrahima Kébé,MD,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,300000,https://www.comuniate.com/caras3/3281.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Valentín Castellanos,DL,0,100,0,0,20,4,"['4', '9', '2', '3', '2']",4,9,2,3,2,4.0,6390000,https://www.comuniate.com/caras3/3303.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Stuani,DL,0,40,0,0,14,4.7,"['2', '8', '4', '-', '-']",2,8,4,0,0,2.8,7740000,https://www.comuniate.com/caras3/1200.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Manu Vallejo,DL,0,0,0,0,10,5,"['-', '-', '-', '5', '5']",0,0,0,5,5,2.0,960000,https://www.comuniate.com/caras3/2762.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+19,RC Celta de Vigo,Marchesin,PT,5,100,0,0,14,2.8,"['0', '3', '8', '5', '-1']",0,3,8,5,-1,3.0,3130000,https://www.comuniate.com/caras3/3306.png,https://www.comuniate.com/intranet/equipos/fotos/10.jpg
+19,RC Celta de Vigo,Iván Villar,PT,5,0,5,1,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,310000,https://www.comuniate.com/caras3/2381.png,https://www.comuniate.com/intranet/equipos/fotos/10.jpg
+19,RC Celta de Vigo,Aidoo,DF,5,100,0,1,18,3.6,"['2', '2', '5', '8', '1']",2,2,5,8,1,3.6,2730000,https://www.comuniate.com/caras3/2828.png,https://www.comuniate.com/intranet/equipos/fotos/10.jpg
+19,RC Celta de Vigo,Javi Galán,DF,5,100,0,0,17,3.4,"['3', '2', '2', '7', '3']",3,2,2,7,3,3.4,4260000,https://www.comuniate.com/caras3/2736.png,https://www.comuniate.com/intranet/equipos/fotos/10.jpg
+19,RC Celta de Vigo,Unai Núñez,DF,5,100,0,0,15,3,"['3', '1', '8', '7', '-3']",3,1,8,7,-3,3.2,3120000,https://www.comuniate.com/caras3/2428.png,https://www.comuniate.com/intranet/equipos/fotos/10.jpg
+19,RC Celta de Vigo,Hugo Mallo,DF,5,100,0,1,15,3,"['4', '0', '4', '5', '2']",4,0,4,5,2,3.0,2980000,https://www.comuniate.com/caras3/1522.png,https://www.comuniate.com/intranet/equipos/fotos/10.jpg
+19,RC Celta de Vigo,Carlos Domínguez,DF,5,0,0,0,0,0,"['-4', '-', '-', '4', '-']",-4,0,0,4,0,0.0,290000,https://www.comuniate.com/caras3/3086.png,https://www.comuniate.com/intranet/equipos/fotos/10.jpg
+19,RC Celta de Vigo,Kevin Vázquez,DF,5,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,440000,https://www.comuniate.com/caras3/2594.png,https://www.comuniate.com/intranet/equipos/fotos/10.jpg
+19,RC Celta de Vigo,Mingueza,DF,5,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,1140000,https://www.comuniate.com/caras3/3043.png,https://www.comuniate.com/intranet/equipos/fotos/10.jpg
+19,RC Celta de Vigo,Óscar Rodríguez,MD,4,80,1,0,27,6.8,"['5', '4', '6', '12', '-']",5,4,6,12,0,5.4,6110000,https://www.comuniate.com/caras3/2665.png,https://www.comuniate.com/intranet/equipos/fotos/10.jpg
+19,RC Celta de Vigo,Renato Tapia,MD,5,80,0,1,22,4.4,"['4', '2', '6', '5', '5']",4,2,6,5,5,4.4,1600000,https://www.comuniate.com/caras3/2959.png,https://www.comuniate.com/intranet/equipos/fotos/10.jpg
+19,RC Celta de Vigo,Gabriel Veiga,MD,3,0,1,0,21,4.2,"['1', '2', '2', '6', '10']",1,2,2,6,10,4.2,910000,https://www.comuniate.com/caras3/3002.png,https://www.comuniate.com/intranet/equipos/fotos/10.jpg
+19,RC Celta de Vigo,Franco Cervi,MD,2,100,0,1,19,3.8,"['4', '3', '4', '5', '3']",4,3,4,5,3,3.8,3560000,https://www.comuniate.com/caras3/3117.png,https://www.comuniate.com/intranet/equipos/fotos/10.jpg
+19,RC Celta de Vigo,Fran Beltrán,MD,4,100,0,1,17,3.4,"['2', '4', '4', '3', '4']",2,4,4,3,4,3.4,3280000,https://www.comuniate.com/caras3/2590.png,https://www.comuniate.com/intranet/equipos/fotos/10.jpg
+19,RC Celta de Vigo,Carles Pérez,MD,5,60,1,1,13,2.6,"['1', '3', '7', '2', '0']",1,3,7,2,0,2.6,3540000,https://www.comuniate.com/caras3/2765.png,https://www.comuniate.com/intranet/equipos/fotos/10.jpg
+19,RC Celta de Vigo,Augusto Solari,MD,2,20,0,0,10,2.5,"['3', '-', '2', '3', '2']",3,0,2,3,2,2.0,800000,https://www.comuniate.com/caras3/3061.png,https://www.comuniate.com/intranet/equipos/fotos/10.jpg
+19,RC Celta de Vigo,Luca de la Torre,MD,2,0,0,0,4,2,"['-', '2', '-', '2', '-']",0,2,0,2,0,0.8,1120000,https://www.comuniate.com/caras3/3293.png,https://www.comuniate.com/intranet/equipos/fotos/10.jpg
+19,RC Celta de Vigo,Denis Suárez,MD,1,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,2870000,https://www.comuniate.com/caras3/1876.png,https://www.comuniate.com/intranet/equipos/fotos/10.jpg
+19,RC Celta de Vigo,Hugo Álvarez,MD,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,210000,https://www.comuniate.com/caras3/3179.png,https://www.comuniate.com/intranet/equipos/fotos/10.jpg
+19,RC Celta de Vigo,Swedberg,MD,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,1610000,https://www.comuniate.com/caras3/3278.png,https://www.comuniate.com/intranet/equipos/fotos/10.jpg
+19,RC Celta de Vigo,Iago Aspas,DL,0,100,0,0,54,10.8,"['10', '10', '10', '17', '7']",10,10,10,17,7,10.8,23760000,https://www.comuniate.com/caras3/1523.png,https://www.comuniate.com/intranet/equipos/fotos/10.jpg
+19,RC Celta de Vigo,Gonzalo Paciencia,DL,0,40,0,0,13,4.3,"['9', '2', '2', '-', '-']",9,2,2,0,0,2.6,5570000,https://www.comuniate.com/caras3/3308.png,https://www.comuniate.com/intranet/equipos/fotos/10.jpg
+19,RC Celta de Vigo,Strand Larsen,DL,0,20,0,0,7,3.5,"['-', '-', '-', '5', '2']",0,0,0,5,2,1.4,4800000,https://www.comuniate.com/caras3/3336.png,https://www.comuniate.com/intranet/equipos/fotos/10.jpg
+20,Sevilla FC,Bono,PT,5,100,0,0,10,2,"['2', '3', '2', '1', '2']",2,3,2,1,2,2.0,5430000,https://www.comuniate.com/caras3/2383.png,https://www.comuniate.com/intranet/equipos/fotos/15.jpg
+20,Sevilla FC,Dmitrovic,PT,5,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,490000,https://www.comuniate.com/caras3/2416.png,https://www.comuniate.com/intranet/equipos/fotos/15.jpg
+20,Sevilla FC,José Ángel Carmona,DF,5,20,1,0,30,10,"['-', '-', '2', '6', '22']",0,0,2,6,22,6.0,900000,https://www.comuniate.com/caras3/3238.png,https://www.comuniate.com/intranet/equipos/fotos/15.jpg
+20,Sevilla FC,Marcos Acuña,DF,4,80,0,0,17,4.3,"['4', '4', '-', '7', '2']",4,4,0,7,2,3.4,6210000,https://www.comuniate.com/caras3/2997.png,https://www.comuniate.com/intranet/equipos/fotos/15.jpg
+20,Sevilla FC,Rekik,DF,4,60,0,0,17,4.3,"['1', '12', '2', '-', '2']",1,12,2,0,2,3.4,2640000,https://www.comuniate.com/caras3/3020.png,https://www.comuniate.com/intranet/equipos/fotos/15.jpg
+20,Sevilla FC,Álex Telles,DF,4,20,0,0,12,3,"['-', '4', '4', '2', '2']",0,4,4,2,2,2.4,2340000,https://www.comuniate.com/caras3/3307.png,https://www.comuniate.com/intranet/equipos/fotos/15.jpg
+20,Sevilla FC,Nianzou,DF,4,60,1,0,12,3,"['2', '1', '7', '-', '2']",2,1,7,0,2,2.4,4140000,https://www.comuniate.com/caras3/3320.png,https://www.comuniate.com/intranet/equipos/fotos/15.jpg
+20,Sevilla FC,Jesús Navas,DF,4,40,0,1,2,0.7,"['1', '-', '0', '-', '1']",1,0,0,0,1,0.4,4710000,https://www.comuniate.com/caras3/16.png,https://www.comuniate.com/intranet/equipos/fotos/15.jpg
+20,Sevilla FC,Gonzalo Montiel,DF,3,40,0,0,2,1,"['-', '2', '-', '0', '-']",0,2,0,0,0,0.4,1100000,https://www.comuniate.com/caras3/3141.png,https://www.comuniate.com/intranet/equipos/fotos/15.jpg
+20,Sevilla FC,Kike Salas,DF,3,20,1,0,1,1,"['-', '-', '-', '-', '1']",0,0,0,0,1,0.2,410000,https://www.comuniate.com/caras3/0.png,https://www.comuniate.com/intranet/equipos/fotos/15.jpg
+20,Sevilla FC,Marcão,DF,3,0,1,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,3680000,https://www.comuniate.com/caras3/3294.png,https://www.comuniate.com/intranet/equipos/fotos/15.jpg
+20,Sevilla FC,Fernando Reges,MD,5,100,0,0,23,4.6,"['6', '5', '5', '5', '2']",6,5,5,5,2,4.6,6530000,https://www.comuniate.com/caras3/2831.png,https://www.comuniate.com/intranet/equipos/fotos/15.jpg
+20,Sevilla FC,Papu Gómez,MD,4,60,0,0,22,5.5,"['7', '5', '4', '6', '-']",7,5,4,6,0,4.4,6440000,https://www.comuniate.com/caras3/3063.png,https://www.comuniate.com/intranet/equipos/fotos/15.jpg
+20,Sevilla FC,Óliver Torres,MD,3,60,0,0,16,5.3,"['-', '6', '8', '-', '2']",0,6,8,0,2,3.2,1370000,https://www.comuniate.com/caras3/1575.png,https://www.comuniate.com/intranet/equipos/fotos/15.jpg
+20,Sevilla FC,Isco,MD,2,40,0,0,14,3.5,"['-', '2', '5', '5', '2']",0,2,5,5,2,2.8,8460000,https://www.comuniate.com/caras3/1249.png,https://www.comuniate.com/intranet/equipos/fotos/15.jpg
+20,Sevilla FC,Joan Jordan,MD,4,80,0,1,13,3.3,"['-', '4', '3', '2', '4']",0,4,3,2,4,2.6,4270000,https://www.comuniate.com/caras3/1971.png,https://www.comuniate.com/intranet/equipos/fotos/15.jpg
+20,Sevilla FC,Rakitic,MD,3,20,0,0,11,2.8,"['2', '2', '-', '4', '3']",2,2,0,4,3,2.2,4840000,https://www.comuniate.com/caras3/1317.png,https://www.comuniate.com/intranet/equipos/fotos/15.jpg
+20,Sevilla FC,Gudelj,MD,3,60,2,1,10,3.3,"['5', '-', '3', '2', '-']",5,0,3,2,0,2.0,840000,https://www.comuniate.com/caras3/2838.png,https://www.comuniate.com/intranet/equipos/fotos/15.jpg
+20,Sevilla FC,Delaney,MD,3,20,0,0,10,3.3,"['4', '-', '-', '2', '4']",4,0,0,2,4,2.0,2210000,https://www.comuniate.com/caras3/3158.png,https://www.comuniate.com/intranet/equipos/fotos/15.jpg
+20,Sevilla FC,Pedro Ortiz,MD,4,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,220000,https://www.comuniate.com/caras3/3147.png,https://www.comuniate.com/intranet/equipos/fotos/15.jpg
+20,Sevilla FC,Erik Lamela,DL,1,80,0,0,20,4,"['2', '8', '1', '3', '6']",2,8,1,3,6,4.0,6380000,https://www.comuniate.com/caras3/3133.png,https://www.comuniate.com/intranet/equipos/fotos/15.jpg
+20,Sevilla FC,Rafa Mir,DL,1,60,0,0,11,3.7,"['9', '-1', '3', '-', '-']",9,-1,3,0,0,2.2,6390000,https://www.comuniate.com/caras3/2947.png,https://www.comuniate.com/intranet/equipos/fotos/15.jpg
+20,Sevilla FC,En-Nesyri,DL,1,40,0,0,9,1.8,"['2', '2', '2', '1', '2']",2,2,2,1,2,1.8,6530000,https://www.comuniate.com/caras3/2314.png,https://www.comuniate.com/intranet/equipos/fotos/15.jpg
+20,Sevilla FC,Dolberg,DL,1,0,0,0,2,2,"['2', '-', '-', '-', '-']",2,0,0,0,0,0.4,3330000,https://www.comuniate.com/caras3/3337.png,https://www.comuniate.com/intranet/equipos/fotos/15.jpg
+20,Sevilla FC,Jesús Corona,DL,1,20,0,0,2,2,"['-', '-', '-', '2', '-']",0,0,0,2,0,0.4,4260000,https://www.comuniate.com/caras3/3217.png,https://www.comuniate.com/intranet/equipos/fotos/15.jpg
+20,Sevilla FC,Suso,DL,0,0,0,0,2,2,"['-', '-', '-', '2', '-']",0,0,0,2,0,0.4,1950000,https://www.comuniate.com/caras3/1740.png,https://www.comuniate.com/intranet/equipos/fotos/15.jpg
+20,Sevilla FC,Januzaj,DL,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,2630000,https://www.comuniate.com/caras3/2436.png,https://www.comuniate.com/intranet/equipos/fotos/15.jpg

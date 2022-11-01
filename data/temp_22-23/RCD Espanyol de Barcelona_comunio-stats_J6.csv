@@ -1,0 +1,30 @@
+Team_id,Team,Player,Position,Total_Points,Points_Average,Value,On_start_%,Last_5_games_points,J_6,J_5,J_4,J_3,J_2,Avg_last_5_games,img,squad_img
+4,RCD Espanyol de Barcelona,Álvaro Fernández,PT,10,3.3,2030000,50,"['-', '-', '8', '3', '-1']",0,0,8,3,-1,2.0,https://www.comuniate.com/caras3/2331.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Joan García,PT,0,0,190000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/3214.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Lecomte,PT,-2,-0.7,1820000,50,"['0', '-3', '-', '-', '-']",0,-3,0,0,0,-0.6,https://www.comuniate.com/caras3/3152.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Leandro Cabrera,DF,23,3.8,3530000,100,"['5', '4', '6', '-1', '4']",5,4,6,-1,4,3.6,https://www.comuniate.com/caras3/1019.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Brian Oliván,DF,22,3.7,2080000,100,"['2', '1', '6', '3', '4']",2,1,6,3,4,3.2,https://www.comuniate.com/caras3/2940.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Calero,DF,20,4,1540000,67,"['2', '5', '6', '-', '3']",2,5,6,0,3,3.2,https://www.comuniate.com/caras3/2600.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Rubén Sánchez Sáez,DF,18,4.5,1980000,50,"['6', '4', '-', '3', '-']",6,4,0,3,0,2.6,https://www.comuniate.com/caras3/3185.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Óscar Gil,DF,14,2.8,1830000,83,"['0', '2', '7', '4', '-']",0,2,7,4,0,2.6,https://www.comuniate.com/caras3/2976.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Omar El Hilali,DF,7,2.3,360000,17,"['-', '-', '4', '2', '1']",0,0,4,2,1,1.4,https://www.comuniate.com/caras3/0.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Simo,DF,2,2,220000,0,"['-', '-', '-', '-', '2']",0,0,0,0,2,0.4,https://www.comuniate.com/caras3/0.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Aleix Vidal,DF,2,2,510000,0,"['-', '-', '2', '-', '-']",0,0,2,0,0,0.4,https://www.comuniate.com/caras3/1716.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Sergi Gómez,DF,1,0.3,1430000,67,"['-8', '-', '-', '5', '2']",-8,0,0,5,2,-0.2,https://www.comuniate.com/caras3/1889.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Adrià Pedrosa,DF,0,0,1090000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/2655.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Lluís Recasens,DF,0,0,230000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/3169.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Sergi Darder,MD,42,7,6930000,100,"['8', '6', '10', '5', '11']",8,6,10,5,11,8.0,https://www.comuniate.com/caras3/1769.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Edu Expósito,MD,40,6.7,5620000,83,"['6', '5', '4', '3', '11']",6,5,4,3,11,5.8,https://www.comuniate.com/caras3/2379.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Vinicius Souza,MD,27,4.5,3620000,100,"['7', '4', '6', '5', '3']",7,4,6,5,3,5.0,https://www.comuniate.com/caras3/3295.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Javi Puado,MD,13,2.6,2010000,50,"['2', '2', '3', '2', '4']",2,2,3,2,4,2.6,https://www.comuniate.com/caras3/2637.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Keidi Bare,MD,9,3,800000,0,"['2', '2', '-', '2', '-']",2,2,0,2,0,1.2,https://www.comuniate.com/caras3/3092.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Nico Melamed,MD,9,2.3,1330000,33,"['4', '2', '3', '-', '-']",4,2,3,0,0,1.8,https://www.comuniate.com/caras3/2915.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Lazo,MD,4,2,740000,0,"['-', '-', '2', '-', '-']",0,0,2,0,0,0.4,https://www.comuniate.com/caras3/2768.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Luca Koleosho,MD,3,1.5,260000,0,"['2', '-', '-', '-', '-']",2,0,0,0,0,0.4,https://www.comuniate.com/caras3/3255.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Pol Lozano,MD,2,2,260000,0,"['-', '-', '-', '-', '2']",0,0,0,0,2,0.4,https://www.comuniate.com/caras3/2785.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Gori,MD,0,0,220000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/3148.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Villahermosa,MD,0,0,220000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/3248.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Joselu,DL,41,6.8,15360000,100,"['5', '11', '2', '11', '2']",5,11,2,11,2,6.2,https://www.comuniate.com/caras3/1341.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Braithwaite,DL,17,5.7,4680000,50,"['-', '-', '8', '7', '2']",0,0,8,7,2,3.4,https://www.comuniate.com/caras3/2717.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Dani Gómez,DL,10,2.5,980000,0,"['-', '2', '2', '3', '3']",0,2,2,3,3,2.0,https://www.comuniate.com/caras3/2966.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg
+4,RCD Espanyol de Barcelona,Nabil Touaizi,DL,2,2,290000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/3313.png,https://www.comuniate.com/intranet/equipos/fotos/12.jpg

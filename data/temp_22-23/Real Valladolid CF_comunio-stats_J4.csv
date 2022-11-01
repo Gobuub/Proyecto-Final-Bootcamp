@@ -1,0 +1,25 @@
+Team_id,Team,Player,Position,Total_Points,Points_Average,Value,On_start_%,Last_5_games_points,J_4,J_3,J_2,J_1,J_0,Avg_last_5_games,img,squad_img
+14,Real Valladolid CF,Sergio Asenjo,PT,5,1.7,1880000,75,"['-1', '0', '-', '5', 0]",-1,0,0,5,0,0.8,https://www.comuniate.com/caras3/555.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Masip,PT,3,3,1300000,25,"['-', '-', '3', '-', 0]",0,0,3,0,0,0.6,https://www.comuniate.com/caras3/1892.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Joaquín Fernández,DF,15,3.8,1320000,75,"['1', '2', '2', '10', 0]",1,2,2,10,0,3.0,https://www.comuniate.com/caras3/2681.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Javi Sánchez,DF,12,4,1430000,75,"['-', '5', '2', '5', 0]",0,5,2,5,0,2.4,https://www.comuniate.com/caras3/2689.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Luis Pérez,DF,11,2.8,1480000,100,"['2', '2', '0', '7', 0]",2,2,0,7,0,2.2,https://www.comuniate.com/caras3/2962.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Sergio Escudero,DF,7,1.8,1250000,100,"['6', '1', '-', '-', 0]",6,1,0,0,0,1.4,https://www.comuniate.com/caras3/1642.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Jawad El Yamiq,DF,7,3.5,1720000,50,"['1', '2', '-1', '5', 0]",1,2,-1,5,0,1.4,https://www.comuniate.com/caras3/3006.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Lucas Olaza,DF,3,1.5,720000,0,"['1', '2', '-', '-', 0]",1,2,0,0,0,0.6,https://www.comuniate.com/caras3/2737.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Zouhair Feddal,DF,0,0,1300000,0,"['-', '-', '-', '-', 0]",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/2122.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Kike Pérez,MD,18,4.5,1420000,75,"['6', '2', '1', '9', 0]",6,2,1,9,0,3.6,https://www.comuniate.com/caras3/2911.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Iván Sánchez,MD,17,4.3,1950000,75,"['6', '4', '2', '5', 0]",6,4,2,5,0,3.4,https://www.comuniate.com/caras3/2980.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Óscar Plano,MD,16,4,1870000,25,"['2', '2', '6', '6', 0]",2,2,6,6,0,3.2,https://www.comuniate.com/caras3/2605.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Anuar,MD,15,7.5,2150000,50,"['-', '14', '1', '-', 0]",0,14,1,0,0,3.0,https://www.comuniate.com/caras3/2602.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Monchu,MD,15,3.8,1320000,50,"['4', '2', '2', '7', 0]",4,2,2,7,0,3.0,https://www.comuniate.com/caras3/3131.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Álvaro Aguado,MD,13,3.3,2510000,100,"['3', '6', '2', '2', 0]",3,6,2,2,0,2.6,https://www.comuniate.com/caras3/2773.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Roque Mesa,MD,11,2.8,2280000,75,"['2', '2', '2', '5', 0]",2,2,2,5,0,2.2,https://www.comuniate.com/caras3/2072.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Gonzalo Plata,MD,4,2,3410000,25,"['2', '-', '-', '2', 0]",2,0,0,2,0,0.8,https://www.comuniate.com/caras3/3296.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Kenedy,MD,0,0,1530000,0,"['-', '-', '-', '-', 0]",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/2862.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Mickael Malsa,MD,0,0,820000,0,"['-', '-', '-', '-', 0]",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/2961.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Sergio León,DL,12,3,1900000,25,"['2', '5', '1', '4', 0]",2,5,1,4,0,2.4,https://www.comuniate.com/caras3/2306.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Shon Weissman,DL,9,9,4880000,0,"['-', '-', '-', '9', 0]",0,0,0,9,0,1.8,https://www.comuniate.com/caras3/2988.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Sergi Guardiola,DL,6,2,3690000,75,"['-', '2', '2', '2', 0]",0,2,2,2,0,1.2,https://www.comuniate.com/caras3/2610.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Narvaez,DL,2,2,640000,0,"['-', '-', '-', '3', 0]",0,0,0,3,0,0.6,https://www.comuniate.com/caras3/2469.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg
+14,Real Valladolid CF,Roberto Arroyo,DL,2,2,230000,0,"['-', '-', '2', '-', 0]",0,0,2,0,0,0.4,https://www.comuniate.com/caras3/3327.png,https://www.comuniate.com/intranet/equipos/fotos/92.jpg

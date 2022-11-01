@@ -1,0 +1,29 @@
+Team_id,Team,Player,Position,Total_Points,Points_Average,Value,On_start_%,Last_5_games_points,J_9,J_8,J_7,J_6,J_5,Avg_last_5_games,img,squad_img
+18,Girona FC,Juan Carlos Martín,PT,23,2.6,2110000,100,"['4', '1', '-4', '4', '2']",4,1,-4,4,2,1.4,https://www.comuniate.com/caras3/1887.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Toni Fuidias,PT,0,0,310000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/3338.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Gazzaniga,PT,0,0,570000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/3070.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Santiago Bueno,DF,44,4.9,4660000,100,"['9', '3', '2', '7', '1']",9,3,2,7,1,4.4,https://www.comuniate.com/caras3/3280.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Arnau Martínez,DF,36,5.1,2580000,67,"['4', '11', '7', '2', '5']",4,11,7,2,5,5.8,https://www.comuniate.com/caras3/3279.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Miguel Gutiérrez,DF,33,3.7,3770000,89,"['3', '8', '2', '0', '2']",3,8,2,0,2,3.0,https://www.comuniate.com/caras3/3082.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Yan Couto,DF,25,3.6,1390000,33,"['5', '4', '3', '3', '-']",5,4,3,3,0,3.0,https://www.comuniate.com/caras3/3304.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Juanpe,DF,19,2.7,1450000,78,"['5', '2', '1', '-', '-']",5,2,1,0,0,1.6,https://www.comuniate.com/caras3/2386.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Bernardo,DF,15,2.5,1880000,56,"['3', '1', '1', '4', '6']",3,1,1,4,6,3.0,https://www.comuniate.com/caras3/1335.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,David López,DF,15,3.8,1430000,44,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/1707.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Javi Hernández,DF,11,1.8,580000,22,"['-', '-', '-', '2', '4']",0,0,0,2,4,1.2,https://www.comuniate.com/caras3/3321.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Valery,DF,10,2.5,760000,11,"['-', '-', '1', '5', '2']",0,0,1,5,2,1.6,https://www.comuniate.com/caras3/2692.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Aleix García,MD,69,7.7,7800000,100,"['12', '5', '6', '9', '10']",12,5,6,9,10,8.4,https://www.comuniate.com/caras3/2039.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Rodrigo Riquelme,MD,35,4.4,4410000,89,"['13', '8', '4', '2', '6']",13,8,4,2,6,6.6,https://www.comuniate.com/caras3/2859.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Oriol Romeu,MD,35,5.8,4410000,67,"['5', '4', '6', '9', '2']",5,4,6,9,2,5.2,https://www.comuniate.com/caras3/1739.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Yangel Herrera,MD,22,3.7,2370000,44,"['-', '-', '2', '4', '6']",0,0,2,4,6,2.4,https://www.comuniate.com/caras3/2727.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Samu Sáiz,MD,18,3,1930000,11,"['4', '-1', '-', '-', '-']",4,-1,0,0,0,0.6,https://www.comuniate.com/caras3/2694.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Reinier,MD,17,3.4,2340000,33,"['9', '2', '-', '-', '-']",9,2,0,0,0,2.2,https://www.comuniate.com/caras3/3322.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Toni Villa,MD,13,1.9,1030000,11,"['3', '2', '-', '2', '1']",3,2,0,2,1,1.6,https://www.comuniate.com/caras3/2603.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Ramón Terrats,MD,7,1.8,800000,11,"['-', '-', '-', '3', '-']",0,0,0,3,0,0.6,https://www.comuniate.com/caras3/3282.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Óscar Ureña,MD,7,2.3,560000,11,"['-', '-', '2', '-', '-']",0,0,2,0,0,0.4,https://www.comuniate.com/caras3/3283.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Joel Roca,MD,0,0,370000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/3326.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Iván Martín,MD,0,0,320000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/3125.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Borja García,MD,0,0,630000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/1356.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Ibrahima Kébé,MD,0,0,280000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/3281.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Valentín Castellanos,DL,38,4.2,6180000,100,"['2', '4', '7', '2', '5']",2,4,7,2,5,4.0,https://www.comuniate.com/caras3/3303.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Stuani,DL,26,5.2,7030000,22,"['-', '-', '-', '2', '10']",0,0,0,2,10,2.4,https://www.comuniate.com/caras3/1200.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg
+18,Girona FC,Manu Vallejo,DL,23,4.6,1380000,11,"['5', '2', '6', '-', '5']",5,2,6,0,5,3.6,https://www.comuniate.com/caras3/2762.png,https://www.comuniate.com/intranet/equipos/fotos/21.jpg

@@ -1,0 +1,19 @@
+Team_id,Team,Player,Position,Matchs,On_start_%,Goals,Assists,Total_Points,Points_Average,Last_5_games_points,J_2,J_1,J_0,J_-1,J_-2,Avg_last_5_games,Value
+10,Real Betis Balompié,Rui Silva,PT,2,100,0,0,16,8,"['7', '9', 0, 0, 0]",7,9,0,0,0,3.2,2730000
+10,Real Betis Balompié,Dani Martín,PT,2,0,2,0,0,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0,230000
+10,Real Betis Balompié,Claudio Bravo,PT,2,0,0,0,0,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0,1230000
+10,Real Betis Balompié,Pezzella,DF,2,100,0,0,15,7.5,"['10', '5', 0, 0, 0]",10,5,0,0,0,3.0,2770000
+10,Real Betis Balompié,Édgar González,DF,2,100,0,0,10,5,"['6', '4', 0, 0, 0]",6,4,0,0,0,2.0,1840000
+10,Real Betis Balompié,Álex Moreno,DF,2,100,0,1,6,3,"['4', '2', 0, 0, 0]",4,2,0,0,0,1.2,5790000
+10,Real Betis Balompié,Fran Delgado,DF,2,0,0,0,0,0,"['2', '-', 0, 0, 0]",2,0,0,0,0,0.4,290000
+10,Real Betis Balompié,Sabaly,DF,2,0,0,0,0,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0,2330000
+10,Real Betis Balompié,Martín Montoya,DF,2,0,3,0,0,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0,280000
+10,Real Betis Balompié,Víctor Ruiz,DF,2,0,0,1,0,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0,440000
+10,Real Betis Balompié,Juan Miranda,DF,2,0,0,0,0,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0,680000
+10,Real Betis Balompié,Luiz Felipe,DF,2,0,0,0,0,0,"['-', '-', 0, 0, 0]",0,0,0,0,0,0.0,4500000
+10,Real Betis Balompié,Fekir,MD,2,100,0,0,12,6,"['7', '5', 0, 0, 0]",7,5,0,0,0,2.4,14950000
+10,Real Betis Balompié,William Carvalho,MD,2,100,0,0,11,5.5,"['7', '4', 0, 0, 0]",7,4,0,0,0,2.2,5260000
+10,Real Betis Balompié,Guido Rodríguez,MD,1,100,0,0,11,5.5,"['9', '2', 0, 0, 0]",9,2,0,0,0,2.2,7510000
+10,Real Betis Balompié,Rober González,MD,1,0,0,0,8,4,"['6', '2', 0, 0, 0]",6,2,0,0,0,1.6,580000
+10,Real Betis Balompié,Aitor Ruibal,MD,0,100,0,0,7,3.5,"['5', '2', 0, 0, 0]",5,2,0,0,0,1.4,1300000
+10,Real Betis Balompié,Rodrigo Sánchez,MD,0,100,0,0,6,3,"['5', '1', 0, 0, 0]",5,1,0,0,0,1.2,1070000

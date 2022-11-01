@@ -1,0 +1,27 @@
+Team_id,Team,Player,Position,Matchs,On_start_%,Goals,Assists,Total_Points,Points_Average,Last_5_games_points,J_10,J_9,J_8,J_7,J_6,Avg_last_5_games,Value,img,squad_img
+3,CA Osasuna,Sergio Herrera,PT,10,90,0,0,38,4.2,"['2', '3', '6', '6', '-']",2,3,6,6,0,3.4,3580000,https://www.comuniate.com/caras3/2774.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Aitor Fernández,PT,10,10,0,0,9,9,"['-', '-', '-', '-', '9']",0,0,0,0,9,1.8,560000,https://www.comuniate.com/caras3/2633.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Juan Pérez,PT,10,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,180000,https://www.comuniate.com/caras3/2872.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,David García Zub.,DF,9,90,0,0,33,3.7,"['3', '-2', '-', '2', '7']",3,-2,0,2,7,2.0,4090000,https://www.comuniate.com/caras3/2238.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Juan Cruz,DF,9,90,0,0,31,3.1,"['2', '2', '2', '5', '1']",2,2,2,5,1,2.4,1790000,https://www.comuniate.com/caras3/2975.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Unai García,DF,9,90,0,1,29,3.2,"['4', '7', '-4', '-', '4']",4,7,-4,0,4,2.2,2300000,https://www.comuniate.com/caras3/1681.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Nacho Vidal,DF,10,80,0,0,27,2.7,"['0', '2', '-1', '2', '5']",0,2,-1,2,5,1.6,3000000,https://www.comuniate.com/caras3/2471.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Manu Sánchez,DF,10,10,0,0,20,2.9,"['2', '2', '2', '2', '5']",2,2,2,2,5,2.6,1280000,https://www.comuniate.com/caras3/2876.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Rubén Peña,DF,9,30,3,0,18,3,"['1', '4', '-1', '-', '-']",1,4,-1,0,0,0.8,1920000,https://www.comuniate.com/caras3/1608.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Aridane Hernández,DF,8,20,2,0,9,3,"['-', '5', '3', '1', '-']",0,5,3,1,0,1.8,1480000,https://www.comuniate.com/caras3/2093.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Unai Dufur,DF,8,0,1,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,240000,https://www.comuniate.com/caras3/3080.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Moi Gómez,MD,9,100,1,1,51,5.1,"['2', '4', '2', '2', '7']",2,4,2,2,7,3.4,7310000,https://www.comuniate.com/caras3/1462.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Rubén García,MD,10,30,2,0,44,5.5,"['3', '-', '7', '3', '7']",3,0,7,3,7,4.0,5690000,https://www.comuniate.com/caras3/1602.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Roberto Torres,MD,10,0,2,0,2,2,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,660000,https://www.comuniate.com/caras3/1465.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Brasanac,MD,8,40,1,1,42,4.7,"['5', '3', '10', '3', '2']",5,3,10,3,2,4.6,3720000,https://www.comuniate.com/caras3/2310.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Lucas Torró,MD,6,100,0,1,35,3.5,"['4', '3', '5', '1', '4']",4,3,5,1,4,3.4,3360000,https://www.comuniate.com/caras3/2967.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Aimar Oroz,MD,7,60,0,2,31,3.9,"['-', '2', '2', '2', '2']",0,2,2,2,2,1.6,4090000,https://www.comuniate.com/caras3/2953.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Jon Moncayola,MD,3,70,0,0,30,3,"['1', '4', '2', '5', '2']",1,4,2,5,2,2.8,3630000,https://www.comuniate.com/caras3/2851.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Pablo Ibáñez,MD,7,0,0,0,8,2.7,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,300000,https://www.comuniate.com/caras3/3311.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Kike Barja,MD,1,10,0,0,5,1.7,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,520000,https://www.comuniate.com/caras3/2395.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Iker Benito,MD,3,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,240000,https://www.comuniate.com/caras3/3221.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Kike García,DL,1,30,0,0,44,4.4,"['5', '10', '5', '2', '-']",5,10,5,2,0,4.4,5860000,https://www.comuniate.com/caras3/2202.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Ezequiel Ávila,DL,0,70,0,0,32,3.6,"['-5', '-', '-1', '2', '6']",-5,0,-1,2,6,0.4,10970000,https://www.comuniate.com/caras3/2586.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Abde Ezzalzouli,DL,0,30,0,0,32,4.6,"['5', '5', '3', '2', '5']",5,5,3,2,5,4.0,4910000,https://www.comuniate.com/caras3/3180.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Budimir,DL,0,50,0,0,26,3.3,"['1', '2', '-', '2', '9']",1,2,0,2,9,2.8,4520000,https://www.comuniate.com/caras3/2808.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg
+3,CA Osasuna,Barbero,DL,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,220000,https://www.comuniate.com/caras3/3137.png,https://www.comuniate.com/intranet/equipos/fotos/114.jpg

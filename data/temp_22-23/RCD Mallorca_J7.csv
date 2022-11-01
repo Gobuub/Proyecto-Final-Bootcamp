@@ -1,0 +1,28 @@
+Team_id,Team,Player,Position,Matchs,On_start_%,Goals,Assists,Total_Points,Points_Average,Last_5_games_points,J_7,J_6,J_5,J_4,J_3,Avg_last_5_games,Value,img,squad_img
+9,RCD Mallorca,Rajkovic,PT,7,100,1,0,27,3.9,"['6', '2', '-1', '6', '2']",6,2,-1,6,2,3.0,3750000,https://www.comuniate.com/caras3/3302.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Greif,PT,7,0,1,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,210000,https://www.comuniate.com/caras3/3120.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Leo Román,PT,7,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,570000,https://www.comuniate.com/caras3/3213.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Raíllo,DF,7,100,0,0,35,5,"['7', '13', '1', '4', '2']",7,13,1,4,2,5.4,3880000,https://www.comuniate.com/caras3/2061.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Maffeo,DF,7,100,0,0,33,4.7,"['7', '0', '0', '13', '4']",7,0,0,13,4,4.8,3730000,https://www.comuniate.com/caras3/2453.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Martin Valjent,DF,7,100,3,0,30,4.3,"['7', '4', '1', '5', '2']",7,4,1,5,2,3.8,2570000,https://www.comuniate.com/caras3/2796.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Copete,DF,7,86,1,3,28,4.7,"['7', '3', '-', '6', '3']",7,3,0,6,3,3.8,2800000,https://www.comuniate.com/caras3/3285.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Jaume Costa,DF,6,100,0,0,20,2.9,"['5', '3', '-1', '3', '2']",5,3,-1,3,2,2.4,2600000,https://www.comuniate.com/caras3/1489.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Braian Cufré,DF,7,0,0,1,5,5,"['-', '-', '-', '-', '5']",0,0,0,0,5,1.0,380000,https://www.comuniate.com/caras3/3090.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Nastasic,DF,5,14,0,0,0,0,"['-', '-', '0', '-', '-']",0,0,0,0,0,0.0,1080000,https://www.comuniate.com/caras3/3340.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Josep Gayá,DF,6,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,230000,https://www.comuniate.com/caras3/3171.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Giovanni González,DF,7,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,290000,https://www.comuniate.com/caras3/3228.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Franco Russo,DF,5,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,340000,https://www.comuniate.com/caras3/2805.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Kang-In Lee,MD,5,100,0,0,53,7.6,"['11', '11', '6', '4', '6']",11,11,6,4,6,7.6,4620000,https://www.comuniate.com/caras3/2731.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Grenier,MD,1,57,0,0,23,3.8,"['4', '2', '4', '5', '-']",4,2,4,5,0,3.0,2440000,https://www.comuniate.com/caras3/3237.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Dani Rodríguez,MD,6,71,0,0,19,2.7,"['5', '4', '1', '2', '3']",5,4,1,2,3,3.0,2210000,https://www.comuniate.com/caras3/2797.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Ruiz de Galarreta,MD,4,43,0,0,18,3.6,"['2', '2', '5', '4', '5']",2,2,5,4,5,3.6,1800000,https://www.comuniate.com/caras3/1566.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Idrissu Baba,MD,1,14,0,0,13,2.6,"['-', '-', '1', '2', '4']",0,0,1,2,4,1.4,1540000,https://www.comuniate.com/caras3/2798.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Antonio Sánchez,MD,1,43,0,0,12,1.7,"['1', '2', '1', '2', '3']",1,2,1,2,3,1.8,630000,https://www.comuniate.com/caras3/3095.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Rodrigo Battaglia,MD,1,71,0,0,10,2,"['2', '3', '2', '-', '-']",2,3,2,0,0,1.4,990000,https://www.comuniate.com/caras3/2986.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Lago Júnior,MD,0,0,0,0,8,2,"['-', '-', '2', '-', '2']",0,0,2,0,2,0.8,360000,https://www.comuniate.com/caras3/962.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Javi Llabres,MD,0,0,0,0,2,2,"['2', '-', '-', '-', '-']",2,0,0,0,0,0.4,250000,https://www.comuniate.com/caras3/3208.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Amath Ndiaye,MD,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,320000,https://www.comuniate.com/caras3/2404.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Muriqi,DL,0,100,0,0,41,5.9,"['11', '4', '10', '1', '4']",11,4,10,1,4,6.0,13120000,https://www.comuniate.com/caras3/3230.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Abdón Prats,DL,0,0,0,0,15,2.5,"['2', '4', '1', '2', '-']",2,4,1,2,0,1.8,730000,https://www.comuniate.com/caras3/1501.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Ángel Rodríguez,DL,0,0,0,0,2,2,"['-', '-', '-', '2', '-']",0,0,0,2,0,0.4,1150000,https://www.comuniate.com/caras3/1014.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg
+9,RCD Mallorca,Kadewere,DL,0,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,1520000,https://www.comuniate.com/caras3/3330.png,https://www.comuniate.com/intranet/equipos/fotos/116.jpg

@@ -1,0 +1,28 @@
+Team_id,Team,Player,Position,Total_Points,Points_Average,Value,On_start_%,Last_5_games_points,J_8,J_7,J_6,J_5,J_4,Avg_last_5_games,img,squad_img
+1,Athletic Club,Unai Simón,PT,39,4.9,4590000,100,"['2', '2', '2', '8', '4']",2,2,2,8,4,3.6,https://www.comuniate.com/caras3/2669.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Agirrezabala,PT,0,0,360000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/3140.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Ander Iru,PT,0,0,280000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/3309.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,De Marcos,DF,46,5.8,5900000,100,"['5', '4', '2', '7', '5']",5,4,2,7,5,4.6,https://www.comuniate.com/caras3/1032.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Yeray Álvarez,DF,40,5.7,5030000,88,"['5', '-', '3', '5', '5']",5,0,3,5,5,3.6,https://www.comuniate.com/caras3/2326.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Lekue,DF,26,4.3,2570000,75,"['3', '2', '4', '7', '2']",3,2,4,7,2,3.6,https://www.comuniate.com/caras3/2140.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Daniel Vivian,DF,23,4.6,2790000,63,"['4', '1', '-', '-', '-']",4,1,0,0,0,1.0,https://www.comuniate.com/caras3/2968.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Iñigo Martínez,DF,21,5.3,7430000,50,"['-', '5', '4', '7', '5']",0,5,4,7,5,4.2,https://www.comuniate.com/caras3/1424.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Yuri Berchiche,DF,14,7,5260000,25,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/1074.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Aitor Paredes,DF,3,3,370000,0,"['-', '-', '-', '3', '-']",0,0,0,3,0,0.6,https://www.comuniate.com/caras3/3331.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Capa,DF,0,0,550000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/1866.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Balenziaga,DF,0,0,370000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/937.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Nico Williams,MD,63,7.9,13820000,88,"['5', '12', '14', '13', '2']",5,12,14,13,2,9.2,https://www.comuniate.com/caras3/3084.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Álex Berenguer,MD,61,7.6,11680000,100,"['9', '13', '7', '2', '4']",9,13,7,2,4,7.0,https://www.comuniate.com/caras3/2241.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Mikel Vesga,MD,46,6.6,5130000,50,"['5', '4', '-', '11', '9']",5,4,0,11,9,5.8,https://www.comuniate.com/caras3/2305.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Muniain,MD,43,5.4,12490000,100,"['5', '4', '0', '7', '9']",5,4,0,7,9,5.0,https://www.comuniate.com/caras3/1053.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Dani García,MD,16,3.2,1330000,50,"['-', '2', '5', '5', '4']",0,2,5,5,4,3.2,https://www.comuniate.com/caras3/1864.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Jon Morcillo,MD,11,1.8,540000,0,"['-', '3', '2', '2', '-']",0,3,2,2,0,1.4,https://www.comuniate.com/caras3/2994.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Zarraga,MD,11,2.2,650000,0,"['2', '4', '2', '-', '2']",2,4,2,0,2,2.0,https://www.comuniate.com/caras3/3030.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Unai Vencedor,MD,4,2,1330000,0,"['-', '-', '3', '2', '-1']",0,0,3,2,-1,0.8,https://www.comuniate.com/caras3/2907.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Ander Herrera,MD,4,1.3,6580000,0,"['2', '-', '-', '-', '-']",2,0,0,0,0,0.4,https://www.comuniate.com/caras3/1016.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Malcom Adu,MD,0,0,360000,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,https://www.comuniate.com/caras3/3316.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Williams,DL,45,5.6,11870000,100,"['2', '4', '13', '14', '0']",2,4,13,14,0,6.6,https://www.comuniate.com/caras3/1995.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Sancet,DL,39,4.9,6600000,100,"['0', '8', '8', '9', '3']",0,8,8,9,3,5.6,https://www.comuniate.com/caras3/2662.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Guruzeta,DL,22,5.5,1940000,0,"['2', '3', '-', '-', '-']",2,3,0,0,0,1.0,https://www.comuniate.com/caras3/2664.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Raúl García,DL,17,2.4,2420000,0,"['1', '2', '-', '-', '3']",1,2,0,0,3,1.2,https://www.comuniate.com/caras3/415.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg
+1,Athletic Club,Villalibre,DL,6,3,1520000,13,"['-', '-', '-', '2', '-']",0,0,0,2,0,0.4,https://www.comuniate.com/caras3/2338.png,https://www.comuniate.com/intranet/equipos/fotos/1.jpg

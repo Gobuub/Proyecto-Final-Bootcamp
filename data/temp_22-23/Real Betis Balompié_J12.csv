@@ -1,0 +1,29 @@
+Team_id,Team,Player,Position,Matchs,On_start_%,Goals,Assists,Total_Points,Points_Average,Last_5_games_points,J_12,J_11,J_10,J_9,J_8,Avg_last_5_games,Value,img,squad_img
+10,Real Betis Balompié,Rui Silva,PT,11,92,0,3,66,6,"['8', '5', '-', '0', '13']",8,5,0,0,13,5.2,4790000,https://www.comuniate.com/caras3/2360.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Claudio Bravo,PT,11,8,0,0,9,9,"['-', '-', '9', '-', '-']",0,0,9,0,0,1.8,860000,https://www.comuniate.com/caras3/201.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Dani Martín,PT,12,0,8,2,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,180000,https://www.comuniate.com/caras3/2836.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Álex Moreno,DF,10,92,0,0,47,4.3,"['5', '5', '-', '4', '12']",5,5,0,4,12,5.2,4790000,https://www.comuniate.com/caras3/1908.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Édgar González,DF,11,58,2,1,44,4.9,"['4', '-', '4', '-', '4']",4,0,4,0,4,2.4,3680000,https://www.comuniate.com/caras3/2869.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Pezzella,DF,10,75,1,0,37,3.7,"['-5', '-', '7', '2', '6']",-5,0,7,2,6,2.0,4010000,https://www.comuniate.com/caras3/2094.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Sabaly,DF,10,42,0,0,27,3.9,"['3', '5', '3', '1', '2']",3,5,3,1,2,2.8,2760000,https://www.comuniate.com/caras3/3101.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Luiz Felipe,DF,10,50,0,1,20,2.9,"['-', '2', '-', '2', '-']",0,2,0,2,0,0.8,3540000,https://www.comuniate.com/caras3/3288.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Víctor Ruiz,DF,9,17,0,0,13,4.3,"['5', '4', '-', '4', '-']",5,4,0,4,0,2.6,970000,https://www.comuniate.com/caras3/1097.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Martín Montoya,DF,9,25,1,0,12,4,"['3', '-', '-', '-', '-']",3,0,0,0,0,0.6,620000,https://www.comuniate.com/caras3/1325.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Juan Miranda,DF,7,8,0,0,0,0,"['-', '-', '4', '-', '-']",0,0,4,0,0,0.8,490000,https://www.comuniate.com/caras3/2985.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Fran Delgado,DF,7,0,0,0,2,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,240000,https://www.comuniate.com/caras3/3319.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,William Carvalho,MD,7,83,1,1,59,5.4,"['2', '19', '4', '2', '2']",2,19,4,2,2,5.8,8200000,https://www.comuniate.com/caras3/2628.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Guido Rodríguez,MD,11,83,0,0,53,5.3,"['5', '3', '7', '5', '-']",5,3,7,5,0,4.0,6470000,https://www.comuniate.com/caras3/2893.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Canales,MD,4,58,2,0,41,4.6,"['2', '6', '1', '-', '1']",2,6,1,0,1,2.0,15800000,https://www.comuniate.com/caras3/947.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Aitor Ruibal,MD,7,33,0,0,39,3.5,"['2', '2', '4', '7', '-']",2,2,4,7,0,3.0,2200000,https://www.comuniate.com/caras3/2504.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Fekir,MD,3,42,0,0,36,5.1,"['-', '-', '-', '11', '3']",0,0,0,11,3,2.8,16390000,https://www.comuniate.com/caras3/2837.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Rodrigo Sánchez,MD,3,83,0,0,34,3.4,"['2', '2', '3', '2', '-']",2,2,3,2,0,1.8,2680000,https://www.comuniate.com/caras3/3033.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Luiz Henrique,MD,5,67,0,0,33,3.3,"['4', '5', '6', '1', '4']",4,5,6,1,4,4.0,5380000,https://www.comuniate.com/caras3/3245.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Joaquín,MD,8,8,0,0,22,4.4,"['-', '7', '7', '2', '-']",0,7,7,2,0,3.2,990000,https://www.comuniate.com/caras3/111.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Guardado,MD,5,25,0,1,21,3,"['-', '2', '4', '5', '6']",0,2,4,5,6,3.4,860000,https://www.comuniate.com/caras3/641.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Paul Akouokou,MD,2,17,0,0,14,2.8,"['-', '-', '-', '-', '4']",0,0,0,0,4,0.8,520000,https://www.comuniate.com/caras3/2993.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Juan Cruz,MD,1,0,0,0,11,3.7,"['-', '2', '1', '1', '9']",0,2,1,1,9,2.6,640000,https://www.comuniate.com/caras3/0.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Camarasa,MD,4,0,1,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,230000,https://www.comuniate.com/caras3/1807.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Borja Iglesias,DL,2,92,0,0,98,8.2,"['6', '14', '2', '5', '10']",6,14,2,5,10,7.4,19350000,https://www.comuniate.com/caras3/2009.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Juanmi Jiménez,DL,2,33,0,0,19,4.8,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,6450000,https://www.comuniate.com/caras3/1112.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Willian José,DL,1,8,0,0,18,2.3,"['3', '2', '2', '-', '-']",3,2,2,0,0,1.4,3480000,https://www.comuniate.com/caras3/1847.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg
+10,Real Betis Balompié,Loren Morón,DL,0,0,0,0,5,2.5,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,390000,https://www.comuniate.com/caras3/2533.png,https://www.comuniate.com/intranet/equipos/fotos/9.jpg

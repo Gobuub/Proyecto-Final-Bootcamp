@@ -1,0 +1,29 @@
+Team_id,Team,Player,Position,Matchs,On_start_%,Goals,Assists,Total_Points,Points_Average,Last_5_games_points,J_7,J_6,J_5,J_4,J_3,Avg_last_5_games,Value,img,squad_img
+16,UD Almería,Fernando Martínez,PT,7,100,0,0,33,4.7,"['7', '6', '4', '2', '-1']",7,6,4,2,-1,3.6,3530000,https://www.comuniate.com/caras3/3259.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Pacheco,PT,7,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,1580000,https://www.comuniate.com/caras3/1983.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Akieme,DF,7,100,0,0,30,4.3,"['8', '4', '5', '5', '1']",8,4,5,5,1,4.6,3370000,https://www.comuniate.com/caras3/2589.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Rodrigo Ely,DF,7,100,0,0,29,4.1,"['6', '5', '5', '4', '0']",6,5,5,4,0,4.0,2730000,https://www.comuniate.com/caras3/2365.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Babic,DF,7,100,0,0,19,2.7,"['1', '2', '5', '6', '1']",1,2,5,6,1,3.0,1900000,https://www.comuniate.com/caras3/3263.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Álex Pozo,DF,7,57,2,0,15,3.8,"['8', '3', '2', '2', '-']",8,3,2,2,0,3.0,1400000,https://www.comuniate.com/caras3/2407.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Kaiky,DF,7,57,0,1,13,2.6,"['2', '0', '-', '-', '2']",2,0,0,0,2,0.8,1730000,https://www.comuniate.com/caras3/3301.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Chumi,DF,5,29,0,0,11,2.8,"['2', '-', '-', '2', '-']",2,0,0,2,0,0.8,680000,https://www.comuniate.com/caras3/3261.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Juanjo Nieto,DF,4,0,0,1,0,0,"['1', '-', '-', '-', '-1']",1,0,0,0,-1,0.0,300000,https://www.comuniate.com/caras3/3262.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Iván Martos,DF,5,0,0,1,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,260000,https://www.comuniate.com/caras3/3274.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Mendes,DF,3,14,2,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,640000,https://www.comuniate.com/caras3/3290.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Álex Centelles,DF,6,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,260000,https://www.comuniate.com/caras3/3273.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Ramazani,MD,4,100,0,0,33,4.7,"['8', '2', '1', '4', '2']",8,2,1,4,2,3.4,5500000,https://www.comuniate.com/caras3/3268.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Robertone,MD,3,100,0,0,31,4.4,"['5', '5', '6', '2', '2']",5,5,6,2,2,4.0,4580000,https://www.comuniate.com/caras3/3266.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Samu Costa,MD,5,100,0,0,26,3.7,"['2', '1', '6', '5', '3']",2,1,6,5,3,3.4,2280000,https://www.comuniate.com/caras3/3264.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Eguaras,MD,6,57,0,0,20,4,"['1', '-', '3', '-', '3']",1,0,3,0,3,1.4,2140000,https://www.comuniate.com/caras3/3265.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Embarba,MD,4,14,0,0,18,3.6,"['-', '2', '4', '3', '5']",0,2,4,3,5,2.8,1920000,https://www.comuniate.com/caras3/1788.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Francisco Portillo,MD,2,14,0,0,12,2,"['-', '1', '3', '2', '2']",0,1,3,2,2,1.6,980000,https://www.comuniate.com/caras3/1113.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Lázaro Vinicius,MD,4,29,0,0,7,2.3,"['-', '-', '2', '4', '1']",0,0,2,4,1,1.4,1620000,https://www.comuniate.com/caras3/3343.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Arnau Puigmal,MD,2,14,0,0,6,1.2,"['-', '-', '2', '3', '-2']",0,0,2,3,-2,0.6,570000,https://www.comuniate.com/caras3/3267.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Melero,MD,2,0,0,0,4,4,"['-', '-', '-', '4', '-']",0,0,0,4,0,0.8,1530000,https://www.comuniate.com/caras3/2581.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,De la Hoz,MD,2,14,0,0,4,2,"['2', '2', '-', '-', '-']",2,2,0,0,0,0.8,1020000,https://www.comuniate.com/caras3/3275.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Gui Guedes,MD,1,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,500000,https://www.comuniate.com/caras3/3284.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Svidersky,MD,1,0,0,0,0,0,"['-', '-', '-', '-', '-']",0,0,0,0,0,0.0,510000,https://www.comuniate.com/caras3/3291.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Dyego Sousa,DL,2,29,0,0,18,3,"['-', '3', '4', '2', '5']",0,3,4,2,5,2.8,1610000,https://www.comuniate.com/caras3/3271.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Leo Baptistão,DL,0,14,0,0,11,2.8,"['3', '4', '-', '-', '2']",3,4,0,0,2,1.8,3430000,https://www.comuniate.com/caras3/1568.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,El Bilal Touré,DL,0,14,0,0,4,2,"['-', '-', '2', '2', '-']",0,0,2,2,0,0.8,3510000,https://www.comuniate.com/caras3/3342.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
+16,UD Almería,Milovanovic,DL,0,0,0,0,4,2,"['-', '2', '2', '-', '-']",0,2,2,0,0,0.8,1050000,https://www.comuniate.com/caras3/3297.png,https://www.comuniate.com/intranet/equipos/fotos/22.jpg
